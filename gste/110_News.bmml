@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="28" y="378" w="226" h="54" measuredW="226" measuredH="54" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22129%2C386%2C160%2C432%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C386%2C66%2C432%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C386%2C207%2C432%22%20href%3D%22140_Master.bmml%22%20alt%3D%22140_Master%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C386%2C113%2C432%22%20href%3D%22120_PaperList.bmml%22%20alt%3D%22120_PaperList%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22223%2C386%2C254%2C432%22%20href%3D%22150_ExaminationMore.bmml%22%20alt%3D%22150_ExaminationMore%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22129%2C386%2C160%2C432%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C386%2C66%2C432%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C386%2C207%2C432%22%20href%3D%22140_Master.bmml%22%20alt%3D%22140_Master%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2282%2C386%2C113%2C432%22%20href%3D%22120_PaperList.bmml%22%20alt%3D%22120_PaperList%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22223%2C386%2C254%2C432%22%20href%3D%22150_ExaminationMore.bmml%22%20alt%3D%22150_ExaminationMore%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="101" y="8" w="-1" h="-1">
+          <color>0</color>
+        </override>
+        <override controlID="1" x="7" y="8" w="-1" h="-1">
+          <color>65535</color>
+        </override>
+        <override controlID="2" x="0" y="0" w="43" h="53"/>
+        <override controlID="3" x="148" y="8" w="-1" h="-1"/>
+        <override controlID="4" x="54" y="8" w="-1" h="-1">
+          <color>0</color>
+        </override>
+        <override controlID="5" x="195" y="8" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Tabbar%20For%20Industry</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="105" y="105" w="-1" h="-1" measuredW="71" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u521D%u7EA7%u4F1A%u8BA1%u5E08</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="225" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2011%u6C5F%u82CF%u4F1A%u8BA1%u8BC1%u8D22%u7ECF%u6CD5%u89C4%u91CD%u70B9%u8BB2%u4E49%uFF1A%u4F1A%u8BA1%u6838%u7B97%0A%u6CB3%u5357%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%u529E%u8BC1%u5E38%u89C1%u95EE%u9898%u7B54%u7591%0A%u6D59%u6C5F2012%u4F1A%u8BA1%u8BC1%u300A%u4F1A%u8BA1%u57FA%u7840%u300B%u8003%u8BD5%u91CD%u70B9%uFF1A%u8D22%u52A1%u4F1A%0A%u6D59%u6C5F2012%u4F1A%u8BA1%u8BC1%u300A%u8D22%u7ECF%u6CD5%u89C4%u300B%u8003%u8BD5%u91CD%u70B9%uFF1A%u9884%u7B97%u6CD5%0A2011%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%u300A%u4F1A%u8BA1%u6CD5%u300B%u91CD%u70B9%u77E5%u8BC6%u89E3%u7B54</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::PointyButton" x="35" y="104" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>102_ExaminationExpand%26bm%3B102_ExaminationExpand.bmml%26bm%3B102_ExaminationExpand.bmml%26bm%3B102_ExaminationExpand.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C104%2C82%2C131%22%20href%3D%22102_ExaminationExpand.bmml%22%20alt%3D%22102_ExaminationExpand%22%20id%3D%2219%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::FieldSet" x="33" y="143" w="215" h="80" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u65B0%u95FB%u56FE%u7247</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

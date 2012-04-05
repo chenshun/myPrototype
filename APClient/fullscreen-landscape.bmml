@@ -1,0 +1,34 @@
+<mockup version="1.0" skin="sketch" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="106" y="122" w="1026" h="752" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6B63%u6587%u5185%u5BB9%u5168%u5C4F%u663E%u793A</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="106" y="122" w="1024" h="44" measuredW="1024" measuredH="44" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C130%2C186%2C157%22%20href%3D%22local-landscape.bmml%22%20alt%3D%22local-landscape%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C130%2C186%2C157%22%20href%3D%22local-landscape.bmml%22%20alt%3D%22local-landscape%22%20id%3D%224%22/%3E</map>
+        <override controlID="4">
+          <color>2848996</color>
+          <direction>center</direction>
+          <href>local-landscape%26bm%3Blocal-landscape.bmml%26bm%3Blocal-landscape.bmml%26bm%3Blocal-landscape.bmml</href>
+          <text>%u9000%u51FA</text>
+        </override>
+        <override controlID="1">
+          <text>%u83DC%u5355</text>
+        </override>
+        <src>./assets/iPad%20Controls.bmml#iPad%20Bar%2C%20Black%2C%20Back%20Button</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Tooltip" x="382" y="173" w="464" h="77" measuredW="464" measuredH="77" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u70B9%u51FB%u4E00%u4E0B%u6B63%u6587%u5185%u5BB9%u7684%u4EFB%u610F%u90E8%u5206%uFF0C%u6D6E%u52A8%u51FA%u8BE5%u83DC%u5355%u3002%u5728%u83DC%u5355%u5B58%u5728%u60C5%u51B5%u4E0B%u70B9%u51FB%u6B63%u6587%u90E8%u5206%uFF0C%u5219%u83DC%u5355%u6D88%u5931%u3002</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

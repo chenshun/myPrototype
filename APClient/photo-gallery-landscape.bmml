@@ -1,0 +1,112 @@
+<mockup version="1.0" skin="sketch" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="106" y="122" w="1024" h="44" measuredW="1024" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C130%2C186%2C157%22%20href%3D%22photo-landscape.bmml%22%20alt%3D%22photo-landscape%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C130%2C186%2C157%22%20href%3D%22photo-landscape.bmml%22%20alt%3D%22photo-landscape%22%20id%3D%224%22/%3E</map>
+        <override controlID="4">
+          <color>2848996</color>
+          <direction>center</direction>
+          <href>photo-landscape%26bm%3Bphoto-landscape.bmml%26bm%3Bphoto-landscape.bmml%26bm%3Bphoto-landscape.bmml</href>
+          <text>%u9000%u51FA</text>
+        </override>
+        <override controlID="1">
+          <text>%u83DC%u5355</text>
+        </override>
+        <src>./assets/iPad%20Controls.bmml#iPad%20Bar%2C%20Black%2C%20Back%20Button</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="130" y="200" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u56FE%u72471</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="655" y="199" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u56FE%u72471</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="246" y="215" w="77" h="47" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u56FE%u72472</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="500" y="199" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u56FE%u72471</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="383" y="199" w="52" h="79" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u56FE%u72473</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="1031" y="132" w="66" h="27" measuredW="66" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <menuIcon>true</menuIcon>
+          <text>%u5E7B%u706F%u7247</text>
+        </override>
+        <src>./assets/iPad%20Controls.bmml#iPad%20Button%20Black</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="858" y="169" w="265" h="354" measuredW="265" measuredH="354" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Popover%204</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="96" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="24" w="265" h="330" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+          </controlProperties>
+        </control>
+        <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="6" y="32" w="253" h="29" measuredW="42" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+          <controlProperties>
+            <align>center</align>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>18</size>
+            <text>%u9009%u9879</text>
+          </controlProperties>
+        </control>
+        <control controlID="103" controlTypeID="com.balsamiq.mockups::RoundButton" x="200" y="0" w="38" h="48" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>diamond</shape>
+          </controlProperties>
+        </control>
+        <control controlID="105" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="67" w="250" h="275" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="112" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="15" y="112" w="230" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>%u968F%u673A%2C%20%u2714%0A%u79FB%u5165%0A%u6AAB%u9664%0A%u63ED%u793A%0A%u6E10%u9690</text>
+          </controlProperties>
+        </control>
+        <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="15" y="82" w="230" h="25" measuredW="62" measuredH="22" zOrder="5" locked="false" isInGroup="10">
+          <controlProperties>
+            <size>14</size>
+            <text>%u8F6C%u6362%u6548%u679C</text>
+          </controlProperties>
+        </control>
+        <control controlID="117" controlTypeID="com.balsamiq.mockups::PointyButton" x="15" y="291" w="230" h="-1" measuredW="86" measuredH="27" zOrder="6" locked="false" isInGroup="10">
+          <controlProperties>
+            <direction>center</direction>
+            <text>%u5F00%u59CB%u5E7B%u706F%u7247</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

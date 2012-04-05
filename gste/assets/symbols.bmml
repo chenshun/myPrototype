@@ -1,0 +1,155 @@
+<mockup version="1.0" skin="sketch" measuredW="619" measuredH="452" mockupW="559" mockupH="432">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="218" h="311" measuredW="218" measuredH="311" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Listen%20Paper%20Base%20Info</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>2848996</color>
+            <direction>left</direction>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C60%2C27%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%220%22/%3E</map>
+            <text>%u64AD%u97F3%u5BA4</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="73" y="3" w="-1" h="-1" measuredW="97" measuredH="23" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>16777215</color>
+            <text>%u9AD8%u8003%u542C%u529B%u7B2C%u4E00%u518C</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="3" y="37" w="215" h="274" measuredW="215" measuredH="274" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <controlName>Listen%20Paper%20Base%20Info</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>%u51FA%u5377%u4EBA%2C%u9AD8%u8001%u5E08%0A%u6D4B%u8BD5%u5355%u8BCD%2C100%u4E2A%0A%u9ED8%u5199%u65F6%u95F4%2C60%u5206%u949F</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="45" y="251" w="-1" h="-1" measuredW="145" measuredH="23" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>%u5907%u6CE8%uFF1A%u5355%u8BCD100%uFF0C%u8BCD%u7EC410</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="378" y="29" w="241" h="53" measuredW="241" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>GSTE%20Tabbar%20and%20Title</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="9" y="4" w="55" h="-1" measuredW="31" measuredH="47" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>100_Examination%26bm%3B100_Examination.bmml%26bm%3B100_Examination.bmml%26bm%3B100_Examination.bmml</href>
+            <icon>PencilIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C13%2C382%2C60%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E</map>
+            <text>%u8003%u8BD5</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="3" w="48" h="-1" measuredW="31" measuredH="47" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <icon>TapeIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22390%2C12%2C438%2C59%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%222%22/%3E</map>
+            <text>%u9ED8%u5199</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="129" y="4" w="57" h="-1" measuredW="31" measuredH="47" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>260_PersonalCenter%26bm%3B260_PersonalCenter.bmml%26bm%3B260_PersonalCenter.bmml%26bm%3B260_PersonalCenter.bmml</href>
+            <icon>UserIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22447%2C13%2C504%2C60%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E</map>
+            <text>%u7A7A%u95F4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="186" y="3" w="55" h="-1" measuredW="31" measuredH="47" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>EllipsisIcon%7Csmall</icon>
+            <text>%u66F4%u591A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="71" h="53" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="378" y="136" w="219" h="53" measuredW="219" measuredH="53" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tabbar%20For%20Industry</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="94" y="6" w="-1" h="-1" measuredW="31" measuredH="47" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <href>130_RealPaper%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml</href>
+            <icon>NumberedListIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C122%2C443%2C169%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E</map>
+            <text>%u771F%u9898</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="6" w="-1" h="-1" measuredW="31" measuredH="47" zOrder="1" locked="false" isInGroup="4">
+          <controlProperties>
+            <href>110_News%26bm%3B110_News.bmml%26bm%3B110_News.bmml%26bm%3B110_News.bmml</href>
+            <icon>RSSIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22318%2C122%2C349%2C169%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E</map>
+            <text>%u65B0%u95FB</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="40" y="0" w="43" h="53" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="4">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="6" w="-1" h="-1" measuredW="31" measuredH="47" zOrder="3" locked="false" isInGroup="4">
+          <controlProperties>
+            <href>140_Master%26bm%3B140_Master.bmml%26bm%3B140_Master.bmml%26bm%3B140_Master.bmml</href>
+            <icon>DataBaseIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22459%2C122%2C490%2C169%22%20href%3D%22140_Master.bmml%22%20alt%3D%22140_Master%22%20id%3D%223%22/%3E</map>
+            <text>%u540D%u5E08</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="47" y="6" w="-1" h="-1" measuredW="31" measuredH="47" zOrder="4" locked="false" isInGroup="4">
+          <controlProperties>
+            <href>120_PaperList%26bm%3B120_PaperList.bmml%26bm%3B120_PaperList.bmml%26bm%3B120_PaperList.bmml</href>
+            <icon>FileIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22365%2C122%2C396%2C169%22%20href%3D%22120_PaperList.bmml%22%20alt%3D%22120_PaperList%22%20id%3D%224%22/%3E</map>
+            <text>%u8BD5%u5377</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="6" w="-1" h="-1" measuredW="31" measuredH="47" zOrder="5" locked="false" isInGroup="4">
+          <controlProperties>
+            <href>150_ExaminationMore%26bm%3B150_ExaminationMore.bmml%26bm%3B150_ExaminationMore.bmml%26bm%3B150_ExaminationMore.bmml</href>
+            <icon>EllipsisIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22506%2C122%2C537%2C169%22%20href%3D%22150_ExaminationMore.bmml%22%20alt%3D%22150_ExaminationMore%22%20id%3D%225%22/%3E</map>
+            <text>%u66F4%u591A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="390" y="268" w="215" h="184" measuredW="215" measuredH="184" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Paper%20List</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="184" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <text>2008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%u8BD5%u5377%u300A%u4F1A%u8BA1%u57FA%u7840%u300B%u8BD5%u9898%2C%20_%0A%u6E56%u5317%u77012008%u5E74%uFF08%u4E0B%u534A%u5E74%uFF09%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29%0A%u4E0A%u6D772008%u5E74%u4E0A%u534A%u5E74%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u300A%u4F1A%u8BA1%u57FA%u7840%u300B%u8BD5%u9898%2C%20%28%3E%29%0A%u6E56%u53572010%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29%0A2010%u5E74%u798F%u5EFA%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5V2%2C%20%28%3E%29%0A%u798F%u5EFA%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="193" y="11" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <color>2848996</color>
+            <icon>GtCircledIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
