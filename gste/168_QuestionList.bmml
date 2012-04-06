@@ -1,81 +1,31 @@
-<mockup version="1.0" skin="sketch" measuredW="418" measuredH="510" mockupW="335" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="365" measuredH="510" mockupW="282" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="83" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="115" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="115" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C79%2C132%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C80%2C132%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="115" y="167" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="115" y="145" w="-1" h="-1" measuredW="215" measuredH="271" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C172%2C247%2C201%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%222_0%22/%3E%0A</map>
+        <hrefs>%2C170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C179%2C247%2C208%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%222_0%22/%3E%0A</map>
         <markup>true</markup>
-        <text>1.%u7B2C%u4E00%u9898%0A2.%u7B2C%u4E8C%u9898%0A3.%u7B2C%u4E09%u9898</text>
+        <text>%u5355%u9009%u9898%0A_%201.%u7B2C%u4E00%u9898%0A*%202.%u7B2C%u4E8C%u9898%0A-%203.%u7B2C%u4E09%u9898%0A%u591A%u9009%u9898%2C%20%3E%0A%u5224%u65AD%u9898%2C%20%3E%0A%u586B%u7A7A%u9898%2C%20%3E%0A%u95EE%u7B54%u9898%2C%20%3E%0A%u591A%u7EA7%u9898%u5E72%u9898%2C%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="115" y="294" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="303" y="154" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>1.%u7B2C%u4E00%u9898%0A2.%u7B2C%u4E8C%u9898%0A3.%u7B2C%u4E09%u9898</text>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="122" y="144" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%u5355%u9009%u9898</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="122" y="271" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%u591A%u9009%u9898</text>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="167" w="215" h="34" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
-        <color>10066329</color>
-        <href>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C167%2C247%2C201%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%226%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="198" w="215" h="34" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
         <color>2848996</color>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="118" y="357" w="211" h="34" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
-        <color>10066329</color>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::CallOut" x="362" y="164" w="56" h="37" measuredW="56" measuredH="39" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
-        <color>10066329</color>
-        <text>%u5DF2%u505A</text>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::CallOut" x="362" y="199" w="-1" h="-1" measuredW="56" measuredH="39" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
-        <color>2848996</color>
-        <text>%u6807%u8BB0</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::CallOut" x="362" y="235" w="-1" h="-1" measuredW="56" measuredH="39" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>1</backgroundAlpha>
-        <color>16777215</color>
-        <text>%u672A%u4F5C</text>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>

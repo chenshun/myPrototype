@@ -5,12 +5,12 @@
         <bgPattern>topBlueBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="223" y="107" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="223" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>167_AbortExam%26bm%3B167_AbortExam.bmml%26bm%3B167_AbortExam.bmml%26bm%3B167_AbortExam.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C80%2C134%22%20href%3D%22167_AbortExam.bmml%22%20alt%3D%22167_AbortExam%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C81%2C134%22%20href%3D%22167_AbortExam.bmml%22%20alt%3D%22167_AbortExam%22%20id%3D%221%22/%3E</map>
         <text>%u653E%u5F03</text>
       </controlProperties>
     </control>
@@ -22,7 +22,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="274" y="109" w="-1" h="-1" measuredW="123" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="274" y="109" w="-1" h="-1" measuredW="124" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u6A21%u62DF%u8003%u8BD5%uFF0829/100%uFF09</text>
       </controlProperties>
@@ -37,7 +37,7 @@
         <icon>ForwardIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="255" y="395" w="39" h="-1" measuredW="47" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="255" y="395" w="39" h="-1" measuredW="48" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>center</direction>
@@ -46,7 +46,7 @@
         <text>%u4EA4%u5377</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="367" y="395" w="39" h="-1" measuredW="47" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="367" y="395" w="39" h="-1" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>center</direction>
@@ -67,7 +67,9 @@
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="223" y="261" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>_%201.%u5B50%u9898%u9898%u5E72%2C%20%3E%0A_%202.%u5B50%u9898%u9898%u5E72%2C%20%3E%0A_%203.%u5B50%u9898%u9898%u5E72%2C%20%3E%0A_%204%u5B50%u9898%u9898%u5E72%2C%20%3E</text>
+        <hrefs>181_MockMultiStemSingleChoice%26bm%3B181_MockMultiStemSingleChoice.bmml%26bm%3B181_MockMultiStemSingleChoice.bmml%26bm%3B181_MockMultiStemSingleChoice.bmml%2C185_MockMultiStemSubjective%26bm%3B185_MockMultiStemSubjective.bmml%26bm%3B185_MockMultiStemSubjective.bmml%26bm%3B185_MockMultiStemSubjective.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C266%2C248%2C295%22%20href%3D%22181_MockMultiStemSingleChoice.bmml%22%20alt%3D%22181_MockMultiStemSingleChoice%22%20id%3D%2216_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C295%2C248%2C324%22%20href%3D%22185_MockMultiStemSubjective.bmml%22%20alt%3D%22185_MockMultiStemSubjective%22%20id%3D%2216_1%22/%3E%0A</map>
+        <text>_%201.%u5B50%u9898%u9898%u5E72%u9009%u62E9%u9898%2C%20%3E%0A_%202.%u5B50%u9898%u9898%u5E72%u4E3B%u89C2%u9898%2C%20%3E%0A_%203.%u5B50%u9898%u9898%u5E72%u5DF2%u7ECF%u505A%u8FC7%u7684%2C%20%3E%0A_%204.%u5B50%u9898%u9898%u5E72%u5DF2%u7ECF%u505A%u8FC7%u7684%2C%20%3E</text>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="266" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
@@ -88,6 +90,12 @@
     <control controlID="21" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="356" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="225" y="323" w="212" h="64" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>10066329</color>
       </controlProperties>
     </control>
   </controls>
