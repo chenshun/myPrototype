@@ -5,63 +5,47 @@
         <bgPattern>topBlueBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="223" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
-        <href>180_MockMutliStem%26bm%3B180_MockMutliStem.bmml%26bm%3B180_MockMutliStem.bmml%26bm%3B180_MockMutliStem.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C81%2C134%22%20href%3D%22180_MockMutliStem.bmml%22%20alt%3D%22180_MockMutliStem%22%20id%3D%221%22/%3E</map>
-        <text>%u8FD4%u56DE</text>
+        <href>167_AbortExam%26bm%3B167_AbortExam.bmml%26bm%3B167_AbortExam.bmml%26bm%3B167_AbortExam.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C105%2C72%2C132%22%20href%3D%22167_AbortExam.bmml%22%20alt%3D%22167_AbortExam%22%20id%3D%221%22/%3E</map>
+        <text>%u653E%u5F03</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="274" y="109" w="-1" h="-1" measuredW="116" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%u591A%u5BB6%u9898%u5E72%u9898%uFF081/5%uFF09</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="223" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="223" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>RewindIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="405" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="405" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ForwardIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="302" y="397" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="302" y="397" w="-1" h="-1" measuredW="56" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>01%3A59%3A59</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="120" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="40" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u5355%u9009%u9898*%0A1.%20%u6559%u5E08%u4E0D%u76F4%u63A5%u5C06%u5B66%u4E60%u5185%u5BB9%u63D0%u4F9B%u7ED9%u5B66%u751F%uFF0C%u800C%u662F%u4E3A%u5B66%u751F%u521B%u8BBE%u95EE%u9898%u60C5%u5883%uFF0C%u5F15%u5BFC%u5B66%u751F%u53BB%u63A2%u7A76%u548C%u53D1%u73B0%u65B0%u77E5%u8BC6%u548C%u95EE%u9898%u7684%u65B9%u6CD5%u662F%uFF08%u3000%u3000%uFF09%u3002%20</text>
+        <text>*%u5355%u9009%u9898*%0A1.%20%u5355%u9009%u9898%u9898%u5E72%uFF08%u3000%u3000%uFF09%u3002%20</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="223" y="261" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Component" x="223" y="181" w="215" h="184" measuredW="215" measuredH="184" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>_%20A.%u8BB2%u6388%u6CD5%0A_%20B.%u53D1%u73B0%u6CD5%0A_%20C.%u638C%u63E1%u5B66%u4E60%u6CD5%0A_%20D%u5934%u8111%u98CE%u66B4%u6CD5%2C%20v</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C204%2C131%2C262%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C204%2C131%2C262%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C204%2C131%2C262%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <override controlID="3">
+          <icon>./assets/icon_circle_yellow.png%7Csmall</icon>
+        </override>
+        <src>./assets/symbols.bmml#SingleOptions</src>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="266" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="285" y="108" w="-1" h="-1" measuredW="115" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>CircleIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="297" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>CircleIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="327" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>CircleIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="356" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>CircleIcon%7Csmall</icon>
+        <text>%u591A%u7EA7%u9898%u5E72%u9898%uFF081/5%uFF09</text>
       </controlProperties>
     </control>
   </controls>
