@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" measuredW="472" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="190" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="40" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%u591A%u9009%u9898*%0A2.%20%u4EE5%u4E0B%u5C5E%u4E8E%u6C34%u679C%u7684%u662F%uFF08%u3000%u3000%uFF09%u3002%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="213" measuredW="215" measuredH="213" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <override controlID="1">
+          <icon>./assets/icon_circle_green.png%7Csmall</icon>
+        </override>
+        <override controlID="2">
+          <icon>./assets/icon_close.png%7Csmall</icon>
+        </override>
+        <override controlID="3">
+          <icon>./assets/icon_checked_shield_green.png%7Csmall</icon>
+        </override>
+        <override controlID="6">
+          <icon>./assets/icon_checked_shield_green.png%7Csmall</icon>
+        </override>
+        <src>./assets/symbols.bmml#MultiOptions</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C105%2C72%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%2248%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="264" y="107" w="-1" h="-1" measuredW="136" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9519%u9898%u56DE%u987E%uFF08No.2/100%uFF09</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::PointyButton" x="402" y="105" w="-1" h="-1" measuredW="37" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <href>168_QuestionList%26bm%3B168_QuestionList.bmml%26bm%3B168_QuestionList.bmml%26bm%3B168_QuestionList.bmml</href>
+        <icon>NumberedListIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C105%2C249%2C132%22%20href%3D%22168_QuestionList.bmml%22%20alt%3D%22168_QuestionList%22%20id%3D%2250%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Icon" x="219" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>172_ReviewSingleWrong%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml</href>
+        <icon>RewindIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C393%2C61%2C425%22%20href%3D%22172_ReviewSingleWrong.bmml%22%20alt%3D%22172_ReviewSingleWrong%22%20id%3D%2253%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Icon" x="412" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ForwardIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
