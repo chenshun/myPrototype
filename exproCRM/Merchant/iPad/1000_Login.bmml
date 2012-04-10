@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="345" y="168" w="525" h="121" measuredW="1119" measuredH="555" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/productLogo%25C2%2590%25C2%2588.png</src>
+        <text>%u4EA7%u54C1LOGO</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="426" y="324" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_user.png%7Clarge</icon>
+        <text>%u8001%u677F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="253" y="324" w="-1" h="-1" measuredW="57" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1002_LoginWithAccount%26bm%3B1002_LoginWithAccount.bmml%26bm%3B1002_LoginWithAccount.bmml%26bm%3B1002_LoginWithAccount.bmml</href>
+        <icon>./assets/icon_user_female.png%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C324%2C310%2C394%22%20href%3D%221002_LoginWithAccount.bmml%22%20alt%3D%221002_LoginWithAccount%22%20id%3D%225%22/%3E</map>
+        <text>%u8425%u4E1A%u5458%u7532</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="590" y="324" w="-1" h="-1" measuredW="57" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>./assets/icon_user_male.png%7Clarge</icon>
+        <text>%u8425%u4E1A%u5458%u4E59</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="763" y="324" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1004_LoginWithoutAccount%26bm%3B1004_LoginWithoutAccount.bmml%26bm%3B1004_LoginWithoutAccount.bmml%26bm%3B1004_LoginWithoutAccount.bmml</href>
+        <icon>%24ACCOUNT/assets/icon_stock_people.png%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22763%2C324%2C811%2C394%22%20href%3D%221004_LoginWithoutAccount.bmml%22%20alt%3D%221004_LoginWithoutAccount%22%20id%3D%227%22/%3E</map>
+        <text>%u5176%u4ED6...</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="936" y="324" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>1010_HomeForClerk%26bm%3B1010_HomeForClerk.bmml%26bm%3B1010_HomeForClerk.bmml%26bm%3B1010_HomeForClerk.bmml</href>
+        <icon>./assets/icon_anonymous.png%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22936%2C324%2C984%2C394%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%228%22/%3E</map>
+        <text>%u6F14%u793A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="233" y="462" w="382" h="216" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%u5217%u51FA%u6240%u6709%u5728%u8BE5%u8BBE%u5907%u4E0A%u767B%u9646%u8FC7%u7684%u8D26%u6237%u548C%u5176%u4ED6%u7528%u6237%u4EE5%u53CA%u6F14%u793A%u8D26%u6237%uFF0C%u5982%u679C%u6CA1%u6709%u767B%u9646%u8FC7%u7684%u7528%u6237%u5219%u53EA%u663E%u793A%u5176%u4ED6%u548C%u6F14%u793A%u8D26%u6237%u3002%0A2.%u767B%u9646%u8FC7%u7684%u8D26%u6237%u6309%u6700%u540E%u767B%u9646%u65F6%u95F4%u9760%u524D%u6392%u961F%u3002%0A3.%u5F53%u524D%u5DF2%u7ECF%u767B%u9646%u7684%u7528%u6237%u4F1A%u6709%u56FE%u6807%u533A%u522B%uFF0C%u89C1%u8425%u4E1A%u5458%u7532%u3002%0A4.%u5F53%u8D85%u8FC75%u5206%u949F%u6CA1%u6709%u64CD%u4F5C%uFF0C%u5219%u8FDB%u5165%u5230%u767B%u9646%u754C%u9762%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="246" y="349" w="25" h="25" measuredW="25" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPad%20Controls.bmml#iPad%20Check%20Filled</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
