@@ -5,33 +5,33 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="162" y="107" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="162" y="107" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u8003%u8BD5%u6210%u7EE9</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="81" y="104" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="81" y="104" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>130_RealPaper%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C104%2C79%2C131%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C104%2C78%2C131%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%222%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="79" y="383" w="-1" h="-1" measuredW="58" measuredH="47" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="79" y="383" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <href>171_ReviewSingleRight%26bm%3B171_ReviewSingleRight.bmml%26bm%3B171_ReviewSingleRight.bmml%26bm%3B171_ReviewSingleRight.bmml</href>
         <icon>CheckMarkIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C87%2C430%22%20href%3D%22171_ReviewSingleRight.bmml%22%20alt%3D%22171_ReviewSingleRight%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C86%2C429%22%20href%3D%22171_ReviewSingleRight.bmml%22%20alt%3D%22171_ReviewSingleRight%22%20id%3D%223%22/%3E</map>
         <text>%u5BF9%u9898%u56DE%u987E</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="242" y="383" w="-1" h="-1" measuredW="58" measuredH="47" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="242" y="383" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>172_ReviewSingleWrong%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml</href>
         <icon>CircledXIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C383%2C250%2C430%22%20href%3D%22172_ReviewSingleWrong.bmml%22%20alt%3D%22172_ReviewSingleWrong%22%20id%3D%224%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C383%2C249%2C429%22%20href%3D%22172_ReviewSingleWrong.bmml%22%20alt%3D%22172_ReviewSingleWrong%22%20id%3D%224%22/%3E</map>
         <text>%u9519%u9898%u56DE%u987E</text>
       </controlProperties>
     </control>
@@ -41,7 +41,7 @@
         <text>%u8BD5%u5377%u540D%u79F0%uFF1A%2C%202008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1...%0A%u8003%u751F%u59D3%u540D%uFF1A%2C%20%u5F20%u4E09%0A%u5F97%u5206/%u6EE1%u5206%uFF1A%2C%2090/100%u5206%0A%u7528%u65F6/%u65F6%u9650%uFF1A%2C%2030/120%u5206%u949F%0A%u6392%u540D/%u603B%u4EBA%u6B21%uFF1A%2C%201/6%20</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="144" y="139" w="-1" h="-1" measuredW="84" measuredH="71" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="144" y="139" w="-1" h="-1" measuredW="83" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircledXIcon%7Clarge</icon>
         <text>%u8003%u8BD5%u6CA1%u6709%u901A%u8FC7</text>
@@ -63,7 +63,7 @@
             <text>%u5355%u9009%uFF1A%2C%20%uFF086/28%uFF0921.43%25%0A%u591A%u9009%uFF1A%2C%20%uFF088/12%uFF0966.67%25%0A%u5224%u65AD%uFF1A%2C%20%uFF080/10%uFF090%25</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="1" locked="false" isInGroup="15">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="191" measuredH="22" zOrder="1" locked="false" isInGroup="15">
           <controlProperties>
             <text>%u8003%u8BD5%u5206%u6790%uFF1A%uFF08%u5F97%u5206/%u6EE1%u5206%uFF09%u5F97%u5206%u7387</text>
           </controlProperties>

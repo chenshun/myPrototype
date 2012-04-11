@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="107" y="120" w="1024" h="44" measuredW="1024" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E</map>
+        <override controlID="0:1">
+          <text>%u6CDB%u76C8POS</text>
+        </override>
+        <src>./assets/symbols.bmml#ClerkTopbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="355" y="207" w="529" h="561" measuredW="529" measuredH="561" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C207%2C884%2C768%22%20href%3D%221050_Query.bmml%22%20alt%3D%221050_Query%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C207%2C884%2C768%22%20href%3D%221050_Query.bmml%22%20alt%3D%221050_Query%22%20id%3D%220%22/%3E</map>
+        <override controlID="4">
+          <text>%u5F00%u59CB%u65F6%u95F4%2C%202012-01-01%0A%u7ED3%u675F%u65F6%u95F4%2C%20%u4ECA%u5929</text>
+        </override>
+        <override controlID="0">
+          <href>1050_Query%26bm%3B1050_Query.bmml%26bm%3B1050_Query.bmml%26bm%3B1050_Query.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml#Query Board</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="497" y="325" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2010%u5E74%2C11%u6708%2C30%u65E5%0A2011%u5E74%2C12%u6708%2C31%u65E5%0A2012%u5E74%2C1%u6708%2C1%u65E5%0A2013%u5E74%2C2%u6708%2C2%u65E5%0A2014%u5E74%2C3%u6708%2C3%u65E5</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::RoundButton" x="588" y="309" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>6710886</borderColor>
+        <color>6710886</color>
+        <shape>diamond</shape>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
