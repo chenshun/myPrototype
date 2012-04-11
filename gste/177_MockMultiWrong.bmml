@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="472" measuredH="510" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="472" measuredH="556" mockupW="432" mockupH="556">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="190" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -12,7 +12,7 @@
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="213" measuredW="215" measuredH="213" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C197%2C131%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
         <override controlID="1">
           <icon>./assets/icon_circle_green.png%7Csmall</icon>
         </override>
@@ -33,7 +33,7 @@
         <color>2848996</color>
         <direction>left</direction>
         <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C105%2C72%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%2248%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22175%2C105%2C222%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%2248%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
@@ -48,7 +48,7 @@
         <direction>center</direction>
         <href>168_QuestionList%26bm%3B168_QuestionList.bmml%26bm%3B168_QuestionList.bmml%26bm%3B168_QuestionList.bmml</href>
         <icon>NumberedListIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C105%2C249%2C132%22%20href%3D%22168_QuestionList.bmml%22%20alt%3D%22168_QuestionList%22%20id%3D%2250%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22362%2C105%2C399%2C132%22%20href%3D%22168_QuestionList.bmml%22%20alt%3D%22168_QuestionList%22%20id%3D%2250%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -56,12 +56,22 @@
       <controlProperties>
         <href>172_ReviewSingleWrong%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml%26bm%3B172_ReviewSingleWrong.bmml</href>
         <icon>RewindIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C393%2C61%2C425%22%20href%3D%22172_ReviewSingleWrong.bmml%22%20alt%3D%22172_ReviewSingleWrong%22%20id%3D%2253%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22179%2C393%2C211%2C425%22%20href%3D%22172_ReviewSingleWrong.bmml%22%20alt%3D%22172_ReviewSingleWrong%22%20id%3D%2253%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="54" controlTypeID="com.balsamiq.mockups::Icon" x="412" y="393" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ForwardIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::StickyNote" x="40" y="144" w="109" h="142" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5B9E%u5FC3%u7EFF%u70B9%u4EE3%u8868%u6F0F%u9009%uFF0C%u6253%u52FE%u7EFF%u8272%u4EE3%u8868%u6B63%u786E%u7684%u9009%u62E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::StickyNote" x="264" y="394" w="148" h="162" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5982%u679C%u52A0%u4E0A%u5BF9%u9898%u9519%u8BEF%u56DE%u987E%u5207%u6362%uFF0C%u7A0B%u5E8F%u7684%u590D%u6742%u591A%u8F83%u9AD8%u4F1A%u82B1%u8D39%u6BD4%u8F83%u957F%u65F6%u95F4%u3002%u7A7A%u95F4%u91CC%u9762%u53EA%u6709%u8003%u8BD5%u8BB0%u5F55%uFF0C%u662F%u5426%u6709%u52A0%u5165%u7684%u5FC5%u8981%uFF1F</text>
       </controlProperties>
     </control>
   </controls>

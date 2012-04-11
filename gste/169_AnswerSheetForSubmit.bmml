@@ -5,12 +5,12 @@
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="115" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="115" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C79%2C132%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C80%2C132%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
@@ -34,7 +34,7 @@
         <text>*%20%u672A%u505A%u3002%0A-%20%u6682%u4E0D%u786E%u5B9A%u7B54%u6848%u3002</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="194" y="109" w="-1" h="-1" measuredW="45" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="194" y="109" w="-1" h="-1" measuredW="46" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7B54%u9898%u5361</text>
       </controlProperties>
@@ -64,25 +64,6 @@
         <href>166_SubmitExam%26bm%3B166_SubmitExam.bmml%26bm%3B166_SubmitExam.bmml%26bm%3B166_SubmitExam.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C105%2C243%2C132%22%20href%3D%22166_SubmitExam.bmml%22%20alt%3D%22166_SubmitExam%22%20id%3D%2214%22/%3E</map>
         <text>%u4EA4%u5377</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="121" y="209" w="206" h="129" measuredW="206" measuredH="129" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E</map>
-        <override controlID="0" x="0" y="0" w="206" h="129"/>
-        <override controlID="1" x="7" y="9" w="190" h="62">
-          <text>%u63D0%u793A%0A%u73B0%u5728%u4EA4%u5377%uFF1F</text>
-        </override>
-        <override controlID="2" x="19" y="71" w="77" h="45">
-          <href>169_AnswerSheetForSubmit%26bm%3B169_AnswerSheetForSubmit.bmml%26bm%3B169_AnswerSheetForSubmit.bmml%26bm%3B169_AnswerSheetForSubmit.bmml</href>
-          <text>%u53D6%u6D88</text>
-        </override>
-        <override controlID="3" x="108" y="70" w="77" h="45">
-          <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
-          <text>%20%u786E%u8BA4</text>
-        </override>
-        <override controlID="-1"/>
-        <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Dialog</src>
       </controlProperties>
     </control>
   </controls>
