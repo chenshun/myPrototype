@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="107" y="120" w="1024" h="44" measuredW="1024" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E</map>
+        <override controlID="0:1">
+          <text>%u6CDB%u76C8POS</text>
+        </override>
+        <src>./assets/symbols.bmml#ClerkTopbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="355" y="207" w="529" h="561" measuredW="529" measuredH="561" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E</map>
+        <src>./assets/symbols.bmml#Query Board</src>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Component" x="462" y="352" w="357" h="350" measuredW="357" measuredH="350" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="4">
+          <text>%u6240%u6709%u7F51%u70B9</text>
+        </override>
+        <override controlID="1">
+          <text>%u9009%u62E9%u6D88%u8D39%u7F51%u70B9</text>
+        </override>
+        <override controlID="3">
+          <text>%u624B%u673A%u5BA2%u6237%u7AEF%2C%20v%0A%u7F51%u94F6%20%0A%u7CFB%u7EDF%u5E73%u53F0%0A%u603B%u5E97%0A1%u53F7%u95E8%u5E97%2C%20v%0A2%u53F7%u95E8%u5E97%2C%20v%0A3%u53F7%u95E8%u5E97%2C%20%0A4%u53F7%u95E8%u5E97%2C%20v</text>
+        </override>
+        <src>./assets/symbols.bmml#Query Condition MultiOption</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

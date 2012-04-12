@@ -7,7 +7,7 @@
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="107" y="120" w="1024" h="44" measuredW="1024" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C127%2C191%2C154%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221032%2C126%2C1119%2C157%22%20href%3D%221000_Login.bmml%22%20alt%3D%221000_Login%22%20id%3D%220%22/%3E</map>
         <override controlID="0:1">
           <text>%u6CDB%u76C8POS</text>
         </override>
@@ -16,7 +16,19 @@
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="355" y="207" w="529" h="561" measuredW="529" measuredH="561" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C207%2C884%2C768%22%20href%3D%221050_Query.bmml%22%20alt%3D%221050_Query%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C207%2C884%2C768%22%20href%3D%221050_Query.bmml%22%20alt%3D%221050_Query%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C207%2C884%2C768%22%20href%3D%221050_Query.bmml%22%20alt%3D%221050_Query%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C215%2C430%2C242%22%20href%3D%221010_HomeForClerk.bmml%22%20alt%3D%221010_HomeForClerk%22%20id%3D%222%22/%3E</map>
+        <override controlID="0">
+          <href>1050_Query%26bm%3B1050_Query.bmml%26bm%3B1050_Query.bmml%26bm%3B1050_Query.bmml</href>
+        </override>
+        <override controlID="6">
+          <text>%u4EA4%u6613%u91D1%u989D%20%3E%20%2C123%0A%u4EA4%u6613%u91D1%u989D%20%3C%20%2C10000</text>
+        </override>
         <src>./assets/symbols.bmml#Query Board</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Component" x="107" y="510" w="1024" h="360" measuredW="1024" measuredH="360" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/iPad%20Keyboards.bmml#ipad%20keyboard%201025x365</src>
       </controlProperties>
     </control>
   </controls>
