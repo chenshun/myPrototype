@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" measuredW="734" measuredH="510" mockupW="567" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="167" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="199" y="106" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>%u62D2%u7EDD</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="273" y="108" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u62BD%u5956%u534F%u8BAE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="365" y="106" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>%u63A5%u53D7</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="199" y="141" w="535" h="277" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%u62BD%u5956*%0A1.%u62BD%u5956%u540E2%u4E2A%u5C0F%u65F6%u5185%u4E0D%u80FD%u53C2%u4E0E%u5176%u4ED6%u62BD%u5956%u3002%0A2.%u5DF2%u7ECF%u53C2%u4E0E%u8FC7%u7684%u67D0%u9879%u62BD%u5956%uFF0C%u5728%u6CA1%u6709%u4E2D%u5956%u7684%u60C5%u51B5%uFF0C24%u5C0F%u65F6%u5185%u4E0D%u80FD%u518D%u53C2%u4E0E%u8BE5%u9879%u62BD%u5956%u3002%0A*%u4E2D%u5956*%0A1.%u4E2D%u5956%u540E%u5C06%u4F1A%u516C%u793A%u4E2D%u5956%u60C5%u51B53%u5929%uFF0C%u5305%u62EC%u4E2D%u5956%u8005%u7684%u59D3%u540D%u548C%u624B%u673A%u53F7%u7801%uFF0C%u51E1%u53C2%u4E0E%u62BD%u5956%u5E76%u5E0C%u671B%u9886%u53D6%u5956%u54C1%u8005%uFF0C%u5FC5%u987B%u6388%u6743%u6211%u4EEC%u5BF9%u516C%u4F17%u516C%u793A%u4E0A%u8FF0%u4FE1%u606F%u3002%0A2.%u516C%u793A%u7ED3%u675F%u540E%uFF0C%u4E2D%u5956%u8005%u6B63%u5F0F%u83B7%u5F97%u5956%u54C1%u3002%0A3.%u5B9E%u7269%u5956%u54C1%u5982%u9700%u8981%u901A%u8FC7%u7269%u6D41%u5FEB%u9012%u4E2D%u5956%u8005%u5904%u7684%uFF0C%u4E2D%u5956%u8005%u5FC5%u987B%u63D0%u4F9B%u76F8%u5173%u5730%u5740%u4FE1%u606F%uFF0C%u5426%u5219%u89C6%u4E3A%u653E%u5F03%u3002%0A4.%u5728%u5151%u5956%u5185%u6CA1%u6709%u9886%u53D6%u5956%u54C1%u7684%uFF0C%u5C06%u89C6%u4E3A%u653E%u5F03%u5956%u54C1%u3002%0A*%u4E3E%u62A5*%0A1.%u5956%u54C1%u5728%u62BD%u5956%u7684%u516C%u793A%u671F%u5185%uFF0C%u6CE8%u518C%u7528%u6237%u6709%u6743%u5BF9%u8FDD%u89C4%u884C%u4E3A%u8FDB%u884C%u4E3E%u62A5%u3002%0A2.%u4E3E%u62A5%u88AB%u6838%u5B9E%u540E%uFF0C%u539F%u83B7%u5956%u8005%u7684%u83B7%u5956%u8D44%u683C%u88AB%u53D6%u6D88%uFF0C%u5956%u54C1%u5C06%u53D1%u7ED9%u63D0%u4F9B%u6709%u5229%u8BC1%u636E%u7684%u4E3E%u62A5%u8005%uFF0C%u5982%u679C%u8BC1%u636E%u5177%u6709%u76F8%u540C%u6548%u679C%u5219%u4E3E%u62A5%u65F6%u95F4%u5728%u524D%u7684%u4E3E%u62A5%u8005%u83B7%u5F97%u5956%u54C1%u3002</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

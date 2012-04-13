@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" measuredW="655" measuredH="510" mockupW="507" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="263" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="297" y="381" w="215" h="52" measuredW="215" measuredH="52" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C386%2C193%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22218%2C386%2C250%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22275%2C386%2C307%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22332%2C386%2C364%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C386%2C193%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22218%2C386%2C250%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22275%2C386%2C307%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22332%2C386%2C364%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
+        <src>./assets/symbols.bmml#Member%20Tabbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="368" y="106" w="-1" h="-1" measuredW="72" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u540D%u724C%u7535%u996D%u7172</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::StickyNote" x="148" y="66" w="109" h="217" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u62BD%u5956%u540E2%u4E2A%u5C0F%u65F6%u5185%u4E0D%u80FD%uFF0C%u53C2%u4E0E%u5176%u4ED6%u62BD%u5956%u3002%0A%u5DF2%u7ECF%u53C2%u4E0E%u8FC7%u7684%u67D0%u9879%u62BD%u5956%uFF0C%u5728%u6CA1%u6709%u4E2D%u5956%u7684%u60C5%u51B5%uFF0C24%u5C0F%u65F6%u5185%u4E0D%u80FD%u518D%u53C2%u4E0E%u8BE5%u9879%u62BD%u5956%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="297" y="104" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>2000_Lottoes%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C104%2C197%2C131%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%226%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="297" y="144" w="-1" h="-1" measuredW="215" measuredH="60" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>__%20%u540D%u724C%u7535%u996D%u7172%20%20%20%uFFE5500%5Cr%u6570%u91CF%uFF1A1%20%20%20%20%20%20%20%20%20%u526930%u5929%2C%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="307" y="151" w="46" h="47" measuredW="128" measuredH="128" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/01300000181322121557737992531_s.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="297" y="214" w="-1" h="-1" measuredW="215" measuredH="60" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>2030_Shop%26bm%3B2030_Shop.bmml%26bm%3B2030_Shop.bmml%26bm%3B2030_Shop.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C219%2C364%2C269%22%20href%3D%222030_Shop.bmml%22%20alt%3D%222030_Shop%22%20id%3D%2210_0%22/%3E%0A</map>
+        <text>__%20xx%u8D85%u5E02%uFF0C%u7CFB%u5F53%u5730%u6700%u5927%u7684%u8D85%u5E02%5Cr%u4E3B%u8425%u767E%u8D27...%2C%20%u66F4%u591A%u4F18%u60E0%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="307" y="222" w="46" h="44" measuredW="128" measuredH="96" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/supermarket.JPG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Switch" x="297" y="289" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>2006_LottoDisagreement%26bm%3B2006_LottoDisagreement.bmml%26bm%3B2006_LottoDisagreement.bmml%26bm%3B2006_LottoDisagreement.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C289%2C217%2C317%22%20href%3D%222006_LottoDisagreement.bmml%22%20alt%3D%222006_LottoDisagreement%22%20id%3D%2213%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="297" y="341" w="215" h="27" measuredW="77" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>2008_LottoDraw%26bm%3B2008_LottoDraw.bmml%26bm%3B2008_LottoDraw.bmml%26bm%3B2008_LottoDraw.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C341%2C364%2C368%22%20href%3D%222008_LottoDraw.bmml%22%20alt%3D%222008_LottoDraw%22%20id%3D%2214%22/%3E</map>
+        <state>up</state>
+        <text>%u5F00%u59CB%u62BD%u5956</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="368" y="292" w="144" h="23" measuredW="137" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>2004_LottoAgreement%26bm%3B2004_LottoAgreement.bmml%26bm%3B2004_LottoAgreement.bmml%26bm%3B2004_LottoAgreement.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22220%2C292%2C364%2C315%22%20href%3D%222004_LottoAgreement.bmml%22%20alt%3D%222004_LottoAgreement%22%20id%3D%2215%22/%3E</map>
+        <text>%u540C%u610F%u300A%u62BD%u5956%u534F%u8BAE%u300B%u9605%u8BFB</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::StickyNote" x="546" y="328" w="109" h="131" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u53EA%u6709%u767B%u9646%u540E%u624D%u53EF%u4EE5%u62BD%u5956%uFF0C%u5B9E%u7269%u5956%u54C1%u9700%u8981%u63D0%u4F9B%u5730%u5740</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="545" y="113" w="109" h="139" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5982%u679C%u5956%u54C1%u5168%u53D1%u5B8C%u6216%u8005%u65F6%u95F4%u5230%u671F%uFF0C%u5219%u663E%u793A%22%u5DF2%u7ED3%u675F%22</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,48 @@
+<mockup version="1.0" skin="sketch" measuredW="514" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="232" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="344" y="107" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u83B7%u5956%u540D%u5355</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="261" y="380" w="215" h="52" measuredW="215" measuredH="52" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
+        <src>./assets/symbols.bmml#Member Tabbar</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="265" y="151" w="-1" h="-1" measuredW="215" measuredH="210" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>2002_Lotto%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C156%2C248%2C206%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%2210_0%22/%3E%0A</map>
+        <text>__%20%u6298%u53E0%u81EA%u884C%u8F66x3%20%20%20%uFFE5400%5CrX%u81EA%u884C%u8F66%u5E97%20%20%20%20%u526920%u5929%2C%20%20%20%3E%0A__%20%u5F20%u4E09%2018912345678%2C%u4E3E%u62A5%0A__%20%u674E%u56DB%2013912345678%2C%u4E3E%u62A5%0A__%20%u53CC%u4EBA%u5957%u9910x6%20%20%20%20%20%20%uFFE5298%5CrXX%u5496%u5561%u9986%20%20%20%u52699%u5C0F%u65F6%2C%20%20%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="273" y="163" w="45" h="40" measuredW="128" measuredH="101" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/carbon-fiber-portable-bike.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="270" y="312" w="51" h="43" measuredW="128" measuredH="96" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/2594170_122008057_2.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="261" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>2000_Lottoes%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C105%2C77%2C132%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%2214%22/%3E</map>
+        <text>%u62BD%u5956</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
