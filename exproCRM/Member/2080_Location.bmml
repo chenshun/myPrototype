@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" measuredW="517" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="235" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="269" y="165" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>2020_Shops%26bm%3B2020_Shops.bmml%26bm%3B2020_Shops.bmml%26bm%3B2020_Shops.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C170%2C249%2C199%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221_0%22/%3E%0A</map>
+        <text>%u5357%u4EAC%2C%20v</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="269" y="239" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5317%u4EAC%0A%u4E0A%u6D77%0A%u5E7F%u5DDE%0A%u6DF1%u5733</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="347" y="109" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9009%u62E9%u57CE%u5E02</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>2060_More%26bm%3B2060_More.bmml%26bm%3B2060_More.bmml%26bm%3B2060_More.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C105%2C82%2C132%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%224%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="269" y="142" w="-1" h="-1" measuredW="99" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GPS%u5B9A%u4F4D%u7684%u57CE%u5E02</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="269" y="210" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u53EF%u9009%u57CE%u5E02</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
