@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="400" measuredH="510" mockupW="400" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -42,13 +42,12 @@
         <override controlID="0" x="0" y="0" w="215" h="25">
           <text>%u8F93%u5165%u540D%u79F0</text>
         </override>
-        <override controlID="-1"/>
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Search%20Screen%20Search%20Box</src>
       </controlProperties>
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="31" y="379" w="207" h="53" measuredW="207" measuredH="53" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22168%2C382%2C233%2C428%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C382%2C90%2C428%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E</map>
         <override controlID="0" x="137" y="3" w="65" h="46">
           <color>65535</color>
         </override>
@@ -59,16 +58,25 @@
         <override controlID="3" x="141" y="8" w="-1" h="-1"/>
         <override controlID="4" x="47" y="8" w="-1" h="-1"/>
         <override controlID="5" x="188" y="8" w="-1" h="-1"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Tabbar%20For%20Industry</src>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="192" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="291" y="81" w="109" h="155" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5730%u533A%u9700%u8981%u548C%u79D1%u76EE%u6027%u8D28%u5173%u8054%uFF0C%u4F8B%u5982%u56FD%u5BB6%u516C%u52A1%u5458%u8003%u8BD5%uFF0C%u5730%u533A%u53EA%u80FD%u662F%u5168%u56FD%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="192" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>120_PaperRecordList%26bm%3B120_PaperRecordList.bmml%26bm%3B120_PaperRecordList.bmml%26bm%3B120_PaperRecordList.bmml</href>
         <icon>GtCircledIcon%7Cxsmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22226%2C192%2C242%2C208%22%20href%3D%22120_PaperRecordList.bmml%22%20alt%3D%22120_PaperRecordList%22%20id%3D%2225%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="28" y="175" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2011%2C%20%u5168%u56FD%2C%u5357%u4EAC%0A2010%2C%u5B89%u5FBD%2C%u65E0%u9521%0A2009%2C%u6C5F%u82CF%2C%u5F90%u5DDE%0A2008%2C%u4E0A%u6D77%2C%u5E38%u5DDE%0A2007%2C%u5317%u4EAC%2C%u82CF%u5DDE</text>
       </controlProperties>
     </control>
   </controls>

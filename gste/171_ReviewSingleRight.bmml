@@ -5,16 +5,16 @@
         <bgPattern>topBlueBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22124%2C105%2C172%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22124%2C105%2C171%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="266" y="107" w="-1" h="-1" measuredW="130" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="266" y="107" w="-1" h="-1" measuredW="129" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5BF9%u9898%u56DE%u987E%uFF08No.1/90%uFF09</text>
       </controlProperties>
@@ -41,12 +41,12 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="40" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u5355%u9009%u9898*%0A1.%20%u5355%u9009%u9898%u9898%u5E72%uFF08%u3000%u3000%uFF09%u3002%20</text>
+        <text>*%u5355%u9009%u9898*%20%281/3%29%0A1.%20%u5355%u9009%u9898%u9898%u5E72%uFF08%u3000%u3000%uFF09%u3002%20</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="186" measuredW="215" measuredH="186" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="184" measuredW="215" measuredH="184" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22141%2C197%2C210%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22141%2C197%2C210%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C197%2C211%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C197%2C211%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C197%2C230%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
         <override controlID="3">
           <icon>./assets/icon_checked_shield_green.png%7Csmall</icon>
         </override>

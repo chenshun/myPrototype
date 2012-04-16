@@ -1,20 +1,20 @@
-<mockup version="1.0" skin="sketch" measuredW="472" measuredH="510" mockupW="372" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="718" measuredH="510" mockupW="618" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="190" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topBlueBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C105%2C163%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C105%2C162%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="266" y="107" w="-1" h="-1" measuredW="130" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="266" y="107" w="-1" h="-1" measuredW="129" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u9519%u9898%u56DE%u987E%uFF08No.1/10%uFF09</text>
       </controlProperties>
@@ -43,12 +43,12 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="40" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u5355%u9009%u9898*%0A1.%20%u5355%u9009%u9898%u9898%u5E72%uFF08%u3000%u3000%uFF09%u3002%20</text>
+        <text>*%u5355%u9009%u9898*%20%281/3%29%0A1.%20%u5355%u9009%u9898%u9898%u5E72%uFF08%u3000%u3000%uFF09%u3002%20</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="186" measuredW="215" measuredH="186" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="184" measuredW="215" measuredH="184" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22153%2C197%2C222%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22153%2C197%2C222%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22152%2C197%2C221%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
         <override controlID="0" x="0" y="0" w="-1" h="-1">
           <text>_%20A.%u8BB2%u6388%u6CD5%5Cr%5Cr%5Cr%5Cr%0A_%20B.%u53D1%u73B0%u6CD5%0A_%20C.%u638C%u63E1%u5B66%u4E60%u6CD5%5Cr%u7B2C%u4E8C%u884C%0A_%20D%u5934%u8111%u98CE%u66B4%u6CD5%2C%20</text>
         </override>
@@ -63,13 +63,23 @@
           <icon>./assets/icon_close.png%7Csmall</icon>
         </override>
         <override controlID="5" x="29" y="23" w="69" h="58"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#SingleOptions</src>
       </controlProperties>
     </control>
     <control controlID="30" controlTypeID="com.balsamiq.mockups::StickyNote" x="100" y="196" w="109" h="162" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7EFF%u70B9%u8868%u793A%u6CA1%u6709%u9009%u62E9%u5230%u7684%u6B63%u786E%u7B54%u6848%uFF0C%u7EA2%u53C9%u8868%u793A%u9009%u9519%u7684%u7B54%u6848%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::VCurly" x="240" y="306" w="254" h="140" measuredW="180" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>%u5BF9%u9519%u6BD4%u8F83%09%09%20%20%20%09%09%09%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="503" y="342" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6211%u7684%u7B54%u6848%uFF1AC%0A%u6B63%u786E%u7B54%u6848%uFF1AB</text>
       </controlProperties>
     </control>
   </controls>

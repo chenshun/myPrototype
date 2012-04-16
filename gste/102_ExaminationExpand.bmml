@@ -7,7 +7,7 @@
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Component" x="26" y="381" w="241" h="54" measuredW="241" measuredH="54" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C384%2C146%2C431%22%20href%3D%22116_GSTENews.bmml%22%20alt%3D%22116_GSTENews%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C385%2C90%2C432%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C384%2C146%2C431%22%20href%3D%22116_GSTENews.bmml%22%20alt%3D%22116_GSTENews%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C212%2C432%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E</map>
         <override controlID="0" x="9" y="0" w="32" h="23">
           <color>16776960</color>
           <text>%u8003%u8BD5</text>
@@ -19,6 +19,7 @@
         <override controlID="3" x="129" y="4" w="57" h="47"/>
         <override controlID="4" x="186" y="3" w="55" h="47"/>
         <override controlID="5" x="0" y="0" w="71" h="54"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
       </controlProperties>
     </control>
@@ -36,9 +37,9 @@
         <icon>DownFillTriangleIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="112" y="109" w="-1" h="-1" measuredW="88" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="112" y="109" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u91D1%u77F3%u7F51%20%u8D22%u4F1A%u7C7B</text>
+        <text>%u91D1%u77F3%u7F51%20%u8D22%u4F1A%u7C7B%u8003%u8BD5</text>
       </controlProperties>
     </control>
     <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="33" y="141" w="215" h="58" measuredW="252" measuredH="36" zOrder="5" locked="false" isInGroup="-1">

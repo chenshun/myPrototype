@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="472" measuredH="556" mockupW="432" mockupH="556">
+<mockup version="1.0" skin="sketch" measuredW="727" measuredH="510" mockupW="687" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="190" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -7,12 +7,12 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="40" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u591A%u9009%u9898*%0A2.%20%u4EE5%u4E0B%u5C5E%u4E8E%u6C34%u679C%u7684%u662F%uFF08%u3000%u3000%uFF09%u3002%20</text>
+        <text>*%u591A%u9009%u9898*%281/3%29%0A2.%20%u4EE5%u4E0B%u5C5E%u4E8E%u6C34%u679C%u7684%u662F%uFF08%u3000%u3000%uFF09%u3002%20</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="213" measuredW="215" measuredH="213" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="223" y="174" w="215" h="215" measuredW="215" measuredH="215" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C197%2C281%2C255%22%20href%3D%22112_FullScreenViewImage.bmml%22%20alt%3D%22112_FullScreenViewImage%22%20id%3D%225%22/%3E</map>
         <override controlID="1">
           <icon>./assets/icon_circle_green.png%7Csmall</icon>
         </override>
@@ -28,16 +28,16 @@
         <src>./assets/symbols.bmml#MultiOptions</src>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::PointyButton" x="215" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
         <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22175%2C105%2C222%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%2248%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22175%2C105%2C223%2C132%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%2248%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="264" y="107" w="-1" h="-1" measuredW="136" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="264" y="107" w="-1" h="-1" measuredW="137" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u9519%u9898%u56DE%u987E%uFF08No.2/100%uFF09</text>
       </controlProperties>
@@ -69,9 +69,15 @@
         <text>%u5B9E%u5FC3%u7EFF%u70B9%u4EE3%u8868%u6F0F%u9009%uFF0C%u6253%u52FE%u7EFF%u8272%u4EE3%u8868%u6B63%u786E%u7684%u9009%u62E9</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::StickyNote" x="264" y="394" w="148" h="162" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::VCurly" x="251" y="324" w="254" h="140" measuredW="180" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u5982%u679C%u52A0%u4E0A%u5BF9%u9898%u9519%u8BEF%u56DE%u987E%u5207%u6362%uFF0C%u7A0B%u5E8F%u7684%u590D%u6742%u591A%u8F83%u9AD8%u4F1A%u82B1%u8D39%u6BD4%u8F83%u957F%u65F6%u95F4%u3002%u7A7A%u95F4%u91CC%u9762%u53EA%u6709%u8003%u8BD5%u8BB0%u5F55%uFF0C%u662F%u5426%u6709%u52A0%u5165%u7684%u5FC5%u8981%uFF1F</text>
+        <direction>right</direction>
+        <text>%u5BF9%u9519%u6BD4%u8F83%09%09%20%20%20%09%09%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="512" y="360" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6211%u7684%u7B54%u6848%uFF1AB%20D%20E%0A%u6B63%u786E%u7B54%u6848%uFF1AA%20B%20E</text>
       </controlProperties>
     </control>
   </controls>

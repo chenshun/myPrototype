@@ -47,13 +47,13 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="223" y="141" w="214" h="120" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u591A%u7EA7%u9898%u5E72%u9898*%0A29.%20%u4E3B%u9898%u5E72%20</text>
+        <text>*%u591A%u7EA7%u9898%u5E72%u9898%281/3%29*%0A29.%20%u4E3B%u9898%u5E72%20</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="223" y="177" w="-1" h="-1" measuredW="215" measuredH="174" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="223" y="177" w="-1" h="-1" measuredW="215" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>181_MockMultiStemSingleChoice%26bm%3B181_MockMultiStemSingleChoice.bmml%26bm%3B181_MockMultiStemSingleChoice.bmml%26bm%3B181_MockMultiStemSingleChoice.bmml%2C185_MockMultiStemSubjective%26bm%3B185_MockMultiStemSubjective.bmml%26bm%3B185_MockMultiStemSubjective.bmml%26bm%3B185_MockMultiStemSubjective.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C182%2C248%2C223%22%20href%3D%22181_MockMultiStemSingleChoice.bmml%22%20alt%3D%22181_MockMultiStemSingleChoice%22%20id%3D%2216_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C223%2C248%2C264%22%20href%3D%22185_MockMultiStemSubjective.bmml%22%20alt%3D%22185_MockMultiStemSubjective%22%20id%3D%2216_1%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C182%2C248%2C222%22%20href%3D%22181_MockMultiStemSingleChoice.bmml%22%20alt%3D%22181_MockMultiStemSingleChoice%22%20id%3D%2216_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C222%2C248%2C262%22%20href%3D%22185_MockMultiStemSubjective.bmml%22%20alt%3D%22185_MockMultiStemSubjective%22%20id%3D%2216_1%22/%3E%0A</map>
         <text>_%201.%u5B50%u9898%u9898%u5E72%5Cr%u9009%u62E9%u9898%u5185%u5BB9%2C%20%u9009%u62E9%u9898%20%3E%0A_%202.%u5B50%u9898%u9898%u5E72%5Cr%u4E3B%u89C2%u9898%u5185%u5BB9%2C%20%u4E3B%u89C2%u9898%20%3E%0A*%203.%u5B50%u9898%u9898%u5E72%5Cr%u672A%u505A%u8FC7%u7684%2C%20%u591A%u9009%u9898%20%3E%0A*%204.%u5B50%u9898%u9898%u5E72%5Cr%u672A%u505A%u8FC7%u7684%2C%20%u586B%u7A7A%u9898%20%3E</text>
       </controlProperties>
     </control>

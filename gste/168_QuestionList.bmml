@@ -11,7 +11,7 @@
         <direction>left</direction>
         <href>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C79%2C132%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%221%22/%3E</map>
-        <text>%u8FD4%u56DE</text>
+        <text>%u8BD5%u5377</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="115" y="224" w="-1" h="-1" measuredW="215" measuredH="184" zOrder="2" locked="false" isInGroup="-1">
@@ -34,7 +34,7 @@
         <text>*%20%u672A%u505A%u3002%0A-%20%u6682%u4E0D%u786E%u5B9A%u7B54%u6848%u3002</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="194" y="109" w="-1" h="-1" measuredW="46" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="194" y="109" w="-1" h="-1" measuredW="45" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7B54%u9898%u5361</text>
       </controlProperties>
