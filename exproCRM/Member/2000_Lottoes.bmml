@@ -12,48 +12,22 @@
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="261" y="380" w="215" h="52" measuredW="215" measuredH="52" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C385%2C73%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C385%2C130%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C385%2C187%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C385%2C244%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
         <src>./assets/symbols.bmml#Member Tabbar</src>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="265" y="151" w="-1" h="-1" measuredW="215" measuredH="210" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <hrefs>2002_Lotto%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C156%2C248%2C206%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%2210_0%22/%3E%0A</map>
-        <text>__%20%u540D%u724C%u7535%u996D%u7172x1%20%20%20%uFFE5500%5CrXX%u8D85%u5E02%20%20%20%20%20%20%20%20%20%u526930%u5929%2C%20%20%20%3E%0A__%20%u6298%u53E0%u81EA%u884C%u8F66x3%20%20%20%uFFE5400%5CrX%u81EA%u884C%u8F66%u5E97%20%20%20%20%u526920%u5929%2C%20%20%20%3E%0A__%20%u53CC%u4EBA%u5957%u9910x6%20%20%20%20%20%20%uFFE5298%5CrXX%u5496%u5561%u9986%20%20%20%u52699%u5C0F%u65F6%2C%20%20%20%3E%0A__%20100%u79EF%u5206x9%20%20%20%20%20%20%20%uFFE510%5Cr%u6CDB%u76C8%u79D1%u6280%20%20%20%u52691%u5C0F%u65F6%2C%20%20%20%3E</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="273" y="160" w="51" h="46" measuredW="128" measuredH="128" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/01300000181322121557737992531_s.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="274" y="211" w="45" h="40" measuredW="128" measuredH="101" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/carbon-fiber-portable-bike.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="273" y="260" w="51" h="43" measuredW="128" measuredH="96" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/2594170_122008057_2.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="272" y="309" w="52" h="44" measuredW="128" measuredH="147" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/prezent.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::PointyButton" x="407" y="105" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::PointyButton" x="407" y="105" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>right</direction>
         <href>2010_Winners%26bm%3B2010_Winners.bmml%26bm%3B2010_Winners.bmml%26bm%3B2010_Winners.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22175%2C105%2C252%2C132%22%20href%3D%222010_Winners.bmml%22%20alt%3D%222010_Winners%22%20id%3D%2216%22/%3E</map>
         <text>%20%u4E3E%u62A5%u6709%u5956</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="265" y="151" w="215" h="210" measuredW="215" measuredH="210" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C156%2C248%2C206%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C156%2C248%2C206%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A</map>
+        <src>./assets/symbols.bmml#Prize List</src>
       </controlProperties>
     </control>
   </controls>

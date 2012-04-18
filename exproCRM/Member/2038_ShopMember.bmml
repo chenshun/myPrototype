@@ -5,9 +5,9 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="309" y="382" w="203" h="51" measuredW="203" measuredH="51" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="309" y="382" w="202" h="50" measuredW="202" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C78%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C135%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C192%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C249%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C78%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C135%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C192%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C249%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C77%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C134%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C191%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C248%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
         <override controlID="0" x="0" y="4" w="-1" h="-1"/>
         <override controlID="1" x="57" y="4" w="-1" h="-1"/>
         <override controlID="2" x="114" y="4" w="-1" h="-1"/>
@@ -17,28 +17,26 @@
         <src>./assets/symbols.bmml#Member%20Tabbar</src>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="375" y="107" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="375" y="107" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5546%u6237%u4FE1%u606F</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="294" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="294" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
         <href>2020_Shops%26bm%3B2020_Shops.bmml%26bm%3B2020_Shops.bmml%26bm%3B2020_Shops.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C105%2C79%2C132%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C105%2C78%2C132%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%225%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="464" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="451" y="105" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
-        <href>2038_ShopMember%26bm%3B2038_ShopMember.bmml%26bm%3B2038_ShopMember.bmml%26bm%3B2038_ShopMember.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C105%2C249%2C132%22%20href%3D%222038_ShopMember.bmml%22%20alt%3D%222038_ShopMember%22%20id%3D%226%22/%3E</map>
-        <text>%u9886%u5361</text>
+        <text>%u5DF2%u9886%u5361</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="294" y="145" w="-1" h="-1" measuredW="215" measuredH="101" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="294" y="145" w="-1" h="-1" measuredW="215" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>2034_ShopDetail%26bm%3B2034_ShopDetail.bmml%26bm%3B2034_ShopDetail.bmml%26bm%3B2034_ShopDetail.bmml%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C150%2C246%2C200%22%20href%3D%222034_ShopDetail.bmml%22%20alt%3D%222034_ShopDetail%22%20id%3D%227_0%22/%3E%0A</map>

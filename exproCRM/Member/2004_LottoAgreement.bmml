@@ -5,20 +5,24 @@
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="199" y="106" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="199" y="106" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
+        <href>2006_LottoDisagreement%26bm%3B2006_LottoDisagreement.bmml%26bm%3B2006_LottoDisagreement.bmml%26bm%3B2006_LottoDisagreement.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C106%2C79%2C133%22%20href%3D%222006_LottoDisagreement.bmml%22%20alt%3D%222006_LottoDisagreement%22%20id%3D%221%22/%3E</map>
         <text>%u62D2%u7EDD</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="273" y="108" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="273" y="108" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u62BD%u5956%u534F%u8BAE</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="365" y="106" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="365" y="106" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
+        <href>2002_Lotto%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml%26bm%3B2002_Lotto.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22198%2C106%2C245%2C133%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%223%22/%3E</map>
         <text>%u63A5%u53D7</text>
       </controlProperties>
     </control>
