@@ -66,21 +66,22 @@
         <text>%u4EA4%u5377</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="121" y="209" w="206" h="129" measuredW="206" measuredH="129" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="119" y="176" w="206" h="170" measuredW="206" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E</map>
-        <override controlID="0" x="0" y="0" w="206" h="129"/>
-        <override controlID="1" x="7" y="9" w="190" h="62">
-          <text>%u63D0%u793A%0A%u8FD8%u670910%u9898%u672A%u505A%2C%u4EA4%u5377%uFF1F</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C270%2C132%2C329%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22144%2C268%2C221%2C327%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C270%2C132%2C329%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22144%2C268%2C221%2C327%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2251%2C270%2C128%2C329%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22140%2C268%2C217%2C327%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C292%2C134%2C351%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C290%2C223%2C349%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C303%2C134%2C362%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C301%2C223%2C360%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C280%2C134%2C325%22%20href%3D%22169_AnswerSheetForSubmit.bmml%22%20alt%3D%22169_AnswerSheetForSubmit%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C279%2C223%2C324%22%20href%3D%22162_PaperRecord.bmml%22%20alt%3D%22162_PaperRecord%22%20id%3D%223%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="206" h="170"/>
+        <override controlID="1" x="7" y="12" w="190" h="82">
+          <text>%u63D0%u793A%0A%u8FD8%u670910%u9898%u672A%u505A%uFF0C6%u9898%u6807%u8BB0%uFF0C%u4EA4%u5377%uFF1F</text>
         </override>
-        <override controlID="2" x="19" y="71" w="77" h="45">
+        <override controlID="2" x="19" y="94" w="77" h="59">
           <href>169_AnswerSheetForSubmit%26bm%3B169_AnswerSheetForSubmit.bmml%26bm%3B169_AnswerSheetForSubmit.bmml%26bm%3B169_AnswerSheetForSubmit.bmml</href>
           <text>%u53D6%u6D88</text>
         </override>
-        <override controlID="3" x="108" y="70" w="77" h="45">
+        <override controlID="3" x="108" y="92" w="77" h="59">
           <href>162_PaperRecord%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml%26bm%3B162_PaperRecord.bmml</href>
           <text>%20%u786E%u8BA4</text>
         </override>
+        <override controlID="-1"/>
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Dialog</src>
       </controlProperties>
     </control>

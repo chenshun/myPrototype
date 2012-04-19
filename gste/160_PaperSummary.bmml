@@ -35,25 +35,25 @@
         <text>%u9000%u51FA%u8003%u8BD5</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="83" y="157" w="-1" h="-1" measuredW="215" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="83" y="157" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <text>%u8BD5%u5377%u540D%u79F0%uFF1A%2C%202008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1...%0A%u8003%u8BD5%u8BD5%u5377%uFF1A%2C%20120%u5206%u949F%0A%u8003%u8BD5%u6EE1%u5206%uFF1A%2C%20100%u5206</text>
+        <text>2008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1%u8BC1%u8003%u8BD5%0A%u8003%u8BD5%u65F6%u95F4%uFF1A%2C%20120%u5206%u949F%0A%u8003%u8BD5%u6EE1%u5206%uFF1A%2C%20100%u5206</text>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="91" y="265" w="200" h="60" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*%u8003%u8BD5*%uFF0C%u6CE8%u518C%u7528%u6237%u53EF%u4EE5%u4FDD%u5B58%u8003%u8BD5%u8BB0%u5F55%uFF0C%u5EFA%u8BAE%u60A8%u6CE8%u518C%u540E%u518D%u53C2%u52A0%u8003%u8BD5%u3002</text>
+        <text>*%u8003%u8BD5*%uFF0C%u6CE8%u518C%u7528%u6237%u53EF%u4EE5%u4FDD%u5B58%u8BB0%u5F55%uFF0C%u5EFA%u8BAE%u60A8%u6CE8%u518C%u540E%u518D%u53C2%u52A0%u8003%u8BD5%u3002</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="90" y="337" w="201" h="27" measuredW="102" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="90" y="337" w="201" h="27" measuredW="50" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u6211%u8981%u4FDD%u5B58%u8BB0%u5F55</text>
+        <text>%u767B%u9646</text>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="347" y="285" w="109" h="144" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u7528%u6237%u5DF2%u7ECF%u767B%u9646%u72B6%u6001%u4E0B%uFF0C%u201C%u6211%u8981%u4FDD%u5B58%u8BB0%u5F55%u201D%u6309%u94AE%u4E0D%u53EF%u89C1</text>
+        <text>%u7528%u6237%u5DF2%u7ECF%u767B%u9646%u72B6%u6001%u4E0B%uFF0C%u201C%u767B%u9646%u201D%u6309%u94AE%u4E0D%u53EF%u89C1</text>
       </controlProperties>
     </control>
   </controls>

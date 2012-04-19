@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" measuredW="408" measuredH="510" mockupW="408" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="46" y="382" w="190" h="53" measuredW="190" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C386%2C231%2C432%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C77%2C432%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C386%2C231%2C432%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C77%2C432%22%20href%3D%22110_News.bmml%22%20alt%3D%22110_News%22%20id%3D%221%22/%3E</map>
+        <override controlID="0">
+          <color>0</color>
+        </override>
+        <override controlID="4">
+          <color>65535</color>
+        </override>
+        <src>./assets/symbols.bmml#Tabbar%20For%20Industry</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="105" y="105" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4F1A%u8BA1%u57FA%u7840</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::PointyButton" x="35" y="104" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>102_ExaminationExpand%26bm%3B102_ExaminationExpand.bmml%26bm%3B102_ExaminationExpand.bmml%26bm%3B102_ExaminationExpand.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C104%2C82%2C131%22%20href%3D%22102_ExaminationExpand.bmml%22%20alt%3D%22102_ExaminationExpand%22%20id%3D%2219%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Component" x="33" y="143" w="215" h="25" measuredW="215" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="215" h="25">
+          <text>%u8F93%u5165%u540D%u79F0</text>
+        </override>
+        <override controlID="-1"/>
+        <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Search%20Screen%20Search%20Box</src>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Component" x="33" y="183" w="215" h="184" measuredW="215" measuredH="184" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C188%2C248%2C217%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C217%2C248%2C246%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C246%2C248%2C275%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C275%2C248%2C304%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C304%2C248%2C333%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C333%2C248%2C362%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22226%2C194%2C242%2C210%22%20href%3D%22120_PaperRecordList.bmml%22%20alt%3D%22120_PaperRecordList%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C188%2C248%2C217%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C217%2C248%2C246%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C246%2C248%2C275%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C275%2C248%2C304%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C304%2C248%2C333%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C333%2C248%2C362%22%20href%3D%22160_PaperSummary.bmml%22%20alt%3D%22160_PaperSummary%22%20id%3D%220_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22226%2C194%2C242%2C210%22%20href%3D%22120_PaperRecordList.bmml%22%20alt%3D%22120_PaperRecordList%22%20id%3D%221%22/%3E</map>
+        <override controlID="0">
+          <hrefs>160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%2C160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%2C160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%2C160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%2C160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%2C160_PaperSummary%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml%26bm%3B160_PaperSummary.bmml</hrefs>
+          <text>2008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%u8BD5%u5377%u300A%u4F1A%u8BA1%u57FA%u7840%u300B%u8BD5%u9898%2C%20_%0A%u6E56%u5317%u77012008%u5E74%uFF08%u4E0B%u534A%u5E74%uFF09%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29%0A%u4E0A%u6D772008%u5E74%u4E0A%u534A%u5E74%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u300A%u4F1A%u8BA1%u57FA%u7840%u300B%u8BD5%u9898%2C%20%28%3E%29%0A%u6E56%u53572010%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29%0A2010%u5E74%u798F%u5EFA%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5V2%2C%20%28%3E%29%0A%u798F%u5EFA%u7701%u4F1A%u8BA1%u4ECE%u4E1A%u8D44%u683C%u8003%u8BD5%2C%20%28%3E%29</text>
+        </override>
+        <override controlID="1">
+          <href>120_PaperRecordList%26bm%3B120_PaperRecordList.bmml%26bm%3B120_PaperRecordList.bmml%26bm%3B120_PaperRecordList.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml#Paper List</src>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::StickyNote" x="282" y="105" w="126" h="149" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7AE0%u8282%u7EC3%u4E60%uFF0C%u77E5%u8BC6%u70B9%u5173%u8054%u5230%u9898%u76EE%u4E0A%u3002</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -13,15 +13,22 @@
     <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="242" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
-        <href>2066_Logined%26bm%3B2066_Logined.bmml%26bm%3B2066_Logined.bmml%26bm%3B2066_Logined.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C107%2C79%2C134%22%20href%3D%222066_Logined.bmml%22%20alt%3D%222066_Logined%22%20id%3D%223%22/%3E</map>
+        <href>2068_MemberAccount%26bm%3B2068_MemberAccount.bmml%26bm%3B2068_MemberAccount.bmml%26bm%3B2068_MemberAccount.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C107%2C79%2C134%22%20href%3D%222068_MemberAccount.bmml%22%20alt%3D%222068_MemberAccount%22%20id%3D%223%22/%3E</map>
         <text>%u66F4%u591A</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="244" y="141" w="215" h="210" measuredW="215" measuredH="210" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C248%2C196%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C248%2C196%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C248%2C196%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C248%2C196%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C146%2C248%2C196%22%20href%3D%222002_Lotto.bmml%22%20alt%3D%222002_Lotto%22%20id%3D%220_0%22/%3E%0A</map>
         <src>./assets/symbols.bmml#Prize%20List</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="411" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>2000_Lottoes%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml%26bm%3B2000_Lottoes.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C107%2C248%2C134%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%225%22/%3E</map>
+        <text>%u62BD%u5956</text>
       </controlProperties>
     </control>
   </controls>

@@ -1,15 +1,15 @@
-<mockup version="1.0" skin="sketch" measuredW="473" measuredH="510" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="589" measuredH="510" mockupW="398" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="191" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="222" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="222" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
         <href>2060_More%26bm%3B2060_More.bmml%26bm%3B2060_More.bmml%26bm%3B2060_More.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C105%2C78%2C132%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C105%2C79%2C132%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
@@ -23,7 +23,7 @@
         <text>%u6CDB%u76C8%u7B80%u4ECB%uFF1A%5Cr%5Cr%5Cr%0A%u90AE%u4EF6%uFF1Ainfo@extensivepro.com%2C%20%3E%0A%u7F51%u5740%uFF1Awww.extensivepro.com%2C%20%3E%0A%u7535%u8BDD%uFF1A025-66013057%2C%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="316" y="107" w="-1" h="-1" measuredW="32" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="316" y="107" w="-1" h="-1" measuredW="33" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5173%u4E8E</text>
       </controlProperties>
@@ -32,6 +32,11 @@
       <controlProperties>
         <align>center</align>
         <text>%u6CDB%u5361%u5BA2%u6237%u7AEF%20v1.0%20%0Acopyright@extensivepro%202012</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="480" y="228" w="109" h="126" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u90AE%u4EF6%u548C%u7F51%u5740%u5206%u522B%u6253%u5F00%u5916%u90E8%u5E94%u7528%uFF0C%u7535%u8BDD%u53EF%u4EE5%u76F4%u63A5%u62E8%u6253%u3002</text>
       </controlProperties>
     </control>
   </controls>

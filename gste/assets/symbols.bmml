@@ -39,7 +39,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="1" controlTypeID="__group__" x="378" y="29" w="241" h="53" measuredW="241" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="__group__" x="378" y="29" w="240" h="53" measuredW="240" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>GSTE%20Tabbar%20and%20Title</controlName>
       </controlProperties>
@@ -52,29 +52,21 @@
             <text>%u8003%u8BD5</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="3" w="48" h="-1" measuredW="31" measuredH="46" zOrder="1" locked="false" isInGroup="1">
-          <controlProperties>
-            <href>116_GSTENews%26bm%3B116_GSTENews.bmml%26bm%3B116_GSTENews.bmml%26bm%3B116_GSTENews.bmml</href>
-            <icon>RSSIcon%7Csmall</icon>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22390%2C12%2C438%2C58%22%20href%3D%22116_GSTENews.bmml%22%20alt%3D%22116_GSTENews%22%20id%3D%222%22/%3E</map>
-            <text>%u52A8%u6001</text>
-          </controlProperties>
-        </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="129" y="4" w="57" h="-1" measuredW="31" measuredH="46" zOrder="2" locked="false" isInGroup="1">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="96" y="4" w="57" h="-1" measuredW="31" measuredH="46" zOrder="1" locked="false" isInGroup="1">
           <controlProperties>
             <href>260_PersonalCenter%26bm%3B260_PersonalCenter.bmml%26bm%3B260_PersonalCenter.bmml%26bm%3B260_PersonalCenter.bmml</href>
             <icon>UserIcon%7Csmall</icon>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22447%2C13%2C504%2C59%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22414%2C13%2C471%2C59%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E</map>
             <text>%u7A7A%u95F4</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="186" y="3" w="55" h="-1" measuredW="31" measuredH="46" zOrder="3" locked="false" isInGroup="1">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="185" y="4" w="55" h="-1" measuredW="31" measuredH="46" zOrder="2" locked="false" isInGroup="1">
           <controlProperties>
             <icon>EllipsisIcon%7Csmall</icon>
             <text>%u66F4%u591A</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="71" h="53" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="1">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="71" h="53" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="1">
           <controlProperties>
             <backgroundAlpha>0</backgroundAlpha>
           </controlProperties>

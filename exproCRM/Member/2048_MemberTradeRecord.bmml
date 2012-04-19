@@ -5,9 +5,9 @@
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="241" y="141" w="-1" h="-1" measuredW="215" measuredH="92" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="241" y="141" w="-1" h="-1" measuredW="215" measuredH="90" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u8D2D%u7269%u6D88%u8D39%20%u91D1%u989D%uFF1A-200%20%u79EF%u5206%3A+200%5Cr2012-04-05%20%u6C5F%u5B81%u5E97%0A%u73B0%u91D1%u5145%u503C%20%u91D1%u989D%uFF1A+100%20%u79EF%u5206%3A+300%5Cr2012-04-01%20%u65B0%u8857%u53E3%u5E97</text>
+        <text>%u8D2D%u7269%u6D88%u8D39%20%u91D1%u989D%uFF1A-200%20%u79EF%u5206%3A+200%5Cr2012-04-05%203C%u6570%u7801%u6C5F%u5B81%u5E97%0A%u73B0%u91D1%u5145%u503C%20%u91D1%u989D%uFF1A+100%20%u79EF%u5206%3A+300%5Cr2012-04-01%203C%u6570%u7801%u65B0%u8857%u53E3%u5E97</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="241" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">

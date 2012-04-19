@@ -41,19 +41,13 @@
         <text>%u8BD5%u5377%u540D%u79F0%uFF1A%2C%202008%u5E74%u5EA6%u6D59%u6C5F%u7701%u4F1A%u8BA1...%0A%u8003%u751F%u59D3%u540D%uFF1A%2C%20%u5F20%u4E09%0A%u5F97%u5206/%u6EE1%u5206%uFF1A%2C%2090/100%u5206%0A%u7528%u65F6/%u65F6%u9650%uFF1A%2C%2030/120%u5206%u949F%0A%u6392%u540D/%u603B%u4EBA%u6B21%uFF1A%2C%201/6%20</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="144" y="139" w="-1" h="-1" measuredW="83" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>CircledXIcon%7Clarge</icon>
-        <text>%u8003%u8BD5%u6CA1%u6709%u901A%u8FC7</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::VCurly" x="75" y="194" w="167" h="164" measuredW="180" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::VCurly" x="75" y="194" w="167" h="164" measuredW="180" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>right</direction>
         <text>%u6210%u7EE9%u5185%u5BB9%u8BE6%u60C5</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="__group__" x="364" y="310" w="215" h="120" measuredW="215" measuredH="120" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="__group__" x="364" y="310" w="215" h="120" measuredW="215" measuredH="120" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>examination%20analysis</controlName>
       </controlProperties>
