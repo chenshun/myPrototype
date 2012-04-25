@@ -1,21 +1,45 @@
-<mockup version="1.0" skin="sketch" measuredW="482" measuredH="510" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="491" measuredH="514" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="200" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="209" y="4" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="233" y="106" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="240" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
-        <href>2046_MemberBalance%26bm%3B2046_MemberBalance.bmml%26bm%3B2046_MemberBalance.bmml%26bm%3B2046_MemberBalance.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C106%2C80%2C133%22%20href%3D%222046_MemberBalance.bmml%22%20alt%3D%222046_MemberBalance%22%20id%3D%221%22/%3E</map>
+        <href>2030_Shop%26bm%3B2030_Shop.bmml%26bm%3B2030_Shop.bmml%26bm%3B2030_Shop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C103%2C79%2C130%22%20href%3D%222030_Shop.bmml%22%20alt%3D%222030_Shop%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="233" y="142" w="-1" h="-1" measuredW="215" measuredH="137" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="412" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>3C%u6570%u7801%u5E97%u4EE3%u91D1%u5377%0A%u4F7F%u7528%u8BF4%u660E%uFF1A%u6D88%u8D39%u6EE1100%5Cr%u53EF%u4EE5%u62B5%u752830%u5143%0A%u6709%u6548%u671F%2C2012-12-31%0A%u5269%u4F59%u6570%u91CF%2C7</text>
+        <direction>center</direction>
+        <text>%u56FE%u7247</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="240" y="151" w="-1" h="-1" measuredW="215" measuredH="146" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C2032_ShopList%26bm%3B2032_ShopList.bmml%26bm%3B2032_ShopList.bmml%26bm%3B2032_ShopList.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C259%2C246%2C288%22%20href%3D%222032_ShopList.bmml%22%20alt%3D%222032_ShopList%22%20id%3D%223_0%22/%3E%0A</map>
+        <text>%u5C0A%u4EAB%u4F18%u60E0%u5238%5Cr%u53EF%u4EE5%u62B5%u6263%u5916%u8BBE%u6D88%u8D3920%u5143%5Cr%5Cr%5Cr%0A%u6709%u6548%u671F%uFF1A2012-04-01%u81F32012-09-30%0A%u53EF%u4F7F%u7528%u95E8%u5E97%2C%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="328" y="109" w="-1" h="-1" measuredW="46" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4F18%u60E0%u5238</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="249" y="341" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%u76F4%u63A5%u5C55%u793A%u6B64%u9875%u5373%u53EF%u4EAB%u53D7%u4F18%u60E0%0A%u514D%u8D23%u58F0%u660E</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="249" y="305" w="201" h="27" measuredW="77" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u653E%u5165%u5361%u5305</text>
       </controlProperties>
     </control>
   </controls>

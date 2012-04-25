@@ -13,6 +13,7 @@
         <override controlID="2" x="114" y="6" w="-1" h="-1"/>
         <override controlID="3" x="171" y="6" w="-1" h="-1"/>
         <override controlID="4" x="102" y="0" w="57" h="49"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Member%20Tabbar</src>
       </controlProperties>
     </control>
@@ -21,7 +22,7 @@
         <text>%u4F1A%u5458%u5361%u4FE1%u606F</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="294" y="150" w="63" h="53" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="294" y="146" w="63" h="53" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5546%u6237%u6D77%u62A5</text>
       </controlProperties>
@@ -31,7 +32,7 @@
         <borderStyle>none</borderStyle>
         <hrefs>%2C%2C2044_Member%08Privilege%26bm%3B2044_Member%08Privilege.bmml%26bm%3B2044_Member%08Privilege.bmml%26bm%3B2044_Member%08Privilege.bmml%2C2032_ShopList%26bm%3B2032_ShopList.bmml%26bm%3B2032_ShopList.bmml%26bm%3B2032_ShopList.bmml%2C2046_MemberBalance%26bm%3B2046_MemberBalance.bmml%26bm%3B2046_MemberBalance.bmml%26bm%3B2046_MemberBalance.bmml%2C2048_MemberTradeRecord%26bm%3B2048_MemberTradeRecord.bmml%26bm%3B2048_MemberTradeRecord.bmml%26bm%3B2048_MemberTradeRecord.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C259%2C246%2C288%22%20href%3D%222044_Member%2508Privilege.bmml%22%20alt%3D%222044_Member%08Privilege%22%20id%3D%2221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C288%2C246%2C317%22%20href%3D%222032_ShopList.bmml%22%20alt%3D%222032_ShopList%22%20id%3D%2221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C317%2C246%2C346%22%20href%3D%222046_MemberBalance.bmml%22%20alt%3D%222046_MemberBalance%22%20id%3D%2221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C346%2C246%2C375%22%20href%3D%222048_MemberTradeRecord.bmml%22%20alt%3D%222048_MemberTradeRecord%22%20id%3D%2221_3%22/%3E%0A</map>
-        <text>__%20%u5361%u53F7%uFF1A123456789%0A%u4F1A%u5458%u5361%u4F7F%u7528%u8BF4%u660E%3A%5Cr1.%u51FA%u793A%u624B%u673A%u5373%u53EF%u4EAB%u53D7%u4F1A%u5458%u5F85%u9047%5Cr2%u4EA4%u6613%u540E%u4F1A%u6709%u8D26%u5355%5Cr%0A%u4F1A%u5458%u4F18%u60E0%2C%3E%0A%u53EF%u7528%u95E8%u5E97%2C%3E%0A%u4F59%u989D%2C%3E%0A%u4EA4%u6613%u8BB0%u5F55%2C%3E</text>
+        <text>__%20%u5361%u53F7%uFF1A123456789%5Cr%u6709%u6548%u671F%uFF1A%202014-01-31%0A%u4F1A%u5458%u5361%u4F7F%u7528%u8BF4%u660E%3A%5Cr1.%u51FA%u793A%u624B%u673A%u5373%u53EF%u4EAB%u53D7%u4F1A%u5458%u5F85%u9047%5Cr2%u4EA4%u6613%u540E%u4F1A%u6709%u8D26%u5355%5Cr%0A%u4F1A%u5458%u4F18%u60E0%2C1%20%3E%0A%u53EF%u7528%u95E8%u5E97%2C%3E%0A%u4F59%u989D%2C%3E%0A%u4EA4%u6613%u8BB0%u5F55%2C%3E</text>
       </controlProperties>
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::PointyButton" x="294" y="106" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
@@ -49,6 +50,12 @@
         <icon>Trash2Icon%7Csmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22204%2C104%2C249%2C135%22%20href%3D%222043_MemberUnregister.bmml%22%20alt%3D%222043_MemberUnregister%22%20id%3D%2223%22/%3E</map>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Icon" x="490" y="203" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>

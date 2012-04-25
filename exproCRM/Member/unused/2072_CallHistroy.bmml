@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="417" measuredH="510" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="541" measuredH="510" mockupW="406" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="135" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -26,6 +26,11 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="163" y="289" w="228" h="138" measuredW="228" measuredH="138" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#make%20call</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::StickyNote" x="432" y="147" w="109" h="127" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u62E8%u6253%u8BB0%u5F55%u6700%u591A100%u6761%uFF0C%u6700%u65B0%u7684%u8986%u76D6%u6700%u65E7%u7684%u3002</text>
       </controlProperties>
     </control>
   </controls>

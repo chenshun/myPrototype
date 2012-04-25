@@ -13,9 +13,9 @@
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="176" y="144" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="176" y="144" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u7528%u6237%uFF1A18912345678%0A%u624B%u673A%uFF1A18912345678</text>
+        <text>%u7528%u6237%uFF1A18912345678%0A%u624B%u673A%uFF1A18912345678%0A%u5730%u5740%uFF1A</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="253" y="106" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
@@ -30,11 +30,18 @@
         <text>%u6CE8%u9500</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="175" y="227" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="175" y="299" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>2076_Bonus%26bm%3B2076_Bonus.bmml%26bm%3B2076_Bonus.bmml%26bm%3B2076_Bonus.bmml%2C2070_Prizes%26bm%3B2070_Prizes.bmml%26bm%3B2070_Prizes.bmml%26bm%3B2070_Prizes.bmml%2C2048_MemberTradeRecord%26bm%3B2048_MemberTradeRecord.bmml%26bm%3B2048_MemberTradeRecord.bmml%26bm%3B2048_MemberTradeRecord.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C232%2C249%2C261%22%20href%3D%222076_Bonus.bmml%22%20alt%3D%222076_Bonus%22%20id%3D%226_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C261%2C249%2C290%22%20href%3D%222070_Prizes.bmml%22%20alt%3D%222070_Prizes%22%20id%3D%226_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C290%2C249%2C319%22%20href%3D%222048_MemberTradeRecord.bmml%22%20alt%3D%222048_MemberTradeRecord%22%20id%3D%226_2%22/%3E%0A</map>
-        <text>%u6CDB%u94F6%2C%202000%20%3E%0A%u793C%u54C1%2C%201%20%3E%0A%u4EA4%u6613%u8BB0%u5F55%2C%20%u622A%u6B622012-01-05%20%3E</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C304%2C249%2C333%22%20href%3D%222076_Bonus.bmml%22%20alt%3D%222076_Bonus%22%20id%3D%226_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C333%2C249%2C362%22%20href%3D%222070_Prizes.bmml%22%20alt%3D%222070_Prizes%22%20id%3D%226_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C362%2C249%2C391%22%20href%3D%222048_MemberTradeRecord.bmml%22%20alt%3D%222048_MemberTradeRecord%22%20id%3D%226_2%22/%3E%0A</map>
+        <text>%u6CDB%u94F6%2C%202000%20%3E%0A%u5956%u54C1%u793C%u54C1%2C%201%20%3E%0A%u4EA4%u6613%u8BB0%u5F55%2C%20%u622A%u6B622012-01-05%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="175" y="252" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>2069_MemberPassword%26bm%3B2069_MemberPassword.bmml%26bm%3B2069_MemberPassword.bmml%26bm%3B2069_MemberPassword.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C257%2C249%2C286%22%20href%3D%222069_MemberPassword.bmml%22%20alt%3D%222069_MemberPassword%22%20id%3D%227_0%22/%3E%0A</map>
+        <text>%u4FEE%u6539%u5BC6%u7801%2C%20%3E</text>
       </controlProperties>
     </control>
   </controls>

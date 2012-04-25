@@ -5,9 +5,9 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="309" y="380" w="203" h="53" measuredW="203" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="309" y="380" w="202" h="52" measuredW="202" measuredH="52" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C78%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C135%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C192%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C249%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C78%2C433%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C135%2C433%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C192%2C433%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C249%2C433%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2246%2C386%2C77%2C432%22%20href%3D%222000_Lottoes.bmml%22%20alt%3D%222000_Lottoes%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C386%2C134%2C432%22%20href%3D%222020_Shops.bmml%22%20alt%3D%222020_Shops%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C386%2C191%2C432%22%20href%3D%222040_Cardbag.bmml%22%20alt%3D%222040_Cardbag%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22217%2C386%2C248%2C432%22%20href%3D%222060_More.bmml%22%20alt%3D%222060_More%22%20id%3D%223%22/%3E</map>
         <override controlID="0" x="0" y="6" w="-1" h="-1"/>
         <override controlID="1" x="57" y="6" w="-1" h="-1"/>
         <override controlID="2" x="114" y="6" w="-1" h="-1"/>
@@ -16,7 +16,7 @@
         <src>./assets/symbols.bmml#Member%20Tabbar</src>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="388" y="108" w="-1" h="-1" measuredW="33" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="388" y="108" w="-1" h="-1" measuredW="32" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5361%u5305</text>
       </controlProperties>
@@ -66,6 +66,20 @@
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="438" y="282" w="73" h="53" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5546%u6237%u6D77%u62A5</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Icon" x="343" y="145" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13369344</color>
+        <icon>Number1Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Icon" x="343" y="214" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13369344</color>
+        <icon>Number2Icon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>
