@@ -5,12 +5,12 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="248" y="110" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="248" y="110" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>center</direction>
         <href>262_AccountInfo%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22198%2C103%2C246%2C130%22%20href%3D%22262_AccountInfo.bmml%22%20alt%3D%22262_AccountInfo%22%20id%3D%2231%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22198%2C103%2C245%2C130%22%20href%3D%22262_AccountInfo.bmml%22%20alt%3D%22262_AccountInfo%22%20id%3D%2231%22/%3E</map>
         <text>%u7F16%u8F91</text>
       </controlProperties>
     </control>
@@ -22,7 +22,7 @@
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Component" x="79" y="386" w="232" h="53" measuredW="232" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C430%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C430%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C430%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E</map>
         <override controlID="0">
           <text>%u4E2A%u4EBA%u4E2D%u5FC3</text>
         </override>
@@ -37,7 +37,7 @@
         <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="162" y="111" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="162" y="111" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u4E2A%u4EBA%u4E2D%u5FC3</text>
       </controlProperties>

@@ -14,12 +14,12 @@
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="105" y="106" w="-1" h="-1" measuredW="84" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="105" y="106" w="-1" h="-1" measuredW="83" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u9ED8%u5199%u8BB0%u5F55%u8BE6%u60C5</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="62" y="145" w="-1" h="-1" measuredW="165" measuredH="31" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="62" y="145" w="-1" h="-1" measuredW="165" measuredH="30" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5168%u90E8%2C%20%u9519%u8BEF%2C%20%u6B63%u786E</text>
       </controlProperties>
@@ -80,7 +80,7 @@
         <direction>center</direction>
         <href>240_Listening%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C104%2C248%2C131%22%20href%3D%22240_Listening.bmml%22%20alt%3D%22240_Listening%22%20id%3D%228%22/%3E</map>
-        <text>%u91CD%u9ED8</text>
+        <text>%u91CD%u505A</text>
       </controlProperties>
     </control>
   </controls>
