@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" measuredW="282" measuredH="592" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="82" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="33" y="188" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C106%2C80%2C133%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%221%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="230" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>_%20%20%20%20%20%20%20%20%20%20%20%20%20%u9AD8%u4E2D%u7B2C%u4E00%u518C%0A%u5355%u8BCD%u6570%2C%2050%0A%u8BCD%u7EC4%u6570%2C%2050%0A%u77ED%u8BED%u6570%2C%2050</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="112" y="190" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u542C%u529B%u8003%u8BD5</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="188" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>240_Listening%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22204%2C106%2C251%2C133%22%20href%3D%22240_Listening.bmml%22%20alt%3D%22240_Listening%22%20id%3D%224%22/%3E</map>
+        <text>%u5F00%u59CB</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="365" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u91CD%u590D%u6B21%u6570%2C%203%0A%u64AD%u653E%u95F4%u9694%2C%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="448" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u542C%u5199%u4EBA%u6B21%2C%2030</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
