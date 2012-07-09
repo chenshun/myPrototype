@@ -5,7 +5,7 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="99" y="106" w="-1" h="-1" measuredW="84" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="96" y="106" w="-1" h="-1" measuredW="84" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u542C%u529B%u8003%u8BD5%u8BB0%u5F55</text>
       </controlProperties>
@@ -70,18 +70,9 @@
     <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="227" y="237" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>240_Listening%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml%26bm%3B240_Listening.bmml</href>
+        <href>216_ListeningSummary%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml</href>
         <icon>GtCircledIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22227%2C237%2C243%2C253%22%20href%3D%22240_Listening.bmml%22%20alt%3D%22240_Listening%22%20id%3D%2211%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::PointyButton" x="201" y="104" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>2848996</color>
-        <direction>center</direction>
-        <href>268_RecordListHelp%26bm%3B268_RecordListHelp.bmml%26bm%3B268_RecordListHelp.bmml%26bm%3B268_RecordListHelp.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C104%2C248%2C131%22%20href%3D%22268_RecordListHelp.bmml%22%20alt%3D%22268_RecordListHelp%22%20id%3D%2212%22/%3E</map>
-        <text>%u5E2E%u52A9</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22227%2C237%2C243%2C253%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%2211%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

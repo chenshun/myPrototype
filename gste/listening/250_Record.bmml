@@ -10,11 +10,11 @@
         <text>%u542C%u5199%u6210%u7EE9%u5355</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="142" w="-1" h="-1" measuredW="215" measuredH="350" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="142" w="-1" h="-1" measuredW="215" measuredH="263" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C%2C252_RecordCorrectList%26bm%3B252_RecordCorrectList.bmml%26bm%3B252_RecordCorrectList.bmml%26bm%3B252_RecordCorrectList.bmml%2C%2C%2C%2C254_RecordErrorList%26bm%3B254_RecordErrorList.bmml%26bm%3B254_RecordErrorList.bmml%26bm%3B254_RecordErrorList.bmml%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C255%2C249%2C284%22%20href%3D%22252_RecordCorrectList.bmml%22%20alt%3D%22252_RecordCorrectList%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C371%2C249%2C400%22%20href%3D%22254_RecordErrorList.bmml%22%20alt%3D%22254_RecordErrorList%22%20id%3D%222_1%22/%3E%0A</map>
-        <text>__%20%u9AD8%u4E2D%u7B2C%u4E00%u518C%u542C%u529B%2C%0A%u8003%u8BD5%u7C7B%u578B%2C%u9519%u9898%u91CD%u505A%0A%u8003%u8BD5%u65F6%u95F4%2C2012-08-15%2010%3A12%0A%u6B63%u786E%u6570%3A215/300%2C%20%u8BE6%u60C5%20%3D%0A%20%20%20%20%u5355%u8BCD%u6B63%u786E%u6570%uFF1A15/100%0A%20%20%20%20%u8BCD%u7EC4%u6B63%u786E%u6570%uFF1A100/100%0A%20%20%20%20%u77ED%u8BED%u6B63%u786E%u6570%uFF1A100/100%0A%u9519%u8BEF%u6570%3A75/300%2C%u8BE6%u60C5%20%3D%0A%20%20%20%20%u5355%u8BCD%u9519%u8BEF%u6570%uFF1A85/100%0A%20%20%20%20%u8BCD%u7EC4%u9519%u8BEF%u6570%uFF1A0/100%0A%20%20%20%20%u77ED%u8BED%u9519%u8BEF%u6570%uFF1A0/100</text>
+        <hrefs>%2C%2C252_RecordCorrectList%26bm%3B252_RecordCorrectList.bmml%26bm%3B252_RecordCorrectList.bmml%26bm%3B252_RecordCorrectList.bmml%2C%2C%2C%2C254_RecordErrorList%26bm%3B254_RecordErrorList.bmml%26bm%3B254_RecordErrorList.bmml%26bm%3B254_RecordErrorList.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C226%2C249%2C255%22%20href%3D%22252_RecordCorrectList.bmml%22%20alt%3D%22252_RecordCorrectList%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C342%2C249%2C371%22%20href%3D%22254_RecordErrorList.bmml%22%20alt%3D%22254_RecordErrorList%22%20id%3D%222_1%22/%3E%0A</map>
+        <text>__%20%u9AD8%u4E2D%u7B2C%u4E00%u518C%u542C%u529B%2C%0A%u8003%u8BD5%u65F6%u95F4%2C2012-08-15%2010%3A12%0A%u6B63%u786E%u6570%3A215/300%2C%20%u8BE6%u60C5%20%3D%0A%20%20%20%20%u5355%u8BCD%u6B63%u786E%u6570%uFF1A15/100%0A%20%20%20%20%u8BCD%u7EC4%u6B63%u786E%u6570%uFF1A100/100%0A%u9519%u8BEF%u6570%3A75/300%2C%u8BE6%u60C5%20%3D%0A%20%20%20%20%u5355%u8BCD%u9519%u8BEF%u6570%uFF1A85/100%0A%20%20%20%20%u8BCD%u7EC4%u9519%u8BEF%u6570%uFF1A0/100</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="34" y="105" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="3" locked="false" isInGroup="-1">

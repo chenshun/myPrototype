@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" measuredW="332" measuredH="517" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="50" y="7" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="79" y="387" w="232" h="53" measuredW="232" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C384%2C84%2C431%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C384%2C206%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C384%2C150%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C384%2C84%2C431%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C384%2C206%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C384%2C150%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E</map>
+        <override controlID="0">
+          <text>%u9ED8%u5199%u5355%u8BCD</text>
+        </override>
+        <override controlID="1" x="0" y="4" w="55" h="-1"/>
+        <override controlID="2" x="63" y="3" w="48" h="-1">
+          <color>65535</color>
+        </override>
+        <override controlID="3" x="120" y="4" w="57" h="-1"/>
+        <override controlID="4" x="177" y="3" w="55" h="-1"/>
+        <override controlID="5" x="53" y="0" w="71" h="53"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="140" y="114" w="103" h="22" measuredW="99" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9AD8%u8001%u5E08%u7684%u542C%u5199%u7AD9</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="79" y="151" w="224" h="-1" measuredW="215" measuredH="174" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>216_ListeningSummary%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C149%2C253%2C190%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%2240_0%22/%3E%0A</map>
+        <text>%u9AD8%u4E2D%u7B2C%u4E00%u518C%u542C%u529B%5Cr%u5173%u95ED%u65F6%u95F4%uFF1A09-23%2010%3A12%2C%20%0A%u9AD8%u4E2D%u7B2C%u4E09%u518C%u542C%u529B%5Cr%u5173%u95ED%u65F6%u95F4%uFF1A09-23%2010%3A12%2C%20%0ACET-6%5Cr%20%2C80%25%0A%u65B0%u6982%u5FF5%u82F1%u8BED%5Cr%20%20%2C%u7B49%u5F85</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="274" y="165" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::PointyButton" x="79" y="112" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>200_FirendList%26bm%3B200_FirendList.bmml%26bm%3B200_FirendList.bmml%26bm%3B200_FirendList.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C105%2C77%2C132%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%2245%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Icon" x="274" y="209" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ProgressBar" x="88" y="254" w="171" h="20" measuredW="100" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <indeterminate>false</indeterminate>
+        <scrollBarValue>82</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::ProgressBar" x="88" y="295" w="171" h="20" measuredW="100" measuredH="20" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>0</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Alert" x="95" y="185" w="-1" h="-1" measuredW="200" measuredH="133" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22123%2C261%2C167%2C301%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2251_0%22/%3E%0A</map>
+        <text>%u63D0%u793A%0ACET-6%20%u8FD8%u6CA1%u6709%u4E0B%u8F7D%u5B8C%u6210%uFF0C%u8BF7%u5728%u5B8C%u6210%u4EE5%u540E%u5F00%u59CB%u542C%u529B%u8003%u8BD5%u3002%0A%u786E%u5B9A%uFF0C</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
