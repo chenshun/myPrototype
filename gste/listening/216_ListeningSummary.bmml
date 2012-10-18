@@ -16,7 +16,7 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="230" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>_%20%20%20%20%20%20%20%20%20%20%20%20%20%u9AD8%u4E2D%u7B2C%u4E00%u518C%0A%u5355%u8BCD%u6570%2C%2050%0A%u8BCD%u6C47%u6570%2C%2050</text>
+        <text>_%20%20%20%20%20%20%20%20%20%20%20%20%20%u9AD8%u4E2D%u7B2C%u4E00%u518C%0A%u5355%u8BCD%u6570%2C%2050%0A%u77ED%u8BED%u6570%2C%2050</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="112" y="190" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="3" locked="false" isInGroup="-1">

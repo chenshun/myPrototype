@@ -5,76 +5,44 @@
         <bgPattern>topBlackBottom</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="198" y="103" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="198" y="103" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>center</direction>
-        <href>262_AccountInfo%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22198%2C103%2C245%2C130%22%20href%3D%22262_AccountInfo.bmml%22%20alt%3D%22262_AccountInfo%22%20id%3D%2231%22/%3E</map>
-        <text>%u7F16%u8F91</text>
+        <text>%u6CE8%u9500</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="36" y="142" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="36" y="142" w="-1" h="-1" measuredW="215" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>_%20%u91D1%u77F3%2C%20%20v%0A_%20%u9AD8%u5FE0%u8BDA%2C%20%20%0A_%20%u6DFB%u52A0%u5E10%u53F7%2C%20%3E</text>
+        <hrefs>262_AccountInfo%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml%26bm%3B262_AccountInfo.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C147%2C251%2C176%22%20href%3D%22262_AccountInfo.bmml%22%20alt%3D%22262_AccountInfo%22%20id%3D%2232_0%22/%3E%0A</map>
+        <text>%u7528%u6237%u8D44%u6599%2C%20%20123@%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Component" x="29" y="379" w="232" h="53" measuredW="232" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Component" x="26" y="381" w="231" h="53" measuredW="231" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C383%2C84%2C429%22%20href%3D%22100_Examination.bmml%22%20alt%3D%22100_Examination%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22149%2C383%2C206%2C429%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C383%2C150%2C429%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E</map>
-        <override controlID="0">
-          <text>%u4E2A%u4EBA%u4E2D%u5FC3</text>
-        </override>
-        <override controlID="1" x="0" y="4" w="55" h="-1"/>
-        <override controlID="2" x="63" y="3" w="48" h="-1"/>
-        <override controlID="3" x="120" y="4" w="57" h="-1">
-          <color>65535</color>
-        </override>
-        <override controlID="5" x="111" y="0" w="71" h="53"/>
-        <override controlID="4" x="177" y="3" w="55" h="-1"/>
-        <override controlID="-1"/>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C384%2C202%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C384%2C145%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C384%2C90%2C431%22%20href%3D%22110_GSListeningList.bmml%22%20alt%3D%22110_GSListeningList%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C384%2C202%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C384%2C145%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C384%2C90%2C431%22%20href%3D%22110_GSListeningList.bmml%22%20alt%3D%22110_GSListeningList%22%20id%3D%227%22/%3E</map>
         <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="112" y="104" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="112" y="105" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u4E2A%u4EBA%u4E2D%u5FC3</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="36" y="247" w="-1" h="-1" measuredW="215" measuredH="126" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="196" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C264_RecordList%26bm%3B264_RecordList.bmml%26bm%3B264_RecordList.bmml%26bm%3B264_RecordList.bmml%2C266_RecordErrorRedoList%26bm%3B266_RecordErrorRedoList.bmml%26bm%3B266_RecordErrorRedoList.bmml%26bm%3B266_RecordErrorRedoList.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C310%2C251%2C339%22%20href%3D%22264_RecordList.bmml%22%20alt%3D%22264_RecordList%22%20id%3D%2235_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C339%2C251%2C368%22%20href%3D%22266_RecordErrorRedoList.bmml%22%20alt%3D%22266_RecordErrorRedoList%22%20id%3D%2235_1%22/%3E%0A</map>
-        <text>_%20%u8003%u8BD5%u8BB0%u5F55%2C%20%3E%0A_%20%u542C%u5199%u8BB0%u5F55%2C%2072%20%20%20%20%20%20%20%0A_%20%20%20%20%20%u5DF2%u505A%u8BD5%u5377%2C12%20%3E%0A_%20%20%20%20%20%u9519%u9898%u91CD%u505A%u8BD5%u5377%2C60%20%3E</text>
+        <hrefs>261_PersonalCenterFold%26bm%3B261_PersonalCenterFold.bmml%26bm%3B261_PersonalCenterFold.bmml%26bm%3B261_PersonalCenterFold.bmml%2C264_RecordList%26bm%3B264_RecordList.bmml%26bm%3B264_RecordList.bmml%26bm%3B264_RecordList.bmml%2C266_RecordErrorRedoList%26bm%3B266_RecordErrorRedoList.bmml%26bm%3B266_RecordErrorRedoList.bmml%26bm%3B266_RecordErrorRedoList.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C201%2C249%2C230%22%20href%3D%22261_PersonalCenterFold.bmml%22%20alt%3D%22261_PersonalCenterFold%22%20id%3D%2235_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C230%2C249%2C259%22%20href%3D%22264_RecordList.bmml%22%20alt%3D%22264_RecordList%22%20id%3D%2235_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C259%2C249%2C288%22%20href%3D%22266_RecordErrorRedoList.bmml%22%20alt%3D%22266_RecordErrorRedoList%22%20id%3D%2235_2%22/%3E%0A</map>
+        <text>_%20%u542C%u5199%u8BB0%u5F55%2C%2072%20%20%20%20%20%20%20%0A_%20%20%20%20%20%u5DF2%u505A%u8BD5%u5377%2C12%20%3E%0A_%20%20%20%20%20%u9519%u9898%u91CD%u505A%u8BD5%u5377%2C60%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="42" y="148" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ContactIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::Icon" x="42" y="178" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ContactIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="42" y="208" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>40463</color>
-        <icon>PlusBigIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Icon" x="42" y="252" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Icon" x="38" y="204" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>NumberedListIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="42" y="282" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>NumberedListIcon%7Csmall</icon>
-      </controlProperties>
-    </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="229" y="286" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="226" y="208" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>
