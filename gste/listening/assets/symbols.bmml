@@ -290,40 +290,62 @@
           <controlProperties>
             <borderStyle>none</borderStyle>
             <hrefs>216_ListeningSummary%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%2C%2C%2C%2C%2C</hrefs>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C471%2C224%2C511%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%220_0%22/%3E%0A</map>
-            <text>%u9AD8%u4E2D%u7B2C%u4E00%u518C%u542C%u529B%5Cr%u5173%u95ED%u65F6%u95F4%uFF1A09-23%2010%3A12%20%20%u8BCD%u6C47%uFF1A3%2C%20%3E%0A%u9AD8%u4E2D%u7B2C%u4E09%u518C%u542C%u529B%5Cr%u5173%u95ED%u65F6%u95F4%uFF1A09-23%2010%3A12%20%20%u8BCD%u6C47%uFF1A6%2C%20%3E%0ACET-4%5Cr%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050/100%2C%0ACET-6%5Cr%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2040/80%2C%0A%u65B0%u6982%u5FF5%u82F1%u8BED%5Cr%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200/20%2C%0A_%20%20%20%20%20%20%20%20%20%20%20%u83B7%u53D6%u66F4%u591A...</text>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C471%2C224%2C521%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%220_0%22/%3E%0A</map>
+            <text>__%20%u725B%u6D25%u521D%u4E2D%u82F1%u8BED7A%5Cr10%3A12%u5173%u95ED%20%203%u8BCD%u6C47%2C%20%3E%0A__%20CET-4%5Cr9-23%u5173%u95ED%20%203%u8BCD%u6C47%2C%0A__%20CET-6%5Cr9-22%u5173%u95ED%20%2099%u8BCD%u6C47%2C%0A__%20%u65B0%u6982%u5FF5%u82F1%u8BED%5Cr9-21%u5173%u95ED%20%2012%u8BCD%u6C47%2C%0A_%20%20%20%20%20%20%20%20%20%20%20%u83B7%u53D6%u66F4%u591A...</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::ProgressBar" x="9" y="107" w="76" h="16" measuredW="100" measuredH="20" zOrder="1" locked="false" isInGroup="10">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ProgressBar" x="7" y="85" w="40" h="16" measuredW="100" measuredH="20" zOrder="6" locked="false" isInGroup="10">
           <controlProperties>
             <indeterminate>false</indeterminate>
             <scrollBarValue>58</scrollBarValue>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="145" y="139" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="145" y="122" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="1" locked="false" isInGroup="10">
           <controlProperties>
             <color>13576743</color>
             <text>%u53D6%u6D88%u4E0B%u8F7D</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::ProgressBar" x="9" y="191" w="76" h="15" measuredW="100" measuredH="20" zOrder="3" locked="false" isInGroup="10">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ProgressBar" x="7" y="184" w="46" h="15" measuredW="100" measuredH="20" zOrder="10" locked="false" isInGroup="10">
           <controlProperties>
             <scrollBarValue>0</scrollBarValue>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="145" y="98" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="4" locked="false" isInGroup="10">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="145" y="74" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="2" locked="false" isInGroup="10">
           <controlProperties>
             <color>10066329</color>
             <text>%u6062%u590D%u4E0B%u8F7D</text>
           </controlProperties>
         </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="145" y="183" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="5" locked="false" isInGroup="10">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="145" y="178" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="3" locked="false" isInGroup="10">
           <controlProperties>
             <color>40463</color>
             <text>%u4F18%u5148%u4E0B%u8F7D</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::ProgressBar" x="9" y="148" w="76" h="16" measuredW="100" measuredH="20" zOrder="6" locked="false" isInGroup="10">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="5" y="5" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="10">
+          <controlProperties>
+            <href>118_GSListeningBookFront%26bm%3B118_GSListeningBookFront.bmml%26bm%3B118_GSListeningBookFront.bmml%26bm%3B118_GSListeningBookFront.bmml</href>
+            <icon>./assets/icon_oxford7A.png%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C471%2C53%2C519%22%20href%3D%22118_GSListeningBookFront.bmml%22%20alt%3D%22118_GSListeningBookFront%22%20id%3D%227%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="3" y="58" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="5" locked="false" isInGroup="10">
+          <controlProperties>
+            <icon>BoldIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="7" y="107" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="10">
+          <controlProperties>
+            <icon>BookIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="7" y="155" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="8" locked="false" isInGroup="10">
+          <controlProperties>
+            <icon>BoldIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::ProgressBar" x="7" y="133" w="46" h="16" measuredW="100" measuredH="20" zOrder="9" locked="false" isInGroup="10">
           <controlProperties>
             <indeterminate>false</indeterminate>
             <scrollBarValue>58</scrollBarValue>
