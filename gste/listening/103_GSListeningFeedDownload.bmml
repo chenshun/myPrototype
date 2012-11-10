@@ -7,35 +7,34 @@
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="26" y="378" w="231" h="53" measuredW="231" measuredH="53" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C428%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C428%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C428%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C428%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C428%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C428%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C427%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C427%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C427%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C427%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C427%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C427%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C427%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C427%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C427%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%227%22/%3E</map>
         <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="30" y="105" w="-1" h="-1" measuredW="111" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="30" y="105" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>./assets/icon_goldstone.png%7Csmall</icon>
         <labelPosition>right</labelPosition>
         <text>%u521D%u4E2D%u82F1%u8BED%u8BCD%u6C47</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="150" y="104" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="150" y="104" w="-1" h="-1" measuredW="99" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
-        <href>104_GSListeningBookList%26bm%3B104_GSListeningBookList.bmml%26bm%3B104_GSListeningBookList.bmml%26bm%3B104_GSListeningBookList.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C104%2C250%2C131%22%20href%3D%22104_GSListeningBookList.bmml%22%20alt%3D%22104_GSListeningBookList%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C104%2C249%2C131%22%20href%3D%22104_GSListeningBookList.bmml%22%20alt%3D%22104_GSListeningBookList%22%20id%3D%223%22/%3E</map>
         <text>%u540C%u6B65%u8003%u8BD5%u6750%u6599</text>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::ProgressBar" x="41" y="228" w="45" h="14" measuredW="100" measuredH="20" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="162" y="211" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="162" y="211" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
         <href>102_GSListeningFeed%26bm%3B102_GSListeningFeed.bmml%26bm%3B102_GSListeningFeed.bmml%26bm%3B102_GSListeningFeed.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22162%2C211%2C239%2C238%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%2213%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22162%2C211%2C238%2C238%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%2213%22/%3E</map>
         <text>%u53D6%u6D88%u4E0B%u8F7D</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="162" y="265" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="162" y="265" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <text>%u4F18%u5148%u4E0B%u8F7D</text>
@@ -43,7 +42,7 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::ProgressBar" x="40" y="276" w="45" h="14" measuredW="100" measuredH="20" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::ProgressBar" x="40" y="324" w="45" h="14" measuredW="100" measuredH="20" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="162" y="312" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="162" y="312" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <text>%u6062%u590D%u4E0B%u8F7D</text>
@@ -51,7 +50,7 @@
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::Component" x="34" y="137" w="215" h="239" measuredW="215" measuredH="239" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C142%2C249%2C192%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C192%2C249%2C242%22%20href%3D%22103_GSListeningFeedDownload.bmml%22%20alt%3D%22103_GSListeningFeedDownload%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C143%2C88%2C191%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C142%2C249%2C192%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C192%2C249%2C242%22%20href%3D%22103_GSListeningFeedDownload.bmml%22%20alt%3D%22103_GSListeningFeedDownload%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C143%2C88%2C191%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C151%2C85%2C187%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C151%2C85%2C187%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C151%2C85%2C187%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E</map>
         <src>./assets/symbols.bmml#Listening%20Feed</src>
       </controlProperties>
     </control>

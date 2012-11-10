@@ -9,8 +9,8 @@
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
-        <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C106%2C81%2C133%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%221%22/%3E</map>
+        <href>102_GSListeningFeed%26bm%3B102_GSListeningFeed.bmml%26bm%3B102_GSListeningFeed.bmml%26bm%3B102_GSListeningFeed.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C106%2C81%2C133%22%20href%3D%22102_GSListeningFeed.bmml%22%20alt%3D%22102_GSListeningFeed%22%20id%3D%221%22/%3E</map>
         <text>%u8FD4%u56DE</text>
       </controlProperties>
     </control>

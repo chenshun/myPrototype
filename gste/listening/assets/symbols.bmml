@@ -325,9 +325,7 @@
         </control>
         <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="5" y="5" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="4" locked="false" isInGroup="10">
           <controlProperties>
-            <href>118_GSListeningBookFront%26bm%3B118_GSListeningBookFront.bmml%26bm%3B118_GSListeningBookFront.bmml%26bm%3B118_GSListeningBookFront.bmml</href>
             <icon>./assets/icon_oxford7A.png%7Clarge</icon>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C471%2C53%2C519%22%20href%3D%22118_GSListeningBookFront.bmml%22%20alt%3D%22118_GSListeningBookFront%22%20id%3D%227%22/%3E</map>
           </controlProperties>
         </control>
         <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="3" y="58" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="5" locked="false" isInGroup="10">
@@ -360,8 +358,6 @@
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="239" zOrder="0" locked="false" isInGroup="11">
           <controlProperties>
-            <hrefs>216_ListeningSummary%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%2C103_GSListeningFeedDownload%26bm%3B103_GSListeningFeedDownload.bmml%26bm%3B103_GSListeningFeedDownload.bmml%26bm%3B103_GSListeningFeedDownload.bmml%2C%2C%2C</hrefs>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22697%2C409%2C912%2C459%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22697%2C459%2C912%2C509%22%20href%3D%22103_GSListeningFeedDownload.bmml%22%20alt%3D%22103_GSListeningFeedDownload%22%20id%3D%220_1%22/%3E%0A</map>
             <text>__%20%u725B%u6D25%u521D%u4E2D%u82F1%u8BED7A%5Cr10%3A12%u5173%u95ED%20%203%u8BCD%u6C47%2C%20%3E%0A__%20CET-4%5Cr9-23%u5173%u95ED%20%203%u8BCD%u6C47%2C%20%0A__%20CET-6%5Cr9-22%u5173%u95ED%20%2099%u8BCD%u6C47%2C%0A__%20%u65B0%u6982%u5FF5%u82F1%u8BED%5Cr9-21%u5173%u95ED%20%2012%u8BCD%u6C47%2C%0A_%20%20%20%20%20%20%20%20%20%20%20%u83B7%u53D6%u66F4%u591A...</text>
           </controlProperties>
         </control>
