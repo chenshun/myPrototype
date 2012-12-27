@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" measuredW="406" measuredH="510" mockupW="406" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="112" y="107" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5728%u7EBF%u8003%u8BD5</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="31" y="104" w="-1" h="-1" measuredW="47" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <direction>left</direction>
+        <href>130_RealPaper%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml%26bm%3B130_RealPaper.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C104%2C78%2C131%22%20href%3D%22130_RealPaper.bmml%22%20alt%3D%22130_RealPaper%22%20id%3D%222%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="36" y="382" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>170_MockSingleChoice%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml%26bm%3B170_MockSingleChoice.bmml</href>
+        <icon>ImportIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C382%2C93%2C428%22%20href%3D%22170_MockSingleChoice.bmml%22%20alt%3D%22170_MockSingleChoice%22%20id%3D%223%22/%3E</map>
+        <text>%u5F00%u59CB%u8003%u8BD5</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="193" y="383" w="-1" h="-1" measuredW="57" measuredH="46" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>100_GSExamFeed%26bm%3B100_GSExamFeed.bmml%26bm%3B100_GSExamFeed.bmml%26bm%3B100_GSExamFeed.bmml</href>
+        <icon>AIMIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C383%2C250%2C429%22%20href%3D%22100_GSExamFeed.bmml%22%20alt%3D%22100_GSExamFeed%22%20id%3D%224%22/%3E</map>
+        <text>%u9000%u51FA%u8003%u8BD5</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="157" w="-1" h="-1" measuredW="215" measuredH="97" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%20%20%202012%u5E7412%u6708%u5927%u5B66%u82F1%u8BED%u56DB%u7EA7%u8003%u8BD5%0A%u8003%u8BD5%u65F6%u95F4%uFF1A%2C%20120%u5206%u949F%0A%u8003%u8BD5%u6EE1%u5206%uFF1A%2C%20100%u5206</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="41" y="265" w="200" h="60" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%u8003%u8BD5*%uFF0C%u6CE8%u518C%u7528%u6237%u53EF%u4EE5%u4FDD%u5B58%u8BB0%u5F55%uFF0C%u5EFA%u8BAE%u60A8%u6CE8%u518C%u540E%u518D%u53C2%u52A0%u8003%u8BD5%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="40" y="337" w="201" h="27" measuredW="50" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>%u767B%u9646</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="297" y="285" w="109" h="144" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7528%u6237%u5DF2%u7ECF%u767B%u9646%u72B6%u6001%u4E0B%uFF0C%u201C%u767B%u9646%u201D%u6309%u94AE%u4E0D%u53EF%u89C1</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

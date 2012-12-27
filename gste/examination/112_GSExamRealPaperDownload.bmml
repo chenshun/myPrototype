@@ -1,0 +1,59 @@
+<mockup version="1.0" skin="sketch" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="32" y="105" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>%u91D1%u77F3</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="105" y="107" w="-1" h="-1" measuredW="59" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5386%u5E74%u771F%u9898</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="26" y="381" w="231" h="53" measuredW="231" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C384%2C202%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C384%2C145%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C384%2C90%2C431%22%20href%3D%22100_GSExamFeed.bmml%22%20alt%3D%22100_GSExamFeed%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C384%2C202%2C431%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C384%2C145%2C431%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C384%2C90%2C431%22%20href%3D%22100_GSExamFeed.bmml%22%20alt%3D%22100_GSExamFeed%22%20id%3D%227%22/%3E</map>
+        <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="32" y="138" w="215" h="244" measuredW="215" measuredH="244" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#Paper%20List</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="171" y="191" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <href>110_GSExamRealPaper%26bm%3B110_GSExamRealPaper.bmml%26bm%3B110_GSExamRealPaper.bmml%26bm%3B110_GSExamRealPaper.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22171%2C191%2C248%2C218%22%20href%3D%22110_GSExamRealPaper.bmml%22%20alt%3D%22110_GSExamRealPaper%22%20id%3D%2210%22/%3E</map>
+        <text>%u53D6%u6D88%u4E0B%u8F7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="171" y="233" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>%u4F18%u5148%u4E0B%u8F7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="171" y="275" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>%u6062%u590D%u4E0B%u8F7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="209" y="316" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownloadIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ProgressBar" x="43" y="205" w="106" h="20" measuredW="100" measuredH="20" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::ProgressBar" x="43" y="245" w="106" h="20" measuredW="100" measuredH="20" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ProgressBar" x="43" y="290" w="106" h="20" measuredW="100" measuredH="20" zOrder="11" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
