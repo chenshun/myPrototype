@@ -25,9 +25,9 @@
         <text>Part%20%u2162%20Listening%20Comprehension</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="259" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="23" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Section%20A%0A11.%0AW%3A%20I%20just%20heard%20about%20a%20really%20beautiful%20park%20in%20the%20east%20end%20of%20the%20town.%20There%20are%20a%20lot%20of%20roses%20in%20bloom.%0AM%3A%20Why%20don%u2019t%20we%20walk%20over%20there%20and%20see%20for%20ourselves%3F%0AQ%3A%20What%20will%20the%20speakers%20probably%20do%3F%0A12.%0AM%3A%20My%20presentation%20is%20scheduled%20for%209%3A30%20tomorrow%20morning%20at%20the%20lecture%20hall.%20I%20hope%20to%20see%20you%20there.%0AW%3A%20Oh%2C%20sorry.%20I%20was%20about%20to%20tell%20you%20that%20I%20have%20an%20appointment%20with%20my%20dentist%20at%209%3A00%20o%u2019clock%20tomorrow.%0AQ%3A%20What%20do%20we%20learn%20about%20the%20woman%3F%0A13.%0AW%3A%20How%20long%20have%20you%20been%20running%20this%20company%3F%0AM%3A%20Twenty%20years%20if%20you%20can%20believe%20that.%20I%20brought%20it%20from%20a%20small%20operation%20to%20what%20it%20is%20today.%0AQ%3A%20What%20do%20we%20learn%20about%20the%20man%3F</text>
+        <text>Section%20A</text>
       </controlProperties>
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="5" locked="false" isInGroup="-1">
@@ -35,6 +35,24 @@
         <direction>center</direction>
         <icon>ExclamationPointIcon%7Csmall</icon>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="28" y="188" w="-1" h="-1" measuredW="57" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>VolumeIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <text>11.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="34" y="227" w="215" h="186" measuredW="215" measuredH="186" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E</map>
+        <src>./assets/symbols.bmml#SingleOptions</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HSlider" x="90" y="199" w="150" h="-1" measuredW="33" measuredH="11" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
       </controlProperties>
     </control>
   </controls>

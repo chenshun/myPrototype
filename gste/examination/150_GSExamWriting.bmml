@@ -25,13 +25,13 @@
         <text>Part%20I%20Writing%2830%20minutes%29</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="30" y="249" w="219" h="172" measuredW="500" measuredH="369" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="30" y="207" w="219" h="172" measuredW="500" measuredH="369" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/cet4-writing.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="160" w="219" h="96" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="160" w="219" h="65" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u3000%u3000%u6CE8%u610F%uFF1A%u6B64%u90E8%u5206%u8BD5%u9898%u5728%u7B54%u9898%u53611%u4E0A%uFF0E%20%0A%u3000%u3000For%20this%20part%2C%20you%20are%20allowed%2030%20minutes%20to%20write%20a%20short%20essay%20entitled%20Nothing%20Succeeds%20Without%20a%20Strong%20Will%20by%20commenting%20on%20the%20humorous%20saying%2C%20%22Quitting%20smoking%20is%20the%20easiest%20thing%20in%20the%20world.%20I%u2019ve%20done%20it%20hundreds%20of%20times.%22%20You%20should%20write%20at%20least%20120%20words%20but%20no%20more%20than%20180%20words.%0AEducation%20pays...%0A%20%0AEducation%20pays%20in%20higher%20earnings%20and%20lower%20unemployment%20rates</text>
       </controlProperties>
@@ -41,6 +41,21 @@
         <direction>center</direction>
         <icon>ExclamationPointIcon%7Csmall</icon>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="26" y="382" w="227" h="45" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>This%20is%20my%20writing.</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="23" y="385" w="232" h="42" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <href>152_GSExamWritingAnswer%26bm%3B152_GSExamWritingAnswer.bmml%26bm%3B152_GSExamWritingAnswer.bmml%26bm%3B152_GSExamWritingAnswer.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C385%2C255%2C427%22%20href%3D%22152_GSExamWritingAnswer.bmml%22%20alt%3D%22152_GSExamWritingAnswer%22%20id%3D%2211%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

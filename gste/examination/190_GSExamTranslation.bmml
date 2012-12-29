@@ -25,9 +25,9 @@
         <text>Part%20%u2163%20Translation%20%285%20minutes%29%20</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="259" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="204" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Directions%3A%20Complete%20the%20sentences%20by%20translating%20into%20English%20the%20Chinese%20given%20in%20brackets%20Please%20write%20your%20translation%20on%20Answer%20Sheer%202%20%0A%u3000%u3000%u6CE8%u610F%uFF1A%u6B64%u90E8%u5206%u8BD5%u9898%u8BF7%u5728%u7B54%u9898%u53612%u4E0A%u4F5C%u7B54%uFF0C%u53EA%u9700%u5199%u51FA%u8BD1%u6587%u90E8%u5206%u3002%0A%u3000%u300087%uFF0ECharity%20groups%20organized%20various%20activities%20to%20________________%28%u4E3A%u5730%u9707%u5E78%u5B58%u8005%u7B79%u6B3E%29%u3002%20%0A%u3000%u300088%uFF0ELinda_______________%28%u4E0D%u53EF%u80FD%u6536%u5230%u6211%u7684%u7535%u5B50%u90AE%u4EF6%uFF09%uFF1Aotherwise%2C%20she%20would%20have%20replied%uFF0E%20%0A%u3000%u300089%uFF0EIt%u2019s%20my%20mother________________%28%u4E00%u76F4%u5728%u9F13%u52B1%u6211%u4E0D%u8981%u7070%u5FC3%29when%20I%20have%20difficulties%20in%20my%20studies%uFF0E%20%0A%u3000%u300090%uFF0EThe%20publishing%20house%20has%20to%20______________%uFF08%u8003%u8651%u8FD9%u90E8%u5C0F%u8BF4%u7684%u53D7%u6B22%u8FCE%u7A0B%u5EA6%29%u3002%20%0A%u3000%u300091%uFF0EIt%20is%20absolutely%20wrong%20to%20________________%uFF08%u4EC5%u4EC5%u4EE5%u91D1%u94B1%u6765%u5B9A%u4E49%u5E78%u798F%uFF09%u3002</text>
+        <text>Directions%3A%20Complete%20the%20sentences%20by%20translating%20into%20English%20the%20Chinese%20given%20in%20brackets%20Please%20write%20your%20translation%20on%20Answer%20Sheer%202%20%0A%u3000%u3000%u6CE8%u610F%uFF1A%u6B64%u90E8%u5206%u8BD5%u9898%u8BF7%u5728%u7B54%u9898%u53612%u4E0A%u4F5C%u7B54%uFF0C%u53EA%u9700%u5199%u51FA%u8BD1%u6587%u90E8%u5206%u3002%0A%u3000%u300087%uFF0ECharity%20groups%20organized%20various%20activities%20to%20________________%28%u4E3A%u5730%u9707%u5E78%u5B58%u8005%u7B79%u6B3E%29%u3002%20</text>
       </controlProperties>
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="5" locked="false" isInGroup="-1">
@@ -35,6 +35,11 @@
         <direction>center</direction>
         <icon>ExclamationPointIcon%7Csmall</icon>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="30" y="366" w="219" h="58" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Raising%20money%20for%20survivors%20in%20the%20earthquake</text>
       </controlProperties>
     </control>
   </controls>
