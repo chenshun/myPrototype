@@ -5,12 +5,12 @@
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="30" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="201" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
         <href>140_GSExamAnswerSheet%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml</href>
         <icon>HLinesIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C103%2C75%2C134%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C103%2C246%2C134%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%222%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -25,7 +25,7 @@
         <text>Part%20I%20Writing%2830%20minutes%29</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="30" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
         <icon>ExclamationPointIcon%7Csmall</icon>

@@ -1,0 +1,80 @@
+<mockup version="1.0" skin="sketch" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="200" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>140_GSExamAnswerSheet%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml</href>
+        <icon>HLinesIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22200%2C103%2C245%2C134%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%222%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="113" y="109" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>01%3A29%3A59</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="22" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Part%20V%20Cloze</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="262" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Strong%20emotional%20bonds%20between%20mothers%20and%20infants%20increase%20children%u2019s%20willingness%20to%20explore%20the%20world%u2014an%20effect%20that%20has%20been%20observed%20%20%20__67__%20%20%20the%20animal%20kingdom%2C%20in%20people%2C%20monkeys%20and%20even%20spiders.%20The%20more%20secure%20we%20are%20in%20our%20%20%20__68__%20%20%20to%20Mom%2C%20the%20more%20likely%20we%20are%20to%20try%20new%20things%20and%20take%20risks.%20Now%20researchers%20are%20discovering%20that%20this%20effect%20continues%20into%20adulthood.%20A%20%20%20__69__%20%20%20reminder%20of%20Mom%u2019s%20touch%20or%20the%20sound%20of%20her%20voice%20on%20the%20phone%20is%0A%20%0A%20%2070%20%20%20to%20change%20people%u2019s%20minds%20and%20moods%2C%20%20%2071%20%20%20their%20decision%20making%20in%20measurable%20ways.%0A%20%0AIn%20a%20study%20%20%2072%20%20%20online%20in%20April%20in%20Psychological%20Science%2C%20undergraduate%20business%20students%20had%20to%20choose%20between%20safe%20bets%20and%20risky%20gambles%u2014a%20bond%20with%20a%20guaranteed%204%20percent%20yearly%0A%20%0A%20%2073%20%20%20or%20a%20riskier%20stock%20option%2C%20for%20example.%20In%20half%20the%20cases%2C%20the%20experimenters%20patted%20the%20students%20%20%2074%20%20%20on%20the%20back%20of%20the%20shoulder%20for%20about%20one%20second%20%20%2075%20%20%20providing%20verbal%20%20instructions%20about%20the%20study.%20Both%20male%20and%20female%20students%20who%20were%20touched%20by%20a%20female%20experimenter%20were%20%20%2076%20%20%20more%20likely%20to%20choose%20the%20risky%20alternative%20%20%2077%20%20%20were%20those%20who%20had%20not%20been%20touched%20or%20were%20patted%20by%20male%20experimenters.%20The%20reassuring%uFF08%u5BBD%u6170%u7684%uFF09touch%20of%20a%20woman%20may%20have%20induced%20early%20associations%2C%20%2078%20%20%20the%20same%20openness%20to%20exploration%20that%20is%20observed%20in%20young%20children%20of%20%20%2079%20%20%20mothers%2C%20explains%20Jonathan%20Levav%2C%20a%20business%20professor%20at%20Columbia%20University%20and%20lead%20author%20of%20the%20study.%0A%20%0ATo%20further%20%20%2080%20%20%20that%20a%20woman%u2019s%20touch%20links%20feelings%20of%20security%20%20%2081%20%20%20risk%20taking%2C%20the%20researchers%20asked%20a%20%20%2082%20%20%20group%20of%20undergraduates%20to%20make%20financial%20decisions%20after%20a%20writing%20exercise.%20Half%20of%20them%20wrote%20about%20a%20time%20they%20felt%20secure%20and%20supported%2C%20whereas%20the%20%20%2083%20%20%20half%20wrote%20about%20feeling%20insecure%20and%20alone.%20Evoking%20%28%u5524%u8D77%29%20a%20%20%2084%20%20%20of%20insecurity%20made%20students%20in%20the%20latter%20group%20%20%2085%20%20%20receptive%20to%20the%20gentle%20shoulder%20pats%20from%20female%20experimenters%20and%20much%20more%20willing%20to%20take%20a%20risk%u2014just%20as%20a%20child%20leaving%20for%20a%20field%20trip%20might%20steal%20one%20last%20reassuring%20hug%20%20%2086%20%20%20Mom%20before%20stepping%20on%20the%20bus.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="24" y="251" w="231" h="182" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="119" y="257" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>No.%2067</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="280" w="202" h="-1" measuredW="51" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>A.%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="310" w="202" h="-1" measuredW="52" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>B.%20up%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="340" w="202" h="-1" measuredW="74" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>C.%20above</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="367" w="202" h="-1" measuredW="76" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>D.%20across</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="397" w="202" h="-1" measuredW="48" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>182_GSExamClozeAnswer%26bm%3B182_GSExamClozeAnswer.bmml%26bm%3B182_GSExamClozeAnswer.bmml%26bm%3B182_GSExamClozeAnswer.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C397%2C243%2C424%22%20href%3D%22182_GSExamClozeAnswer.bmml%22%20alt%3D%22182_GSExamClozeAnswer%22%20id%3D%2220%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <text>%u53D6%u6D88</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
