@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="203" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>140_GSExamAnswerSheet%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml</href>
+        <icon>HLinesIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22203%2C103%2C248%2C134%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%222%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="113" y="109" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>01%3A29%3A59</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="224" h="223" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>*Part%20I%20Writing%2830%20minutes%29*%0A%u6CE8%u610F%uFF1A%u6B64%u90E8%u5206%u8BD5%u9898%u5728%u7B54%u9898%u53611%u4E0A%uFF0E%20%0AFor%20this%20part%2C%20you%20are%20allowed%2030%20minutes%20to%20write%20a%20short%20essay%20entitled%20Nothing%20Succeeds%20Without%20a%20Strong%20Will%20by%20commenting%20on%20the%20humorous%20saying%2C%20%22Quitting%20smoking%20is%20the%20easiest%20thing%20in%20the%20world.%20I%u2019ve%20done%20it%20hundreds%20of%20times.%22%20You%20should%20write%20at%20least%20120%20words%20but%20no%20more%20than%20180%20words.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="393" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>161_GSExamReadingSingleChoice%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml</href>
+        <icon>DownArrowIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C393%2C170%2C417%22%20href%3D%22161_GSExamReadingSingleChoice.bmml%22%20alt%3D%22161_GSExamReadingSingleChoice%22%20id%3D%225%22/%3E</map>
+        <text>%u4E0B%u4E00%u9898</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="29" y="138" w="225" h="255" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

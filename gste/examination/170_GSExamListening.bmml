@@ -5,12 +5,10 @@
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="30" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="102" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
-        <href>140_GSExamAnswerSheet%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml</href>
         <icon>HLinesIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C103%2C75%2C134%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%222%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -19,41 +17,21 @@
         <text>01%3A29%3A59</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="22" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="235" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <bold>true</bold>
-        <text>Part%20%u2162%20Listening%20Comprehension</text>
+        <bold>false</bold>
+        <text>*Part%20%u2162%20Listening%20Comprehension*%0ASection%20A%0ADirections%3A%20In%20this%20part%2C%20you%20will%20have%2015%20minutes%20to%20go%20over%20the%20passage%20quickly%20and%20answer%20the%20questions%20on%20Answer%20Sheet%201.%20For%20questions%201-7%20choose%20the%20best%20answer%20from%20the%20four%20choices%20marked%20A%29%2C%20B%29%2C%20C%29%20and%20D%29.%20For%20questions%208-10%2C%20complete%20the%20sentence%20with%20the%20information%20given%20in%20the%20passage.%20</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="162" w="225" h="23" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="393" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Section%20A</text>
+        <href>161_GSExamReadingSingleChoice%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml</href>
+        <icon>DownArrowIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C393%2C170%2C417%22%20href%3D%22161_GSExamReadingSingleChoice.bmml%22%20alt%3D%22161_GSExamReadingSingleChoice%22%20id%3D%2210%22/%3E</map>
+        <text>%u4E0B%u4E00%u9898</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="204" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <direction>center</direction>
-        <icon>ExclamationPointIcon%7Csmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="28" y="188" w="-1" h="-1" measuredW="57" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>VolumeIcon%7Cmedium</icon>
-        <labelPosition>left</labelPosition>
-        <text>11.</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="34" y="227" w="215" h="186" measuredW="215" measuredH="186" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C250%2C132%2C308%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E</map>
-        <src>./assets/symbols.bmml#SingleOptions</src>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::HSlider" x="90" y="199" w="150" h="-1" measuredW="33" measuredH="11" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <state>disabled</state>
-      </controlProperties>
-    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="29" y="138" w="225" h="255" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

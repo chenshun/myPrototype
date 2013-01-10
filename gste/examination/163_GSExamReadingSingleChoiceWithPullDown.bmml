@@ -1,60 +1,72 @@
-<mockup version="1.0" skin="sketch" measuredW="391" measuredH="510" mockupW="391" mockupH="510">
+<mockup version="1.0" skin="sketch" measuredW="396" measuredH="510" mockupW="396" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="113" y="109" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="113" y="109" w="-1" h="-1" measuredW="56" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>01%3A29%3A59</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="20" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <text>Part%20%u2161%20Reading%20Comprehension%20%28Skimming%20and%20Scanning%29%20%2815%20minutes%29%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="186" w="225" h="62" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>1.%20What%20role%20does%20integrity%20play%20in%20personal%20and%20professional%20relationships%3F</text>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="34" y="239" w="215" h="186" measuredW="215" measuredH="186" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C262%2C132%2C320%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C262%2C132%2C320%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E</map>
-        <src>./assets/symbols.bmml#SingleOptions</src>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="160" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>160_GSExamReading%26bm%3B160_GSExamReading.bmml%26bm%3B160_GSExamReading.bmml%26bm%3B160_GSExamReading.bmml</href>
-        <icon>UpArrowIcon%7Csmall</icon>
-        <labelPosition>right</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C160%2C170%2C184%22%20href%3D%22160_GSExamReading.bmml%22%20alt%3D%22160_GSExamReading%22%20id%3D%2211%22/%3E</map>
-        <text>%u4E0A%u4E00%u9898</text>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="282" y="125" w="109" h="221" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%u4EE5%u4E0A%u62C9%u7684%u65B9%u5F0F%u663E%u793A%u4E0B%u4E00%u9898%uFF0C%u6BCF%u4E2A%u90E8%u5206%u7684%u7B2C%u4E00%u9898%u548C%u4E3B%u9898%u5E72%u4EE5%u53CA%u8BF4%u660E%u653E%u5728%u4E00%u8D77%u3002%0A%u4EE5%u4E0B%u62C9%u5207%u6362%u5230%u4E0A%u4E00%u9898</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="30" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="30" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
         <icon>ExclamationPointIcon%7Csmall</icon>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="202" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="202" y="103" w="-1" h="-1" measuredW="45" measuredH="31" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
-        <href>162_GSExamReadingSelect%26bm%3B162_GSExamReadingSelect.bmml%26bm%3B162_GSExamReadingSelect.bmml%26bm%3B162_GSExamReadingSelect.bmml</href>
+        <href>142_GSExamReadingSelect%26bm%3B142_GSExamReadingSelect.bmml%26bm%3B142_GSExamReadingSelect.bmml%26bm%3B142_GSExamReadingSelect.bmml</href>
         <icon>HLinesIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C103%2C247%2C134%22%20href%3D%22162_GSExamReadingSelect.bmml%22%20alt%3D%22162_GSExamReadingSelect%22%20id%3D%2214%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C103%2C247%2C134%22%20href%3D%22142_GSExamReadingSelect.bmml%22%20alt%3D%22142_GSExamReadingSelect%22%20id%3D%2214%22/%3E</map>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="24" y="138" w="230" h="252" measuredW="230" measuredH="252" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>singleChoice</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="230" h="252" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="15"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="4" w="225" h="62" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <href>163_GSExamReadingSingleChoiceWithPullDown%26bm%3B163_GSExamReadingSingleChoiceWithPullDown.bmml%26bm%3B163_GSExamReadingSingleChoiceWithPullDown.bmml%26bm%3B163_GSExamReadingSingleChoiceWithPullDown.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2224%2C142%2C249%2C204%22%20href%3D%22163_GSExamReadingSingleChoiceWithPullDown.bmml%22%20alt%3D%22163_GSExamReadingSingleChoiceWithPullDown%22%20id%3D%221%22/%3E</map>
+            <text>1.%20What%20role%20does%20integrity%20play%20in%20personal%20and%20professional%20relationships%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="4" y="66" w="221" h="186" measuredW="221" measuredH="186" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C227%2C129%2C285%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C227%2C129%2C285%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C227%2C129%2C285%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C227%2C129%2C285%22%20href%3D%22164_GSExamImageView.bmml%22%20alt%3D%22164_GSExamImageView%22%20id%3D%225%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="221" h="186"/>
+            <override controlID="1" x="4" y="8" w="24" h="24"/>
+            <override controlID="2" x="4" y="153" w="24" h="24"/>
+            <override controlID="3" x="4" y="85" w="24" h="24"/>
+            <override controlID="4" x="4" y="116" w="24" h="24"/>
+            <override controlID="5" x="30" y="23" w="71" h="58"/>
+            <src>./assets/symbols.bmml#SingleOptions</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="393" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>161_GSExamReadingSingleChoice%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml%26bm%3B161_GSExamReadingSingleChoice.bmml</href>
+        <icon>DownArrowIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C393%2C169%2C417%22%20href%3D%22161_GSExamReadingSingleChoice.bmml%22%20alt%3D%22161_GSExamReadingSingleChoice%22%20id%3D%2216%22/%3E</map>
+        <text>%u4E0B%u4E00%u9898</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="287" y="131" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5207%u6362%u5230%u4E0A%u4E00%u9898%u7528%u7B54%u9898%u5361%u5B9E%u73B0</text>
       </controlProperties>
     </control>
   </controls>

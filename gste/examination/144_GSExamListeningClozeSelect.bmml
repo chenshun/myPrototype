@@ -19,9 +19,9 @@
         <icon>ExclamationPointIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="28" y="99" w="165" h="328" measuredW="343" measuredH="628" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="28" y="99" w="165" h="328" measuredW="335" measuredH="623" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/ListenClozeSelect</src>
+        <src>./assets/AnswerSheetListenPart3</src>
         <text/>
       </controlProperties>
     </control>
