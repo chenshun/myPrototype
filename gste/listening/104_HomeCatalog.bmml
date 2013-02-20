@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlackBottom</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="26" y="378" w="231" h="53" measuredW="231" measuredH="53" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C420%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C420%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C420%22%20href%3D%22102_Home.bmml%22%20alt%3D%22102_Home%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C420%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C420%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C420%22%20href%3D%22102_Home.bmml%22%20alt%3D%22102_Home%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22145%2C381%2C202%2C420%22%20href%3D%22260_PersonalCenter.bmml%22%20alt%3D%22260_PersonalCenter%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2288%2C381%2C145%2C420%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C381%2C90%2C420%22%20href%3D%22102_Home.bmml%22%20alt%3D%22102_Home%22%20id%3D%227%22/%3E</map>
+        <src>./assets/symbols.bmml#GSTE%20Tabbar%20and%20Title</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="32" y="140" w="215" h="239" measuredW="215" measuredH="239" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C145%2C88%2C193%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C297%2C88%2C345%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C164%2C241%2C191%22%20href%3D%22218_ListeningSummaryFrom102.bmml%22%20alt%3D%22218_ListeningSummaryFrom102%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C197%2C88%2C245%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C246%2C88%2C294%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C145%2C88%2C193%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C297%2C88%2C345%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C164%2C241%2C191%22%20href%3D%22218_ListeningSummaryFrom102.bmml%22%20alt%3D%22218_ListeningSummaryFrom102%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C197%2C88%2C245%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C246%2C88%2C294%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C145%2C88%2C193%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C297%2C88%2C345%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C164%2C241%2C191%22%20href%3D%22218_ListeningSummaryFrom102.bmml%22%20alt%3D%22218_ListeningSummaryFrom102%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C197%2C88%2C245%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C246%2C88%2C294%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2215%22/%3E</map>
+        <override controlID="10">
+          <href>218_ListeningSummaryFrom102%26bm%3B218_ListeningSummaryFrom102.bmml%26bm%3B218_ListeningSummaryFrom102.bmml%26bm%3B218_ListeningSummaryFrom102.bmml</href>
+        </override>
+        <src>./assets/symbols.bmml#Listening Feed</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ProgressBar" x="40" y="278" w="48" h="14" measuredW="100" measuredH="20" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::ProgressBar" x="40" y="326" w="48" h="14" measuredW="100" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <scrollBarValue>0</scrollBarValue>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="112" y="109" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>%u7CBE%u9009</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="103" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <icon>./assets/icon_goldstone.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="88" y="128" w="93" h="116" measuredW="93" measuredH="116" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>FeedSelect</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="14" w="93" h="102" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="31">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="30" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <color>0</color>
+            <shape>diamond</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="9" y="17" w="77" h="-1" measuredW="215" measuredH="97" zOrder="2" locked="false" isInGroup="31">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hrefs>102_Home.bmml%26bm%3B102_Home.bmml%26bm%3B102_Home.bmml%26bm%3B102_Home.bmml%2C104_HomeBook.bmml%26bm%3B104_HomeBook.bmml%26bm%3B104_HomeBook.bmml%26bm%3B104_HomeBook.bmml%2C105_HomeTeacher.bmml%26bm%3B105_HomeTeacher.bmml%26bm%3B105_HomeTeacher.bmml%26bm%3B105_HomeTeacher.bmml%2C%2C%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2297%2C150%2C174%2C179%22%20href%3D%22102_Home.bmml%22%20alt%3D%22102_Home%22%20id%3D%222%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2297%2C179%2C174%2C208%22%20href%3D%22110_HomeBook.bmml%22%20alt%3D%22110_HomeBook%22%20id%3D%222%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2297%2C208%2C174%2C237%22%20href%3D%22120_HomeTeacher.bmml%22%20alt%3D%22120_HomeTeacher%22%20id%3D%222%22/%3E%0A</map>
+            <text>%u7CBE%u9009%2C%20v%0A%u6559%u6750%0A%u540D%u5E08</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
