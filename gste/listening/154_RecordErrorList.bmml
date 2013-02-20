@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="288" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="6" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="41" y="105" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <href>150_Record.bmml%26bm%3B150_Record.bmml%26bm%3B150_Record.bmml%26bm%3B150_Record.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C105%2C80%2C132%22%20href%3D%22150_Record.bmml%22%20alt%3D%22150_Record.bmml%22%20id%3D%224%22/%3E</map>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="108" y="107" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9519%u9898%uFF0875/300%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="207" y="104" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <href>160_RelisteningError.bmml%26bm%3B160_RelisteningError.bmml%26bm%3B160_RelisteningError.bmml%26bm%3B160_RelisteningError.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22201%2C104%2C246%2C131%22%20href%3D%22160_RelisteningError.bmml%22%20alt%3D%22160_RelisteningError.bmml%22%20id%3D%228%22/%3E</map>
+        <text>%u91CD%u505A</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Component" x="41" y="140" w="215" h="191" measuredW="215" measuredH="191" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#errorRecordDetail</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

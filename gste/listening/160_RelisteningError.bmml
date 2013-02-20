@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="616" measuredH="510" mockupW="616" mockupH="510">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
   <controls>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="33" y="180" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
@@ -30,23 +30,23 @@
         <text>_%20Second%20word%0A_%20Thrid%20word</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::PointyButton" x="29" y="107" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::PointyButton" x="29" y="107" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>left</direction>
-        <href>216_ListeningSummary%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml%26bm%3B216_ListeningSummary.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C77%2C134%22%20href%3D%22216_ListeningSummary.bmml%22%20alt%3D%22216_ListeningSummary%22%20id%3D%2239%22/%3E</map>
+        <href>130_ListeningSummary%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C74%2C134%22%20href%3D%22130_ListeningSummary.bmml%22%20alt%3D%22130_ListeningSummary%22%20id%3D%2239%22/%3E</map>
         <text>%u653E%u5F03</text>
       </controlProperties>
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="28" y="266" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="5" locked="false" isInGroup="-1"/>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="232" w="227" h="36" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::TextInput" x="55" y="235" w="193" h="-1" measuredW="79" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::TextInput" x="55" y="235" w="193" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="83" y="109" w="-1" h="-1" measuredW="39" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="83" y="109" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u7B2C4%u9898</text>
       </controlProperties>
@@ -79,14 +79,9 @@
     <control controlID="58" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="112" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13369344</color>
-        <href>250_Record%26bm%3B250_Record.bmml%26bm%3B250_Record.bmml%26bm%3B250_Record.bmml</href>
+        <href>150_Record.bmml%26bm%3B150_Record.bmml%26bm%3B150_Record.bmml%26bm%3B150_Record.bmml</href>
         <icon>DotIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22225%2C112%2C241%2C128%22%20href%3D%22250_Record.bmml%22%20alt%3D%22250_Record%22%20id%3D%2258%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::StickyNote" x="307" y="12" w="309" h="414" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>1%u3001%u6700%u540E%u4E00%u9053%u9898%u64AD%u653E%u5B8C%u4EE5%u540E%u81EA%u52A8%u7ED3%u675F%u542C%u529B%u8003%u8BD5%uFF0C%u81EA%u52A8%u5207%u6362%u5230%u6210%u7EE9%u5355%u3002%0A2%u3001%u5F00%u59CB%u8003%u8BD5%u524D%u752810%u79D2%u5DE6%u53F3%u8BED%u97F3%u4ECB%u7ECD%uFF0C%u6307%u5BFC%u7528%u6237%u5982%u4F55%u8003%u8BD5%u3002%0A3%u3001%u653E%u5F03%u6309%u94AE%u7684%u54CD%u5E94%u539F%u5219%u662F%u54EA%u6765%u54EA%u53BB%uFF1A%0A%uFF081%uFF09%u542C%u529B%u8003%u8BD5%u8BB0%u5F55%u201C%u5DF2%u505A%u8BD5%u5377%u201D%u7684%u201C%u9519%u9898%u56DE%u987E%u201D%u4E0B%u8FDB%u884C%u9519%u9898%u91CD%u505A%uFF0C%u70B9%u51FB%u201C%u653E%u5F03%u201D%u6309%u94AE%uFF0C%u56DE%u5230%u8003%u8BD5%u8BB0%u5F55%u7684%u9519%u9898%u56DE%u987E%0A%uFF082%uFF09%u8003%u8BD5%u7ED3%u675F%u4ECE%u201C%u542C%u5199%u6210%u7EE9%u5355%u201D%u7684%u201C%u9519%u9898%u56DE%u987E%u201D%u4E0B%u8FDB%u884C%u9519%u9898%u91CD%u505A%uFF0C%u70B9%u51FB%u201C%u653E%u5F03%u201D%u6309%u94AE%uFF0C%u56DE%u5230%u542C%u5199%u6210%u7EE9%u5355%u9519%u9898%u56DE%u987E%0A%uFF083%uFF09%u4ECE%u201C%u91D1%u77F3%u201D%u9875%u9762%u4E0B%u8FDB%u884C%u542C%u529B%u8003%u8BD5%u8FC7%u7A0B%u4E2D%u70B9%u51FB%u201C%u653E%u5F03%u201D%u6309%u94AE%uFF0C%u8FDB%u5165%u8003%u8BD5%u7684%u6458%u8981%u754C%u9762%u3002</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22225%2C112%2C241%2C128%22%20href%3D%22150_Record.bmml%22%20alt%3D%22150_Record.bmml%22%20id%3D%2258%22/%3E</map>
       </controlProperties>
     </control>
   </controls>
