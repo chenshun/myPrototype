@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="285" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>%u4E94%u3001%u9996%u5B57%u6BCD%u586B%u7A7A%20%2010%u5206%0AThe%20Spring%20Festival%20is%20the%20Chinese%20New%20Year%u2019s%20Day.%20It%20u%20%261%26___%20%20comes%20in%20F%20%262%26%20%20%20%20%20.%20%20Everyone%20%20in%20%20China%20likes%20%20the%20Spring%20Festival%20very%20much.%20They%20often%20have%20a%20week%u2019s%20%20h%20%263%26%20%20%20%20%20%20%20%20%20%20%20.%20Young%20children%20help%20their%20p%20%264%26%20%20%20%20%20%20%20%20%20%20clean%20their%20h%20%20%265%26%20%20%20%20%20%20%20%20%20%20%20and%20%20do%20some%20s%20%266%26%20%20%20%20%20%20%20%20%20%20.%20On%20that%20day%20many%20Chinese%20people%20%20have%20d%20%20%267%26%20%20%20%20%20%20%20%20%20%20.%20On%20the%20s%20%268%26%20%20%20%20%20%20%20%20%20and%20third%20days%20of%20the%20new%20year%2C%20%20they%20watch%20TV%20or%20go%20to%20see%20their%20f%20%269%26%20%20%20%20%20%20%20.%20All%20of%20them%20have%20a%20g%2610%26%20%20%20%20%20%20%20%20time%20in%20the%20Spring%20Festival.</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="26" y="138" w="227" h="291" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="202" y="378" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>176_ClozeInput%26bm%3B176_ClozeInput.bmml%26bm%3B176_ClozeInput.bmml%26bm%3B176_ClozeInput.bmml</href>
+        <icon>./assets/icon_page-corner.png%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C378%2C250%2C426%22%20href%3D%22176_ClozeInput.bmml%22%20alt%3D%22176_ClozeInput%22%20id%3D%228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="33" y="107" w="215" h="27" measuredW="215" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C76%2C134%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C76%2C134%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#ExamNav</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

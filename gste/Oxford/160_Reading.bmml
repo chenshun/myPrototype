@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="140" w="219" h="285" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>*%u4E09%u3001%u9605%u8BFB%u7406%u89E3%20%20%28%2020%u5206%20%29*%0A%20%0AA.%u9605%u8BFB%u77ED%u6587%2C%u5224%u65AD%u6B63%u8BEF%28T%2CF%29%0A%20%20%20%20%20%20%20%20Hank%20lives%20in%20a%20small%20town%2C%20but%20then%20he%20finds%20a%20job%uE001%u5DE5%u4F5C%uE002in%20a%20big%20city%20and%20begins%20to%20live%20there%20with%20his%20wife%20and%20his%20two%20children.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20On%20the%20first%20Saturday%20in%20their%20new%20house%2C%20Hank%20takes%20his%20new%20red%20car%20out%20of%20the%20garage%uE001%u8F66%u5E93%uE002%20and%20washes%20it.%20A%20friend%20comes.%20When%20he%20sees%20Hank%u2019s%20new%20car%2C%20he%20looks%20at%20it%20for%20a%20minute.%20Then%2C%20Hank%20turns%20and%20sees%20him.%0A%20%20%20%20The%20friend%20says%2C%20%u2015%20That%u2019s%20a%20nice%20car.%20Is%20it%20yours%3F%0A%20%20%22%u2015Sometimes%21%22%20Hank%20answers.%0A%20The%20friend%20is%20surprised.%20%u2015Sometimes%21%u2016%20he%20says%2C%20%u2015What%20do%20you%20mean%3F%u2016%20%u2015Well%2C%u2016%20answers%20Hank%20slowly%2C%20%u2015When%20there%u2019s%20a%20party%2C%20it%20belongs%uE001%u5C5E%u4E8E%uE002%20to%20my%20daughter%2C%20Jane.%20When%20there%u2019s%20a%20football%20game%2C%20it%20belongs%20to%20my%20son%2C%20Joe.%20When%20I%20wash%20it%2C%20and%20it%20looks%20nice%20and%20clean%2C%20it%20belongs%20to%20my%20wife.%20And%20when%20it%20is%20not%20clean%2C%20it%20belongs%20to%20me.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="29" y="138" w="225" h="287" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="202" y="374" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml</href>
+        <icon>./assets/icon_page-corner.png%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C374%2C250%2C422%22%20href%3D%22161_GSExamReadingTrueFalse.bmml%22%20alt%3D%22161_GSExamReadingTrueFalse.bmml%22%20id%3D%2219%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="30" y="105" w="132" h="27" measuredW="132" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C73%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C73%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C98%2C73%2C125%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C110%2C84%2C137%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#ExamNav</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

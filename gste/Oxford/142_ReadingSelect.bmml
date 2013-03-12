@@ -1,0 +1,23 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="93" y="100" w="162" h="327" measuredW="338" measuredH="621" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ReadingSelect.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="26" y="98" w="64" h="-1" measuredW="215" measuredH="329" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>130_ListeningSummary%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml%2C150_Listening%26bm%3B150_Listening.bmml%26bm%3B150_Listening.bmml%26bm%3B150_Listening.bmml%2C160_Reading.bmml%26bm%3B160_Reading.bmml%26bm%3B160_Reading.bmml%26bm%3B160_Reading.bmml%2C162_ReadingTrueFalse%26bm%3B162_ReadingTrueFalse.bmml%26bm%3B162_ReadingTrueFalse.bmml%26bm%3B162_ReadingTrueFalse.bmml%2C164_ReadingSingleChoice%26bm%3B164_ReadingSingleChoice.bmml%26bm%3B164_ReadingSingleChoice.bmml%26bm%3B164_ReadingSingleChoice.bmml%2C%2C170_Cloze%26bm%3B170_Cloze.bmml%26bm%3B170_Cloze.bmml%26bm%3B170_Cloze.bmml%2C180_Writing%26bm%3B180_Writing.bmml%26bm%3B180_Writing.bmml%26bm%3B180_Writing.bmml%2C%2C%2C190_Record%26bm%3B190_Record.bmml%26bm%3B190_Record.bmml%26bm%3B190_Record.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C103%2C90%2C132%22%20href%3D%22130_ListeningSummary.bmml%22%20alt%3D%22130_ListeningSummary%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C132%2C90%2C161%22%20href%3D%22150_Listening.bmml%22%20alt%3D%22150_Listening%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C161%2C90%2C190%22%20href%3D%22160_Reading.bmml%22%20alt%3D%22160_Reading.bmml%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C190%2C90%2C219%22%20href%3D%22162_ReadingTrueFalse.bmml%22%20alt%3D%22162_ReadingTrueFalse%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C219%2C90%2C248%22%20href%3D%22164_ReadingSingleChoice.bmml%22%20alt%3D%22164_ReadingSingleChoice%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C277%2C90%2C306%22%20href%3D%22170_Cloze.bmml%22%20alt%3D%22170_Cloze%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C306%2C90%2C335%22%20href%3D%22180_Writing.bmml%22%20alt%3D%22180_Writing%22%20id%3D%224%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C393%2C90%2C422%22%20href%3D%22190_Record.bmml%22%20alt%3D%22190_Record%22%20id%3D%224%22/%3E%0A</map>
+        <text>-%20%u653E%u5F03%u672C%u6D4B%u8BD5%u6B21%0APart%20I%20Listening%2C%20%0APart%20II%20Reading%2C%20%0A1%2C%20%0A6%2C%20%20%0A8%2C%20%0APart%20%u2162%20Cloze%2C%0APart%20IV%20Writting%2C%0A%20%0A%20%0A+%20%u63D0%u4EA4%u672C%u6B21%u8003%u8BD5</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

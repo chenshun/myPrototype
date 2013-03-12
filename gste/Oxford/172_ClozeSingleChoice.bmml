@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="27" y="137" w="228" h="67" measuredW="579" measuredH="137" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>170_Cloze.bmml%26bm%3B170_Cloze.bmml%26bm%3B170_Cloze.bmml%26bm%3B170_Cloze.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C137%2C255%2C204%22%20href%3D%22170_Cloze.bmml%22%20alt%3D%22170_Cloze.bmml%22%20id%3D%2222%22/%3E</map>
+        <src>./assets/page-curl.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Canvas" x="29" y="212" w="226" h="178" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::IconLabel" x="98" y="393" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>190_CloszInput.bmml%26bm%3B190_CloszInput.bmml%26bm%3B190_CloszInput.bmml%26bm%3B190_CloszInput.bmml</href>
+        <icon>DownArrowIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C393%2C164%2C417%22%20href%3D%22190_CloszInput.bmml%22%20alt%3D%22190_CloszInput.bmml%22%20id%3D%2224%22/%3E</map>
+        <text>%u4E0B%u4E00%u9898</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="34" y="223" w="-1" h="-1" measuredW="215" measuredH="156" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>6.%20When%20you%20have%20good%20study%20%5Crhabits%5C%2C%20you%20will%20_____.%0AA.%20learn%20things%20quickly%0AB.%20remember%20things%20easily%0AC.%20think%20about%20one%20thing%20%0AD.%20both%20A%20and%20B</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Component" x="32" y="105" w="215" h="27" measuredW="215" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C75%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C105%2C75%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E</map>
+        <src>./assets/symbols.bmml#ExamNav</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

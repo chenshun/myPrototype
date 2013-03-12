@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="634" measuredH="553" mockupW="583" mockupH="537">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="639" measuredH="553" mockupW="588" mockupH="537">
   <controls>
     <control controlID="1" controlTypeID="__group__" x="51" y="314" w="231" h="53" measuredW="231" measuredH="53" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -126,7 +126,7 @@
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="274" zOrder="0" locked="false" isInGroup="12">
           <controlProperties>
-            <text>_%20%u521D%u4E2D%u82F1%u8BED7A%20%u725B%u6D25%u8BD1%u6797%u7248%5Cr%20%20%20%20%20%20%20%20%20%u7B2C%u4E8C%u5355%u5143%2C%0A%u8003%u8BD5%u65F6%u95F4%uFF1A2012-08-15%2010%3A12%0A%u5F97%u5206%3A84/100%2C%20%u8BE6%u60C5%20%3D%0A%20%20%20%20%u542C%u529B%u6D4B%u8BD5%uFF1A15/20%0A%20%20%20%20%u5355%u9879%u9009%u62E9%uFF1A%2025/25%0A%20%20%20%20%u9605%u8BFB%u7406%u89E3%uFF1A20/20%0A%20%20%20%20%u5B8C%u5F62%u586B%u7A7A%uFF1A9/10%0A%20%20%20%20%u9996%u5B57%u6BCD%u586B%u7A7A%uFF1A5/10%0A%20%20%20%20%u4E66%u9762%u8868%u8FBE%uFF1A10/15</text>
+            <text>_%20%u521D%u4E2D%u82F1%u8BED7A%20%u725B%u6D25%u8BD1%u6797%u7248%5Cr%20%20%20%20%20%20%20%20%20%u7B2C%u4E8C%u5355%u5143%2C%0A%u8003%u8BD5%u65F6%u95F4%uFF1A2012-08-15%2010%3A12%0A%u5F97%u5206%3A84/100%2C%20%0A%20%20%20%20%u542C%u529B%u6D4B%u8BD5%uFF1A15/20%0A%20%20%20%20%u5355%u9879%u9009%u62E9%uFF1A%2025/25%0A%20%20%20%20%u9605%u8BFB%u7406%u89E3%uFF1A20/20%0A%20%20%20%20%u5B8C%u5F62%u586B%u7A7A%uFF1A9/10%0A%20%20%20%20%u9996%u5B57%u6BCD%u586B%u7A7A%uFF1A5/10%0A%20%20%20%20%u4E66%u9762%u8868%u8FBE%uFF1A10/15</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -175,6 +175,35 @@
           <controlProperties>
             <color>40463</color>
             <icon>UpArrowIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="424" y="429" w="215" h="27" measuredW="215" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ExamNav</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <direction>center</direction>
+            <href>140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml</href>
+            <icon>HLinesIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22373%2C413%2C416%2C440%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E</map>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="81" y="5" w="-1" h="-1" measuredW="51" measuredH="20" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>01%3A29%3A59</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="172" y="0" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <direction>center</direction>
+            <icon>AlertIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22545%2C413%2C588%2C440%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%222%22/%3E</map>
+            <text/>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

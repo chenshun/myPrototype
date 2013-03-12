@@ -27,8 +27,8 @@
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="44" y="362" w="191" h="27" measuredW="74" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
-        <href>140_GSExamAnswerSheet%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml%26bm%3B140_GSExamAnswerSheet.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C362%2C235%2C389%22%20href%3D%22140_GSExamAnswerSheet.bmml%22%20alt%3D%22140_GSExamAnswerSheet%22%20id%3D%228%22/%3E</map>
+        <href>140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml%26bm%3B140_AnswerSheet.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C362%2C235%2C389%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%228%22/%3E</map>
         <text>%u5F00%u59CB%u8003%u8BD5</text>
       </controlProperties>
     </control>
