@@ -1,0 +1,183 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="634" measuredH="553" mockupW="583" mockupH="537">
+  <controls>
+    <control controlID="1" controlTypeID="__group__" x="51" y="314" w="231" h="53" measuredW="231" measuredH="53" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>GSTE%20Tabbar%20and%20Title</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="119" y="3" w="57" h="-1" measuredW="24" measuredH="39" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>300_Me.bmml%26bm%3B300_Me.bmml%26bm%3B300_Me.bmml%26bm%3B300_Me.bmml</href>
+            <icon>StarIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C301%2C176%2C340%22%20href%3D%22300_Me.bmml%22%20alt%3D%22300_Me.bmml%22%20id%3D%223%22/%3E</map>
+            <text>%u6211</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="176" y="3" w="55" h="-1" measuredW="26" measuredH="39" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>400_About%26bm%3B400_About.bmml%26bm%3B400_About.bmml%26bm%3B400_About.bmml</href>
+            <icon>AddCommentIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22176%2C301%2C231%2C340%22%20href%3D%22400_About.bmml%22%20alt%3D%22400_About%22%20id%3D%224%22/%3E</map>
+            <text>%u5173%u4E8E</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="71" h="53" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="62" y="3" w="57" h="-1" measuredW="26" measuredH="39" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>200_FirendList%26bm%3B200_FirendList.bmml%26bm%3B200_FirendList.bmml%26bm%3B200_FirendList.bmml</href>
+            <icon>UsersIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C301%2C119%2C340%22%20href%3D%22200_FirendList.bmml%22%20alt%3D%22200_FirendList%22%20id%3D%226%22/%3E</map>
+            <text>%u597D%u53CB</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="7" y="3" w="57" h="-1" measuredW="26" measuredH="39" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <href>102_Home.bmml%26bm%3B102_Home.bmml%26bm%3B102_Home.bmml%26bm%3B102_Home.bmml</href>
+            <icon>HomeIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%227%2C301%2C64%2C340%22%20href%3D%22102_Home.bmml%22%20alt%3D%22102_Home.bmml%22%20id%3D%227%22/%3E</map>
+            <text>%u9996%u9875</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="51" y="61" w="215" h="239" measuredW="215" measuredH="239" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Listening%20Feed</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="239" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <text>__%20*%u725B%u6D257A%u7B2C%u4E00%u5355%u5143%u6D4B%u8BD5*%20%5Cr45%u5206%u949F%20100%u5206%20%5Cr10%3A12%u52A0%u5165%2C%20%0A__%20*%u725B%u6D257B%u671F%u672B%u8BD5%u5377*%5Cr90%u5206%u949F%20120%u5206%20%20%5Cr3%u5929%u524D%u52A0%u5165%2C%20%0A__%20*%u725B%u6D258A%u671F%u672B%u8BD5%u5377*%5Cr90%u5206%u949F%20120%u5206%20%20%5Cr1%u5468%u524D%u52A0%u5165%2C%20%0A__%20*%u725B%u6D258B%u671F%u672B%u8BD5%u5377*%5Cr90%u5206%u949F%20120%u5206%20%20%5Cr6%u4E2A%u6708%u524D%u52A0%u5165%2C%20%0A_%20%20%20%20%20%20%20%20%20%20%20%u83B7%u53D6%u66F4%u591A...</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="8" y="5" w="48" h="48" measuredW="52" measuredH="52" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <icon>./assets/icon_oxford7A.png%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%228%2C50%2C56%2C98%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%227%22/%3E</map>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="24" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="2" locked="false" isInGroup="11">
+          <controlProperties>
+            <direction>center</direction>
+            <text>%u5F00%u59CB</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="74" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="3" locked="false" isInGroup="11">
+          <controlProperties>
+            <direction>center</direction>
+            <text>%u4E0B%u8F7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="125" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>13369344</color>
+            <direction>center</direction>
+            <text>%u53D6%u6D88</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="164" y="175" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="5" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>40463</color>
+            <direction>center</direction>
+            <text>%u4F18%u5148</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::RoundButton" x="8" y="57" w="48" h="48" measuredW="52" measuredH="52" zOrder="6" locked="false" isInGroup="11">
+          <controlProperties>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <icon>./assets/icon_7B.png%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%228%2C102%2C56%2C150%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2214%22/%3E</map>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::RoundButton" x="8" y="106" w="48" h="48" measuredW="52" measuredH="52" zOrder="7" locked="false" isInGroup="11">
+          <controlProperties>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <icon>./assets/icon_8A.png%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%228%2C151%2C56%2C199%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2215%22/%3E</map>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::RoundButton" x="8" y="157" w="48" h="48" measuredW="52" measuredH="52" zOrder="8" locked="false" isInGroup="11">
+          <controlProperties>
+            <href>210_ListeningStation%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml%26bm%3B210_ListeningStation.bmml</href>
+            <icon>./assets/icon_8B.png%7Clarge</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%228%2C202%2C56%2C250%22%20href%3D%22210_ListeningStation.bmml%22%20alt%3D%22210_ListeningStation%22%20id%3D%2216%22/%3E</map>
+            <shape>roundRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="419" y="48" w="215" h="274" measuredW="215" measuredH="274" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>listeningRecord</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="274" zOrder="0" locked="false" isInGroup="12">
+          <controlProperties>
+            <text>_%20%u521D%u4E2D%u82F1%u8BED7A%20%u725B%u6D25%u8BD1%u6797%u7248%5Cr%20%20%20%20%20%20%20%20%20%u7B2C%u4E8C%u5355%u5143%2C%0A%u8003%u8BD5%u65F6%u95F4%uFF1A2012-08-15%2010%3A12%0A%u5F97%u5206%3A84/100%2C%20%u8BE6%u60C5%20%3D%0A%20%20%20%20%u542C%u529B%u6D4B%u8BD5%uFF1A15/20%0A%20%20%20%20%u5355%u9879%u9009%u62E9%uFF1A%2025/25%0A%20%20%20%20%u9605%u8BFB%u7406%u89E3%uFF1A20/20%0A%20%20%20%20%u5B8C%u5F62%u586B%u7A7A%uFF1A9/10%0A%20%20%20%20%u9996%u5B57%u6BCD%u586B%u7A7A%uFF1A5/10%0A%20%20%20%20%u4E66%u9762%u8868%u8FBE%uFF1A10/15</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="65" y="16" w="217" h="32" measuredW="217" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>homeNav</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="172" y="4" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <href>104_HomeCatalog%26bm%3B104_HomeCatalog.bmml%26bm%3B104_HomeCatalog.bmml%26bm%3B104_HomeCatalog.bmml</href>
+            <icon>DownFillTriangleIcon%7Cxsmall</icon>
+            <labelPosition>left</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C4%2C231%2C25%22%20href%3D%22104_HomeCatalog.bmml%22%20alt%3D%22104_HomeCatalog%22%20id%3D%220%22/%3E</map>
+            <text>%u7CBE%u9009</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="113" measuredH="32" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <icon>./assets/icon_goldstone.png%7Cmedium</icon>
+            <labelPosition>right</labelPosition>
+            <text>%u91D1%u77F3%u5728%u7EBF%u8003%u8BD5</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="53" y="483" w="215" h="70" measuredW="215" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>RecordList</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="-1" h="-1" measuredW="215" measuredH="70" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <text>_%207A%u7B2C%u4E00%u5355%u5143%20%20%20%20%20%20%20%20%5Cr09-23%2010%3A12%20%20%20%20%u672A%u4E0A%u4F20%2C%20%3E%0A_%207B%u671F%u672B%u8003%u8BD5%20%20%20%20%20%20%20%20%5Cr08-15%2010%3A01%20%20%20%20%u5DF2%u4E0A%u4F20%2C%20%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>13576743</color>
+            <icon>SaveIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="40" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>40463</color>
+            <icon>UpArrowIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
