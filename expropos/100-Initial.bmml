@@ -1,0 +1,59 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1239" measuredH="974" mockupW="1239" mockupH="974">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1239" h="974" measuredW="1239" measuredH="974" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPads.bmml#iPad%20Landscape</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="458" y="381" w="330" h="239" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6CDB%u5546%u6C47POS%20LOGO</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="477" y="208" w="49" h="-1" measuredW="43" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7528%u6237%u540D%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="541" y="205" w="188" h="-1" measuredW="144" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7535%u8BDD%u53F7%u7801%u6216%u8005%u7535%u5B50%u90AE%u7BB1</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="471" y="244" w="49" h="-1" measuredW="30" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>%u5BC6%u7801%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="541" y="244" w="188" h="-1" measuredW="113" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5BC6%u7801%u5927%u4E8E%u7B49%u4E8E6%u4F4D</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="107" y="512" w="1024" h="360" measuredW="1024" measuredH="360" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPad%20Keyboards.bmml#ipad%20keyboard%201025x365</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="541" y="286" w="188" h="27" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>%u767B%u9646</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="541" y="328" w="188" h="27" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>%u6CE8%u518C</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::RoundButton" x="609" y="141" w="-1" h="-1" measuredW="52" measuredH="52" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Clarge</icon>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
