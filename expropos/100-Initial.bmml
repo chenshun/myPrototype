@@ -36,15 +36,19 @@
         <src>./assets/iPad%20Keyboards.bmml#ipad%20keyboard%201025x365</src>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="541" y="286" w="188" h="27" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="541" y="306" w="188" h="27" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
+        <href>102-merchant-create.bmml%26bm%3B102-merchant-create.bmml%26bm%3B102-merchant-create.bmml%26bm%3B102-merchant-create.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C306%2C729%2C333%22%20href%3D%22110-merchant-create.bmml%22%20alt%3D%22110-merchant-create%22%20id%3D%2217%22/%3E</map>
         <text>%u767B%u9646</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="541" y="328" w="188" h="27" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="541" y="348" w="188" h="27" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
+        <href>102-merchant-create.bmml%26bm%3B102-merchant-create.bmml%26bm%3B102-merchant-create.bmml%26bm%3B102-merchant-create.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C348%2C729%2C375%22%20href%3D%22110-merchant-create.bmml%22%20alt%3D%22110-merchant-create%22%20id%3D%2218%22/%3E</map>
         <text>%u6CE8%u518C</text>
       </controlProperties>
     </control>
@@ -53,6 +57,11 @@
         <icon>ContactIcon%7Clarge</icon>
         <shape>rectangle</shape>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="543" y="280" w="-1" h="-1" measuredW="227" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u9519%u8BEF%u63D0%u793A%uFF1A%u5F53%u6CA1%u6709%u9519%u8BEF%u65F6%u9690%u85CF%u8FD9%u4E2ALabel</text>
       </controlProperties>
     </control>
   </controls>
