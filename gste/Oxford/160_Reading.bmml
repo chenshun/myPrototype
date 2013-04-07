@@ -14,14 +14,14 @@
     <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="29" y="138" w="225" h="287" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="202" y="374" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml%26bm%3B161_GSExamReadingTrueFalse.bmml</href>
+        <href>162_ReadingTrueFalse%26bm%3B162_ReadingTrueFalse.bmml%26bm%3B162_ReadingTrueFalse.bmml%26bm%3B162_ReadingTrueFalse.bmml</href>
         <icon>./assets/icon_page-corner.png%7Clarge</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C374%2C250%2C422%22%20href%3D%22161_GSExamReadingTrueFalse.bmml%22%20alt%3D%22161_GSExamReadingTrueFalse.bmml%22%20id%3D%2219%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C374%2C250%2C422%22%20href%3D%22162_ReadingTrueFalse.bmml%22%20alt%3D%22162_ReadingTrueFalse%22%20id%3D%2219%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="30" y="105" w="132" h="27" measuredW="132" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="30" y="105" w="217" h="27" measuredW="217" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C73%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C73%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C98%2C73%2C125%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C110%2C84%2C137%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet%22%20id%3D%220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C88%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet.bmml%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C105%2C88%2C132%22%20href%3D%22140_AnswerSheet.bmml%22%20alt%3D%22140_AnswerSheet.bmml%22%20id%3D%220%22/%3E</map>
         <src>./assets/symbols.bmml#ExamNav</src>
       </controlProperties>
     </control>

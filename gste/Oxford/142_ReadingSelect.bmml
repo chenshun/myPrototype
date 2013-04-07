@@ -5,9 +5,9 @@
         <bgPattern>allWhite</bgPattern>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="93" y="100" w="162" h="327" measuredW="338" measuredH="621" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="93" y="100" w="162" h="327" measuredW="178" measuredH="325" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/ReadingSelect.png</src>
+        <src>./assets/ReadSelect.png</src>
         <text/>
       </controlProperties>
     </control>

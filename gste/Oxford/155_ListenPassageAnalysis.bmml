@@ -1,0 +1,28 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="79" y="332" w="176" h="-1" measuredW="215" measuredH="97" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>%u7B54%u6848%3AB%0A%20%u89E3%u6790%0AThere%20is%20nothing%20to%20said</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="27" y="97" w="52" h="332" measuredW="97" measuredH="617" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>154_ListenPassage%26bm%3B154_ListenPassage.bmml%26bm%3B154_ListenPassage.bmml%26bm%3B154_ListenPassage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C97%2C79%2C429%22%20href%3D%22154_ListenPassage.bmml%22%20alt%3D%22154_ListenPassage%22%20id%3D%222%22/%3E</map>
+        <src>./assets/ListeningRight.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="81" y="97" w="170" h="235" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u539F%u6587%0AIn%20my%20country%2C%20there%20are%20four%20seasons%20in%20the%20year.%20They%20are%20winter%2C%20spring%2C%20summer%20and%20autumn.%20%20%20%20The%20girls%20wear%20different%20clothes%20for%20every%20season.%20%20%20%20In%20winter%20it%20is%20very%20cold%2C%20we%20need%20to%20wear%20heavy%20sweaters%20and%20wool%20shirts.%20In%20the%20snow%2C%20we%20need%20heavy%20coats%2C%20too.%20%20%20%20We%20like%20spring.%20We%20take%20off%20the%20heavy%20sweaters%20then.%20We%20take%20off%20our%20heavy%20coats%20%2Ctoo.%20In%20spring%2C%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

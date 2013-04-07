@@ -12,7 +12,7 @@
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="34" y="105" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>2848996</color>
+        <color>16777215</color>
         <direction>left</direction>
         <href>130_ListeningSummary%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml%26bm%3B130_ListeningSummary.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C105%2C79%2C132%22%20href%3D%22130_ListeningSummary.bmml%22%20alt%3D%22130_ListeningSummary%22%20id%3D%223%22/%3E</map>
@@ -22,6 +22,13 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="34" y="143" w="215" h="274" measuredW="215" measuredH="274" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#listeningRecord</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="202" y="105" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>150_Listening%26bm%3B150_Listening.bmml%26bm%3B150_Listening.bmml%26bm%3B150_Listening.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C105%2C247%2C132%22%20href%3D%22150_Listening.bmml%22%20alt%3D%22150_Listening%22%20id%3D%227%22/%3E</map>
+        <text>%u56DE%u987E</text>
       </controlProperties>
     </control>
   </controls>
