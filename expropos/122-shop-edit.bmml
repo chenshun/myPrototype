@@ -27,20 +27,18 @@
     <control controlID="15" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="799" y="176" w="283" h="-1" measuredW="215" measuredH="98" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <text>%u72B6%u6001%20%2C%u8425%u4E1A%20ON%0A%u5F00%u5E97%u65F6%u95F4%2C2013-03-21%0A%u5173%u5E97%u65F6%u95F4%2C2014-03-21</text>
+        <text>%u72B6%u6001%20%2C%u8425%u4E1A%20ON%0A%u5F00%u5E97%u65F6%u95F4%2C%u521B%u5EFA%u65F6%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91%0A%u5173%u5E97%u65F6%u95F4%2C%u6839%u636E%u72B6%u6001%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91</text>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="441" y="201" w="289" h="-1" measuredW="215" measuredH="97" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <text>%u6570%u91CF%2C312%20%3E%0A%u603B%u91D1%u989D%2C%2027000%0A%u76D8%u70B9%u65F6%u95F4%2C%202013-03-24</text>
+        <text>%u6570%u91CF%2C%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91%20%3E%0A%u603B%u91D1%u989D%2C%20%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91%0A%u76D8%u70B9%u65F6%u95F4%2C%20%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91</text>
       </controlProperties>
     </control>
     <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="117" y="131" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
-        <href>112-merchant%26bm%3B112-merchant.bmml%26bm%3B112-merchant.bmml%26bm%3B112-merchant.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C131%2C162%2C158%22%20href%3D%22112-merchant.bmml%22%20alt%3D%22112-merchant%22%20id%3D%2231%22/%3E</map>
         <menuIcon>false</menuIcon>
         <text>%u5546%u6237</text>
       </controlProperties>
@@ -48,38 +46,47 @@
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="130" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
-        <href>122-shop-edit%26bm%3B122-shop-edit.bmml%26bm%3B122-shop-edit.bmml%26bm%3B122-shop-edit.bmml</href>
         <icon>SquaredPlusIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22379%2C130%2C411%2C162%22%20href%3D%22122-shop-edit.bmml%22%20alt%3D%22122-shop-edit%22%20id%3D%2234%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="1089" y="128" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>122-shop-edit%26bm%3B122-shop-edit.bmml%26bm%3B122-shop-edit.bmml%26bm%3B122-shop-edit.bmml</href>
-        <icon>WriteIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221089%2C128%2C1121%2C160%22%20href%3D%22122-shop-edit.bmml%22%20alt%3D%22122-shop-edit%22%20id%3D%2235%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Icon" x="441" y="128" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ReloadIcon%7Cmedium</icon>
-      </controlProperties>
-    </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="441" y="315" w="292" h="-1" measuredW="215" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="441" y="315" w="292" h="-1" measuredW="215" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <text>%u96C7%u5458%2C12%u4EBA%20%3E</text>
+        <text>%u96C7%u5458%2C%u81EA%u52A8%u751F%u6210%u4E0D%u53EF%u7F16%u8F91%20%3E</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="799" y="295" w="290" h="-1" measuredW="215" measuredH="126" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="799" y="295" w="290" h="-1" measuredW="215" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
-        <text>%u4EE3%u7801%uFF1A10001%0A%u5E97%u540D%uFF1A%u80DC%u592A%u8DEF%u5E97%0A%u8054%u7CFB%u7535%u8BDD%uFF1A025-81234567%0A%u5730%u5740%uFF1A%u5357%u4EAC%u6C5F%u5B81%u533A%u80DC%u592A%u8DEF68%u53F7</text>
+        <text>%u4EE3%u7801%uFF1A10001%20%2C%u53EF%u4EE5%u7F16%u8F91%0A%u5E97%u540D%uFF1A%u80DC%u592A%u8DEF%u5E97%2C%20%u53EF%u4EE5%u7F16%u8F91%0A%u8054%u7CFB%u7535%u8BDD%uFF1A025-81234567%2C%20%u53EF%u4EE5%u7F16%u8F91%0A%u5730%u5740%uFF1A%u5357%u4EAC%u6C5F%u5B81%u533A%u80DC%u592A%u8DEF68%u53F7%2C%20%u53EF%u4EE5%u7F16%u8F91</text>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="447" y="176" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="447" y="176" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u4EA4%u6613</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::PointyButton" x="1069" y="131" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <direction>center</direction>
+        <href>120-shop%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221069%2C131%2C1114%2C158%22%20href%3D%22120-shop.bmml%22%20alt%3D%22120-shop%22%20id%3D%2243%22/%3E</map>
+        <text>%u4FDD%u5B58</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::PointyButton" x="435" y="130" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <href>120-shop%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22435%2C130%2C480%2C157%22%20href%3D%22120-shop.bmml%22%20alt%3D%22120-shop%22%20id%3D%2244%22/%3E</map>
+        <text>%u53D6%u6D88</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="108" y="510" w="1024" h="360" measuredW="1024" measuredH="360" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iPad%20Keyboards.bmml#ipad%20keyboard%201025x365</src>
       </controlProperties>
     </control>
   </controls>

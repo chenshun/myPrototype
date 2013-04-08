@@ -44,47 +44,34 @@
         <text>%u4E1A%u4E3B%u4FE1%u606F</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="379" y="273" w="25" h="25" measuredW="25" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/iPad%20Controls.bmml#iPad%20Arrow%20Icon%20Detail%20Disclosure%20Button</src>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Component" x="379" y="355" w="25" h="25" measuredW="25" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/iPad%20Controls.bmml#iPad%20Arrow%20Icon%20Detail%20Disclosure%20Button</src>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="340" y="193" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="340" y="193" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>472931</color>
         <size>14</size>
         <text>%u6FC0%u6D3B</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="117" y="131" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::PointyButton" x="117" y="131" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>center</direction>
         <menuIcon>true</menuIcon>
         <text>%u6CDB%u76C8%u79D1%u6280</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="194" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="194" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>120-shop%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml</href>
-        <icon>GtCircledIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22379%2C194%2C403%2C218%22%20href%3D%22120-shop.bmml%22%20alt%3D%22120-shop%22%20id%3D%2233%22/%3E</map>
+        <icon>CartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="128" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="128" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
-        <href>110-merchant-create.bmml%26bm%3B110-merchant-create.bmml%26bm%3B110-merchant-create.bmml%26bm%3B110-merchant-create.bmml</href>
         <icon>SquaredPlusIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22379%2C128%2C411%2C160%22%20href%3D%22110-merchant-create.bmml%22%20alt%3D%22110-merchant-create.bmml%22%20id%3D%2234%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22379%2C128%2C411%2C160%22%20href%3D%22110-merchant-edit.bmml%22%20alt%3D%22110-merchant-create.bmml%22%20id%3D%2234%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::PointyButton" x="1069" y="131" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::PointyButton" x="1069" y="131" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <direction>center</direction>
@@ -93,13 +80,25 @@
         <text>%u4FDD%u5B58</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::PointyButton" x="435" y="130" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::PointyButton" x="435" y="130" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <direction>center</direction>
         <href>112-merchant.bmml%26bm%3B112-merchant.bmml%26bm%3B112-merchant.bmml%26bm%3B112-merchant.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22435%2C130%2C480%2C157%22%20href%3D%22112-merchant.bmml%22%20alt%3D%22112-merchant.bmml%22%20id%3D%2238%22/%3E</map>
         <text>%u53D6%u6D88</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="266" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <icon>CartIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="379" y="350" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <icon>CartIcon%7Cmedium</icon>
       </controlProperties>
     </control>
   </controls>
