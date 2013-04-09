@@ -51,7 +51,7 @@
         </control>
         <control controlID="113" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="137" w="481" h="-1" measuredW="215" measuredH="68" zOrder="6" locked="false" isInGroup="3">
           <controlProperties>
-            <text>%u5546%u6237%2C%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%3E%0A%u5546%u5E97%2C%u80DC%u592A%u8DEF%u5E97%20%3E</text>
+            <text>%u5546%u6237%2C%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%28%3E%29%0A%u5546%u5E97%2C%u80DC%u592A%u8DEF%u5E97%20%28%3E%29</text>
           </controlProperties>
         </control>
         <control controlID="117" controlTypeID="com.balsamiq.mockups::PointyButton" x="33" y="348" w="483" h="-1" measuredW="45" measuredH="27" zOrder="7" locked="false" isInGroup="3">

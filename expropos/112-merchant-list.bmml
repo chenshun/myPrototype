@@ -40,16 +40,16 @@
           <controlProperties>
             <color>6710886</color>
             <direction>left</direction>
-            <href>110-merchant%26bm%3B110-merchant.bmml%26bm%3B110-merchant.bmml%26bm%3B110-merchant.bmml</href>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22315%2C167%2C379%2C194%22%20href%3D%22110-merchant.bmml%22%20alt%3D%22110-merchant%22%20id%3D%22100%22/%3E</map>
             <text>%u8FD4%u56DE</text>
           </controlProperties>
         </control>
-        <control controlID="102" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="8" w="57" h="-1" measuredW="42" measuredH="27" zOrder="3" locked="false" isInGroup="6">
+        <control controlID="102" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="8" w="57" h="-1" measuredW="35" measuredH="27" zOrder="3" locked="false" isInGroup="6">
           <controlProperties>
             <color>6710886</color>
             <direction>center</direction>
-            <text>Edit</text>
+            <icon>PlusIcon%7Cxsmall</icon>
+            <text/>
           </controlProperties>
         </control>
         <control controlID="105" controlTypeID="com.balsamiq.mockups::Canvas" x="7" y="43" w="316" h="375" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="6">
@@ -89,15 +89,9 @@
             <text>%5Cr%0A%u6CDB%u76C8%u5546%u8D85%u516C%u53F8%2C%u6FC0%u6D3B%20%20%3E%0A%u6CDB%u76C8%u670D%u9970%u9500%u552E%u516C%u53F8%2C%20%20%3E%0A%u6CDB%u76C8%u9910%u996E%u516C%u53F8%2C%20%20%3E</text>
           </controlProperties>
         </control>
-        <control controlID="112" controlTypeID="com.balsamiq.mockups::Icon" x="285" y="424" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="6">
-          <controlProperties>
-            <color>16777215</color>
-            <icon>PlusIcon%7Csmall</icon>
-          </controlProperties>
-        </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="505" y="269" w="109" h="226" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="431" y="332" w="173" h="144" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u4E00%u4E2A%u7528%u6237%u53EF%u4EE5%u5F00%u591A%u5BB6%u5546%u6237%2C%u6FC0%u6D3B%u5B57%u6837%u4EE3%u8868%u5F53%u524D%u5546%u6237%u662F%u6FC0%u6D3B%u7684%uFF0C%u540C%u4E00%u65F6%u95F4%u53EA%u80FD%u6709%u4E00%u4E2A%u662F%u6FC0%u6D3B%u7684%u3002%u6709%u4E86%u6FC0%u6D3B%u7684%u5546%u6237%u5546%u6237%u624D%u53EF%u4EE5%u8FDB%u884C%u4EA4%u6613%u64CD%u4F5C%u3002</text>
       </controlProperties>
