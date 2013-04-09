@@ -1,0 +1,93 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="748" mockupW="1023" mockupH="748">
+  <controls>
+    <control controlID="78" controlTypeID="__group__" x="280" y="108" w="334" h="480" measuredW="334" measuredH="480" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>sku</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="96" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="20" w="334" h="460" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="78">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+          </controlProperties>
+        </control>
+        <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="7" y="28" w="319" h="29" measuredW="39" measuredH="25" zOrder="2" locked="false" isInGroup="78">
+          <controlProperties>
+            <align>center</align>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>18</size>
+            <text>SKU</text>
+          </controlProperties>
+        </control>
+        <control controlID="100" controlTypeID="com.balsamiq.mockups::PointyButton" x="7" y="29" w="64" h="-1" measuredW="35" measuredH="27" zOrder="3" locked="false" isInGroup="78">
+          <controlProperties>
+            <color>6710886</color>
+            <direction>center</direction>
+            <href>142-sku-create%26bm%3B142-sku-create.bmml%26bm%3B142-sku-create.bmml%26bm%3B142-sku-create.bmml</href>
+            <icon>PlusIcon%7Cxsmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22287%2C137%2C351%2C164%22%20href%3D%22142-sku-create.bmml%22%20alt%3D%22142-sku-create%22%20id%3D%22100%22/%3E</map>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="102" controlTypeID="com.balsamiq.mockups::PointyButton" x="269" y="28" w="57" h="-1" measuredW="42" measuredH="27" zOrder="4" locked="false" isInGroup="78">
+          <controlProperties>
+            <color>6710886</color>
+            <direction>center</direction>
+            <text>Edit</text>
+          </controlProperties>
+        </control>
+        <control controlID="103" controlTypeID="com.balsamiq.mockups::RoundButton" x="143" y="0" w="48" h="48" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="78">
+          <controlProperties>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>diamond</shape>
+          </controlProperties>
+        </control>
+        <control controlID="106" controlTypeID="com.balsamiq.mockups::Canvas" x="7" y="62" w="316" h="46" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="78">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="107" controlTypeID="com.balsamiq.mockups::SearchBox" x="19" y="80" w="296" h="-1" measuredW="120" measuredH="24" zOrder="9" locked="false" isInGroup="78"/>
+        <control controlID="110" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="7" y="74" w="319" h="-1" measuredW="215" measuredH="388" zOrder="6" locked="false" isInGroup="78">
+          <controlProperties>
+            <text>%5Cr%0AiPhone4S%20%u767D%u8272%20%u552E%u4EF7%uFFE53900%2C%20100%u53F0%0AiPhone4S%20%u767D%u8272%20%u552E%u4EF7%uFFE53900%2C%20200%u53F0%0AiPhone4S%20%u9ED1%u8272%20%u552E%u4EF7%uFFE53700%2C%20100%u53F0%0Alabel%0Alabel%0Alabel%0Alabel%0Alabel%0Alabel%0Alabel%0Alabel%0A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="111" controlTypeID="com.balsamiq.mockups::Canvas" x="7" y="74" w="316" h="34" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="78">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="112" controlTypeID="com.balsamiq.mockups::SearchBox" x="19" y="80" w="296" h="-1" measuredW="120" measuredH="24" zOrder="10" locked="false" isInGroup="78"/>
+        <control controlID="113" controlTypeID="com.balsamiq.mockups::Canvas" x="7" y="74" w="316" h="34" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="78">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="79" controlTypeID="__group__" x="0" y="0" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>120-shop%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C0%2C1023%2C748%22%20href%3D%22120-shop.bmml%22%20alt%3D%22120-shop%22%20id%3D%2279%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="79">
+          <controlProperties>
+            <src>./assets/symbols.bmml#shop</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
