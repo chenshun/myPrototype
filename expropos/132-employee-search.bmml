@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="750" mockupW="1024" mockupH="750">
+  <controls>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="324" y="46" w="692" h="-1" measuredW="215" measuredH="60" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>__%20%u5218%u5907%20320103198010123214%20%5Cr%u7535%u8BDD%uFF1A18912345678%2C%202013-12-12%20%u5165%u804C%20%28%3E%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="750" measuredW="1024" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="10:0">
+          <text>%u5218</text>
+        </override>
+        <src>./assets/symbols.bmml#search</src>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::RoundButton" x="337" y="61" w="-1" h="-1" measuredW="36" measuredH="36" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Cmedium</icon>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

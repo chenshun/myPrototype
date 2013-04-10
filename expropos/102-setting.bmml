@@ -26,8 +26,6 @@
           <controlProperties>
             <color>6710886</color>
             <direction>center</direction>
-            <href>120-shop%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml%26bm%3B120-shop.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22723%2C169%2C792%2C196%22%20href%3D%22120-shop.bmml%22%20alt%3D%22120-shop%22%20id%3D%22102%22/%3E</map>
             <text>%u5B8C%u6210</text>
           </controlProperties>
         </control>
@@ -54,20 +52,25 @@
             <text>%u5546%u6237%2C%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%28%3E%29%0A%u5546%u5E97%2C%u80DC%u592A%u8DEF%u5E97%20%28%3E%29</text>
           </controlProperties>
         </control>
-        <control controlID="117" controlTypeID="com.balsamiq.mockups::PointyButton" x="33" y="348" w="483" h="-1" measuredW="45" measuredH="27" zOrder="7" locked="false" isInGroup="3">
-          <controlProperties>
-            <color>13576743</color>
-            <direction>center</direction>
-            <text>%u9000%u51FA</text>
-          </controlProperties>
-        </control>
-        <control controlID="119" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="74" w="29" h="36" measuredW="36" measuredH="36" zOrder="8" locked="false" isInGroup="3">
+        <control controlID="119" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="74" w="29" h="36" measuredW="36" measuredH="36" zOrder="7" locked="false" isInGroup="3">
           <controlProperties>
             <icon>ContactIcon%7Cmedium</icon>
             <shape>roundRect</shape>
           </controlProperties>
         </control>
-        <control controlID="121" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="227" w="481" h="-1" measuredW="215" measuredH="68" zOrder="9" locked="false" isInGroup="3">
+        <control controlID="121" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="227" w="481" h="-1" measuredW="215" measuredH="39" zOrder="8" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>%u5546%u54C1%2C120%u79CD%uFF0C300%u4E2A%u578B%u53F7%20%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="122" controlTypeID="com.balsamiq.mockups::PointyButton" x="12" y="8" w="69" h="-1" measuredW="45" measuredH="27" zOrder="9" locked="false" isInGroup="3">
+          <controlProperties>
+            <color>13576743</color>
+            <direction>center</direction>
+            <text>%u767B%u51FA</text>
+          </controlProperties>
+        </control>
+        <control controlID="123" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="299" w="481" h="-1" measuredW="215" measuredH="68" zOrder="10" locked="false" isInGroup="3">
           <controlProperties>
             <text>%u670D%u52A1%u6761%u6B3E%2C%20%3E%0A%u5173%u4E8E%u6211%u4EEC%2C%20%3E</text>
           </controlProperties>
