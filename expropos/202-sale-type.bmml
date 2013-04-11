@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1019" measuredH="748" mockupW="1019" mockupH="748">
+  <controls>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1019" h="748" measuredW="1019" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="19">
+          <text>1000100</text>
+        </override>
+        <src>./assets/symbols.bmml#POS view</src>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::DataGrid" x="704" y="100" w="307" h="161" measuredW="183" measuredH="131" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <size>18</size>
+        <text>iPhone%204S%20%u9ED1%u8272%20%u56FD%u884C%20%5Cr10001000%0AiPhone%205%20%u767D%u8272%20%u6E2F%u884C%5Cr100001001%0AiPhone%205%20%u9ED1%u8272%20%u6E2F%u884C%5Cr100001002</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="826" y="54" w="-1" h="-1" measuredW="125" measuredH="38" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>1000100</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

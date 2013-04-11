@@ -2,7 +2,15 @@
   <controls>
     <control controlID="64" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1019" h="748" measuredW="1019" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="19">
+          <text>%20</text>
+        </override>
         <src>./assets/symbols.bmml#POS view</src>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Component" x="100" y="138" w="768" h="555" measuredW="768" measuredH="555" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#settle view</src>
       </controlProperties>
     </control>
   </controls>
