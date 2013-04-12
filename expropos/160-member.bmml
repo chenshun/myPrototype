@@ -1,0 +1,21 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="750" mockupW="1023" mockupH="750">
+  <controls>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="19">
+          <text>%u4F1A%u5458</text>
+        </override>
+        <src>./assets/symbols.bmml#shop</src>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="46" w="694" h="331" measuredW="667" measuredH="67" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <rowHeight>43</rowHeight>
+        <size>16</size>
+        <text>%u7F16%u53F7%2C%u59D3%u540D%2C%u5361%u7C7B%u578B%2C%u6709%u6548%u671F%2C%u52A0%u5165%u65F6%u95F4%2C%u72B6%u6001%2C%u79EF%u5206%u7D2F%u8BA1%2C%u79EF%u5206%u4F59%u989D%2C%u50A8%u503C%u4F59%u989D%0A1234567890%2C%u66F9%u64CD%2C%u4F1A%u5458%2C2014-12-31%2C2012-12-01%2C%u6B63%u5E38%2C20000%2C1000%2C300</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -35,7 +35,7 @@
             <color>15658734</color>
           </controlProperties>
         </control>
-        <control controlID="109" controlTypeID="com.balsamiq.mockups::Paragraph" x="33" y="382" w="483" h="24" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="3">
+        <control controlID="109" controlTypeID="com.balsamiq.mockups::Paragraph" x="29" y="317" w="483" h="24" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="3">
           <controlProperties>
             <align>center</align>
             <color>0</color>
@@ -58,19 +58,14 @@
             <shape>roundRect</shape>
           </controlProperties>
         </control>
-        <control controlID="121" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="227" w="481" h="-1" measuredW="215" measuredH="39" zOrder="8" locked="false" isInGroup="3">
-          <controlProperties>
-            <text>%u5546%u54C1%2C120%u79CD%uFF0C300%u4E2A%u578B%u53F7%20%3E</text>
-          </controlProperties>
-        </control>
-        <control controlID="122" controlTypeID="com.balsamiq.mockups::PointyButton" x="12" y="8" w="69" h="-1" measuredW="45" measuredH="27" zOrder="9" locked="false" isInGroup="3">
+        <control controlID="122" controlTypeID="com.balsamiq.mockups::PointyButton" x="12" y="8" w="69" h="-1" measuredW="45" measuredH="27" zOrder="8" locked="false" isInGroup="3">
           <controlProperties>
             <color>13576743</color>
             <direction>center</direction>
             <text>%u767B%u51FA</text>
           </controlProperties>
         </control>
-        <control controlID="123" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="299" w="481" h="-1" measuredW="215" measuredH="68" zOrder="10" locked="false" isInGroup="3">
+        <control controlID="123" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="234" w="481" h="-1" measuredW="215" measuredH="68" zOrder="9" locked="false" isInGroup="3">
           <controlProperties>
             <text>%u670D%u52A1%u6761%u6B3E%2C%20%3E%0A%u5173%u4E8E%u6211%u4EEC%2C%20%3E</text>
           </controlProperties>

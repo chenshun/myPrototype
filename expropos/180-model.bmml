@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="750" mockupW="1023" mockupH="750">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#shop</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="83" y="70" w="768" h="555" measuredW="768" measuredH="555" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>model%20list</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="768" h="555" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="768" h="44" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>13158600</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="768" h="22" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderColor>15658734</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="4" y="8" w="66" h="-1" measuredW="45" measuredH="27" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>3355443</color>
+            <direction>left</direction>
+            <text>%u8FD4%u56DE</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="2" y="44" w="761" h="496" measuredW="610" measuredH="88" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>56</rowHeight>
+            <size>24</size>
+            <text>%u578B%u53F7%u540D%2C%20%u8BF4%u660E%2C%u5355%u4EF7%2C%20%u521B%u5EFA%u65F6%u95F4%2C%u4E0A%u67B6%2C%0AiPhone%204S-white%2C%u9ED1%u8272%20%u56FD%u884C%2C3500.00%2C2012-04-12%2C%5Bx%5D%0A%7B0L%2C%200C%2C%200R%2C%200R%2C0C%7D</text>
+            <vLines>false</vLines>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="722" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>PlusIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="257" y="9" w="197" h="-1" measuredW="183" measuredH="26" zOrder="6" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>iPhone%204S%u7684%u578B%u53F7</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
