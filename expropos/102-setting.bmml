@@ -52,9 +52,9 @@
             <text>%u5546%u6237%2C%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%28%3E%29%0A%u5546%u5E97%2C%u80DC%u592A%u8DEF%u5E97%20%28%3E%29</text>
           </controlProperties>
         </control>
-        <control controlID="119" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="74" w="29" h="36" measuredW="36" measuredH="36" zOrder="7" locked="false" isInGroup="3">
+        <control controlID="119" controlTypeID="com.balsamiq.mockups::RoundButton" x="40" y="68" w="50" h="48" measuredW="52" measuredH="52" zOrder="7" locked="false" isInGroup="3">
           <controlProperties>
-            <icon>ContactIcon%7Cmedium</icon>
+            <icon>ContactIcon%7Clarge</icon>
             <shape>roundRect</shape>
           </controlProperties>
         </control>

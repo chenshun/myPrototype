@@ -153,13 +153,13 @@
         <borderStyle>roundedSolid</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::DataGrid" x="119" y="435" w="398" h="166" measuredW="274" measuredH="171" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::DataGrid" x="119" y="435" w="398" h="166" measuredW="274" measuredH="122" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hLines>false</hLines>
         <rowHeight>49</rowHeight>
         <size>16</size>
-        <text>%u4ED8%u6B3E%u65B9%u5F0F%2C%u4ED8%u6B3E%u91D1%u989D%2C%u6C47%u7387%2C%u6298%u7B97%u91D1%u989D%0A%u73B0%u91D1%2C6000%2C0%2C100%0A%u50A8%u503C%u5361%2C500%2C0%2C0%0A%u4F1A%u5458%u8D26%u6237%2C500%2C0%2C0%0A%7B0L%2C0R%2C0R%2C0R%7D</text>
+        <text>%u4ED8%u6B3E%u65B9%u5F0F%2C%u4ED8%u6B3E%u91D1%u989D%2C%u6C47%u7387%2C%u6298%u7B97%u91D1%u989D%0A%u73B0%u91D1%2C6000%2C0%2C100%0A%u50A8%u503C%2C500%2C0%2C0%0A%7B0L%2C0R%2C0R%2C0R%7D</text>
         <vLines>false</vLines>
       </controlProperties>
     </control>

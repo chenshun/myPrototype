@@ -12,10 +12,10 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="488" y="299" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="374" y="304" w="-1" h="-1" measuredW="104" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ContactIcon%7Clarge</icon>
-        <text>%u8001%u677F</text>
+        <text>%u6CDB%u76C8%u79D1%u6280%u4E1A%u4E3B%u8D26%u53F7</text>
       </controlProperties>
     </control>
     <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="470" y="687" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
@@ -23,9 +23,10 @@
         <text>%u6CDB%u76C8%u79D1%u6280%202013</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::StickyNote" x="557" y="338" w="183" h="132" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::IconLabel" x="570" y="304" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u9996%u6B21%u4F7F%u7528%u7528%u4E00%u4E2A%u8499%u5C42%u8499%u4F4F%uFF0C%u53EA%u9732%u51FA%u8001%u677F%u7684%u56FE%u6807%uFF0C%u5E76%u7528%u6307%u5BFC%u65B0%u7684%u56FE%u793A%u8BF4%u660E%u3002</text>
+        <icon>ContactIcon%7Clarge</icon>
+        <text>%u6536%u94F6%u5458</text>
       </controlProperties>
     </control>
   </controls>

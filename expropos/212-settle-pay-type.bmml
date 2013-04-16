@@ -10,6 +10,9 @@
     </control>
     <control controlID="114" controlTypeID="com.balsamiq.mockups::Component" x="100" y="138" w="768" h="555" measuredW="768" measuredH="555" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="5">
+          <text>%u73B0%u91D1</text>
+        </override>
         <src>./assets/symbols.bmml#settle view</src>
       </controlProperties>
     </control>
@@ -42,12 +45,12 @@
             <text>%u4F1A%u5458%u50A8%u503C</text>
           </controlProperties>
         </control>
-        <control controlID="119" controlTypeID="com.balsamiq.mockups::PointyButton" x="5" y="66" w="193" h="-1" measuredW="73" measuredH="27" zOrder="3" locked="false" isInGroup="116">
+        <control controlID="119" controlTypeID="com.balsamiq.mockups::PointyButton" x="5" y="66" w="193" h="-1" measuredW="55" measuredH="27" zOrder="3" locked="false" isInGroup="116">
           <controlProperties>
             <color>2848996</color>
             <direction>center</direction>
             <size>18</size>
-            <text>%u50A8%u503C%u5361</text>
+            <text>%u73B0%u91D1</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
