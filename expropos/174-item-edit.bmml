@@ -26,11 +26,11 @@
         <vLines>false</vLines>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="705" y="277" w="310" h="107" measuredW="94" measuredH="65" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="705" y="277" w="310" h="107" measuredW="146" measuredH="65" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hasHeader>false</hasHeader>
-        <text>%u9ED1%u8272%2C%uFFE53500%0A%u767D%u8272%2C%uFFE53600%0A%7B0L%2C0R%7D</text>
+        <text>%u9ED1%u8272%20%u56FD%u884C%uFFE53500%2C100%0A%u767D%u8272%20%u56FD%u884C%uFFE53600%2C200%0A%7B0L%2C0R%7D</text>
         <vLines>false</vLines>
       </controlProperties>
     </control>
@@ -39,7 +39,7 @@
         <align>left</align>
         <color>14540253</color>
         <shape>rectangle</shape>
-        <text>%u578B%u53F7</text>
+        <text>SKU</text>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="986" y="243" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">

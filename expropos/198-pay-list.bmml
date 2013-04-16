@@ -2,6 +2,9 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="22">
+          <color>14540253</color>
+        </override>
         <override controlID="19">
           <text>%u4ED8%u6B3E%u6D41%u6C34%u8BB0%u5F55</text>
         </override>

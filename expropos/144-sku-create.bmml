@@ -1,8 +1,66 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="750" mockupW="1023" mockupH="750">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="750" mockupW="1024" mockupH="750">
   <controls>
     <control controlID="76" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#shop</src>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Component" x="234" y="47" w="550" h="44" measuredW="550" measuredH="44" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1" x="0" y="8" w="550" h="29">
+          <text>%u65B0%u589E%u5E93%u5B58</text>
+        </override>
+        <override controlID="3" x="0" y="0" w="550" h="44"/>
+        <override controlID="-1"/>
+        <override controlID="3:0" x="0" y="0" w="550" h="44"/>
+        <override controlID="3:1" x="0" y="0" w="550" h="22"/>
+        <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Bar%2C%20Black</src>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::RoundButton" x="234" y="48" w="556" h="335" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::PointyButton" x="247" y="56" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::PointyButton" x="730" y="56" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>%u786E%u5B9A</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::DataGrid" x="243" y="92" w="192" h="283" measuredW="164" measuredH="225" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <rowHeight>55</rowHeight>
+        <size>18</size>
+        <text>%u54C1%u540D%uFF1A%2CiPhone%204S%0A%u7F16%u7801%uFF1A%2C85690065%0A%u552E%u4EF7%uFF1A%2C3700.00%0A%u6570%u91CF%uFF1A%2C200%0A%7B0R%2C0L%7D</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::RoundButton" x="460" y="143" w="307" h="214" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <shape>roundRect</shape>
+        <text>%u767D%u8272%20%u56FD%u884C%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::SubTitle" x="460" y="107" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%u578B%u53F7%u89C4%u683C</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Component" x="0" y="383" w="1024" h="360" measuredW="1024" measuredH="360" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>$ACCOUNT/assets/iPad%20Keyboards.bmml#ipad%20keyboard%201025x365</src>
       </controlProperties>
     </control>
   </controls>
