@@ -5,5 +5,10 @@
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Component" x="706" y="38" w="305" h="160" measuredW="305" measuredH="160" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#Sale View</src>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

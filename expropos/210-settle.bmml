@@ -8,12 +8,40 @@
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::Component" x="100" y="138" w="768" h="555" measuredW="768" measuredH="555" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::RoundButton" x="706" y="49" w="305" h="152" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="5">
-          <text>%u73B0%u91D1</text>
-        </override>
-        <src>./assets/symbols.bmml#settle view</src>
+        <backgroundAlpha>0</backgroundAlpha>
+        <shape>roundRect</shape>
+        <text>%u9000%u8D27%20%20%20%u5BF9%u8D26%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%u6D41%u6C34%20%20%20%u5E93%u5B58%20%20%20%u5546%u54C1%0A%20%0A%20%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="794" y="41" w="85" h="73" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <shape>dottedRect</shape>
+        <shapeRotation>180</shapeRotation>
+        <size>32</size>
+        <text>%u9500%u552E</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Button" x="726" y="129" w="121" h="56" measuredW="78" measuredH="36" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>28</size>
+        <text>%u8FD4%u56DE</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="869" y="129" w="130" h="56" measuredW="121" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>true</menuIcon>
+        <size>20</size>
+        <text>%u6298%u6263%u91D1%u989D</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="921" y="209" w="-1" h="-1" measuredW="78" measuredH="45" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>0.00</text>
       </controlProperties>
     </control>
   </controls>

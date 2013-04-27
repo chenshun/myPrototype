@@ -76,7 +76,7 @@
         </control>
         <control controlID="111" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="7" y="41" w="319" h="-1" measuredW="215" measuredH="187" zOrder="6" locked="false" isInGroup="77">
           <controlProperties>
-            <text>%5Cr%0A%5Cr%0Av%20%u80DC%u592A%u8DEF%u5E97%2C%20%28%3E%29%0A%5Cr%0A%u65B0%u8857%u53E3%u5E97%2C%20%28%3E%29%0A%u6CB3%u897F%u5965%u4F53%u5E97%2C%20%28%3E%29</text>
+            <text>%5Cr%0A%5Cr%0Av%20%u65B0%u8857%u53E3%u5E97%2C%20%28%3E%29%0A%5Cr%0A%u80DC%u592A%u8DEF%u5E97%2C%20%28%3E%29%0A%u6CB3%u897F%u5965%u4F53%u5E97%2C%20%28%3E%29</text>
           </controlProperties>
         </control>
         <control controlID="115" controlTypeID="com.balsamiq.mockups::TextInput" x="9" y="78" w="318" h="-1" measuredW="40" measuredH="27" zOrder="11" locked="false" isInGroup="77">
