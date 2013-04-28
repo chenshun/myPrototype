@@ -10,5 +10,10 @@
         <src>./assets/symbols.bmml#Sale View</src>
       </controlProperties>
     </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Alert" x="275" y="333" w="353" h="133" measuredW="200" measuredH="133" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5220%u9664%u201CiPhone5%u201D%0A%u5220%u9664%u201CiPhone%205%20%u9ED1%u8272%20%u56FD%u884C%u201D%u5168%u90E8%u7684%u9879%u76EE%uFF1F%0A%u5220%u9664%2C%20%u53D6%u6D88%20</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

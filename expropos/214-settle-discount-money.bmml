@@ -2,17 +2,15 @@
   <controls>
     <control controlID="64" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1019" h="748" measuredW="1019" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="64" x="15" y="210" w="669" h="523"/>
+        <override controlID="0" x="0" y="0" w="703" h="748"/>
         <override controlID="1" x="699" y="0" w="320" h="748"/>
         <override controlID="2" x="699" y="0" w="320" h="45"/>
         <override controlID="3" x="0" y="0" w="699" h="45"/>
         <override controlID="4" x="530" y="7" w="-1" h="-1"/>
         <override controlID="5" x="861" y="5" w="-1" h="-1"/>
-        <override controlID="6" x="17" y="210" w="668" h="246">
-          <hasHeader>false</hasHeader>
-          <rowHeight>60</rowHeight>
-          <selectedIndex>-1</selectedIndex>
-          <text/>
+        <override controlID="6" x="13" y="258" w="672" h="261">
+          <selectedIndex>1</selectedIndex>
+          <text>%u5546%u54C1%20%2C%20%u5355%u4EF7%2C%20%u6570%u91CF%2C%20%u5C0F%u8BA1%0AiPhone%204S%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr10001000%2C3500.00%2C2%2C7000.00%0AiPhone%205%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr10001000%2C5000.00%2C2%2C10000.00%0A%u6574%u5355%u6298%u6263%2C%20-500.00%2C1%2C-500.00%0A%7B40L%2C%2010R%2C%2010R%2C%2020R%7D</text>
         </override>
         <override controlID="7" x="715" y="266" w="80" h="80"/>
         <override controlID="8" x="819" y="266" w="80" h="80"/>
@@ -26,33 +24,46 @@
         <override controlID="16" x="715" y="366" w="80" h="80"/>
         <override controlID="17" x="819" y="366" w="80" h="80"/>
         <override controlID="18" x="923" y="366" w="80" h="80"/>
-        <override controlID="0" x="0" y="0" w="703" h="748"/>
-        <override controlID="32" x="11" y="140" w="259" h="55">
-          <color>2848996</color>
+        <override controlID="19">
+          <text>%20</text>
         </override>
+        <override controlID="64" x="15" y="211" w="669" h="43"/>
+        <override controlID="32" x="11" y="140" w="259" h="55"/>
         <override controlID="44" x="707" y="206" w="304" h="52"/>
         <override controlID="53" x="715" y="653" w="80" h="80"/>
         <override controlID="55" x="923" y="567" w="80" h="80"/>
-        <override controlID="61" x="277" y="53" w="411" h="142"/>
+        <override controlID="61" x="277" y="53" w="411" h="142">
+          <rowHeight>44</rowHeight>
+          <size>32</size>
+          <text>%u5E94%u6536%2C16500.00%0A%u5DF2%u6536%2C12000.00%0A%u627E%u96F6%2C-4500.00%0A%7B0L%2C%200R%7D</text>
+        </override>
         <override controlID="62" x="9" y="56" w="260" h="72"/>
         <override controlID="63" x="11" y="206" w="677" h="533"/>
-        <override controlID="64:0" x="0" y="0" w="669" h="523">
-          <rowHeight>39</rowHeight>
-          <text>%u4F1A%u5458%u7F16%u53F7%uFF1A%2C1234567890%0A%u4F1A%u5458%u59D3%u540D%uFF1A%2C%u66F9%u64CD%0A%u4F1A%u5458%u7C7B%u578B%uFF1A%2C%u4F1A%u5458%u5361%0A%u6709%u6548%u671F%u81F3%uFF1A%2C2014-03-21%0A%20%20%20%20%u5361%u72B6%u6001%uFF1A%2C%u6B63%u5E38%0A%u79EF%u5206%u7D2F%u8BA1%uFF1A%2C20000%0A%u79EF%u5206%u4F59%u989D%uFF1A%2C1000%0A%u50A8%u503C%u4F59%u989D%uFF1A%2C2000%0A%7B20L%2C80L%7D</text>
-        </override>
+        <override controlID="64:0" x="0" y="0" w="669" h="43"/>
         <override controlID="-1"/>
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Component" x="706" y="53" w="305" h="142" measuredW="305" measuredH="142" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Component" x="706" y="49" w="305" h="205" measuredW="305" measuredH="205" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/symbols.bmml#Sale%20View</src>
+        <override controlID="0">
+          <text>500.00</text>
+        </override>
+        <override controlID="2">
+          <color>2848996</color>
+        </override>
+        <override controlID="3">
+          <color>16777215</color>
+        </override>
+        <src>./assets/symbols.bmml#settle controller</src>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="782" y="210" w="-1" h="-1" measuredW="223" measuredH="45" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="14" y="518" w="669" h="218" measuredW="669" measuredH="218" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <size>40</size>
-        <text>1234567890</text>
+        <override controlID="0">
+          <text>%u5408%u8BA1%3A16500.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A2000.00%0A%u4F1A%u5458%u50A8%u503C%3A10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A0.00%0A%u627E%u96F6%uFF1A-4500.00%0A%7B0L%2C0L%7D</text>
+        </override>
+        <src>./assets/symbols.bmml#settle detail</src>
       </controlProperties>
     </control>
   </controls>

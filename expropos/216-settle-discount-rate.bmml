@@ -4,14 +4,18 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="703" h="748"/>
         <override controlID="1" x="699" y="0" w="320" h="748"/>
+        <override controlID="2" x="699" y="0" w="320" h="45"/>
         <override controlID="3" x="0" y="0" w="699" h="45"/>
         <override controlID="4" x="530" y="7" w="-1" h="-1"/>
         <override controlID="5" x="861" y="5" w="-1" h="-1"/>
-        <override controlID="6" x="15" y="254" w="672" h="261"/>
+        <override controlID="6" x="13" y="254" w="672" h="261">
+          <selectedIndex>1</selectedIndex>
+          <text>%u5546%u54C1%20%2C%20%u5355%u4EF7%2C%20%u6570%u91CF%2C%20%u5C0F%u8BA1%0AiPhone%204S%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr10001000%2C3500.00%2C2%2C7000.00%0AiPhone%205%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr10001000%2C5000.00%2C2%2C10000.00%0A%u6574%u5355%u6298%u6263%2C%20-850.00%2C1%2C-850.00%0A%7B40L%2C%2010R%2C%2010R%2C%2020R%7D</text>
+        </override>
         <override controlID="7" x="715" y="266" w="80" h="80"/>
         <override controlID="8" x="819" y="266" w="80" h="80"/>
         <override controlID="9" x="923" y="266" w="80" h="80"/>
-        <override controlID="2" x="699" y="0" w="320" h="45"/>
+        <override controlID="10" x="819" y="567" w="80" h="80"/>
         <override controlID="11" x="715" y="567" w="80" h="80"/>
         <override controlID="12" x="819" y="653" w="185" h="80"/>
         <override controlID="13" x="715" y="471" w="80" h="80"/>
@@ -19,11 +23,10 @@
         <override controlID="15" x="923" y="471" w="80" h="80"/>
         <override controlID="16" x="715" y="366" w="80" h="80"/>
         <override controlID="17" x="819" y="366" w="80" h="80"/>
-        <override controlID="10" x="819" y="567" w="80" h="80"/>
+        <override controlID="18" x="923" y="366" w="80" h="80"/>
         <override controlID="19">
           <text>%20</text>
         </override>
-        <override controlID="18" x="923" y="366" w="80" h="80"/>
         <override controlID="64" x="15" y="211" w="669" h="43"/>
         <override controlID="32" x="11" y="140" w="259" h="55"/>
         <override controlID="44" x="707" y="206" w="304" h="52"/>
@@ -32,29 +35,36 @@
         <override controlID="61" x="277" y="53" w="411" h="142">
           <rowHeight>44</rowHeight>
           <size>32</size>
-          <text>%u5E94%u6536%2C17000.00%0A%u5DF2%u6536%2C12000.00%0A%u627E%u96F6%2C-5000.00%0A%7B0L%2C%200R%7D</text>
+          <text>%u5E94%u6536%2C16150.00%0A%u5DF2%u6536%2C12000.00%0A%u627E%u96F6%2C-4150.00%0A%7B0L%2C%200R%7D</text>
         </override>
         <override controlID="62" x="9" y="56" w="260" h="72"/>
         <override controlID="63" x="11" y="206" w="677" h="533"/>
-        <override controlID="-1"/>
         <override controlID="64:0" x="0" y="0" w="669" h="43"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
     <control controlID="108" controlTypeID="com.balsamiq.mockups::Component" x="706" y="49" w="305" h="205" measuredW="305" measuredH="205" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0">
-          <text>2000.00</text>
+          <text>95</text>
+        </override>
+        <override controlID="2">
+          <color>2848996</color>
+          <text>%u6298%u6263%u6BD4%u4F8B</text>
         </override>
         <override controlID="3">
           <color>16777215</color>
-          <state>selected</state>
         </override>
         <src>./assets/symbols.bmml#settle controller</src>
       </controlProperties>
     </control>
-    <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="14" y="517" w="669" h="218" measuredW="669" measuredH="218" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="15" y="515" w="669" h="218" measuredW="669" measuredH="218" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="0" x="0" y="0" w="669" h="218">
+          <text>%u5408%u8BA1%3A16150.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A2000.00%0A%u4F1A%u5458%u50A8%u503C%3A10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A0.00%0A%u627E%u96F6%uFF1A-4150.00%0A%7B0L%2C0L%7D</text>
+        </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#settle detail</src>
       </controlProperties>
     </control>

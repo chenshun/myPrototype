@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1019" measuredH="748" mockupW="1019" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1019" h="748" measuredW="1019" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="64" x="15" y="211" w="669" h="524"/>
+        <override controlID="1" x="699" y="0" w="320" h="748"/>
+        <override controlID="2" x="699" y="0" w="320" h="45"/>
+        <override controlID="3" x="0" y="0" w="699" h="45"/>
+        <override controlID="4" x="530" y="7" w="-1" h="-1"/>
+        <override controlID="5" x="861" y="5" w="-1" h="-1"/>
+        <override controlID="6" x="16" y="256" w="668" h="261">
+          <selectedIndex>5</selectedIndex>
+          <text/>
+        </override>
+        <override controlID="7" x="715" y="266" w="80" h="80"/>
+        <override controlID="8" x="819" y="266" w="80" h="80"/>
+        <override controlID="9" x="923" y="266" w="80" h="80"/>
+        <override controlID="10" x="819" y="567" w="80" h="80"/>
+        <override controlID="11" x="715" y="567" w="80" h="80"/>
+        <override controlID="12" x="819" y="653" w="185" h="80"/>
+        <override controlID="13" x="715" y="471" w="80" h="80"/>
+        <override controlID="14" x="819" y="471" w="80" h="80"/>
+        <override controlID="15" x="923" y="471" w="80" h="80"/>
+        <override controlID="16" x="715" y="366" w="80" h="80"/>
+        <override controlID="17" x="819" y="366" w="80" h="80"/>
+        <override controlID="18" x="923" y="366" w="80" h="80"/>
+        <override controlID="0" x="0" y="0" w="703" h="748"/>
+        <override controlID="32" x="11" y="140" w="259" h="55"/>
+        <override controlID="44" x="707" y="206" w="304" h="52"/>
+        <override controlID="53" x="715" y="653" w="80" h="80"/>
+        <override controlID="55" x="923" y="567" w="80" h="80"/>
+        <override controlID="61" x="277" y="53" w="411" h="142">
+          <text>%u5546%u54C1%2C1%0A%u603B%u8BA1%2C200%0A%20%0A%7B0L%2C%200R%7D</text>
+        </override>
+        <override controlID="62" x="9" y="56" w="260" h="72"/>
+        <override controlID="63" x="11" y="206" w="677" h="533"/>
+        <override controlID="64:0" x="0" y="0" w="669" h="524">
+          <hasHeader>true</hasHeader>
+          <text>%u5546%u54C1%20%2C%20%u5355%u4EF7%2C%20%u5E93%u5B58%u6570%u91CF%2C%u5355%u4F4D%2C%20%u54C1%u724C%0AiPhone%204S%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr10001000%2C3500.00%2C200%2C%u53F0%2CApple%0A%7B0L%2C%200R%2C%200R%2C%200C%2C0C%7D</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#POS%20view</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="707" y="51" w="305" h="202" measuredW="305" measuredH="202" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>sku%20view</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="305" h="142" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <align>left</align>
+            <backgroundAlpha>0</backgroundAlpha>
+            <shape>roundRect</shape>
+            <size>20</size>
+            <text>%u9500%u552E%20%20%u6D41%u6C34%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%0A%20%0A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="106" y="0" w="92" h="59" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <shape>dottedRect</shape>
+            <shapeRotation>180</shapeRotation>
+            <size>32</size>
+            <text>%u5E93%u5B58</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="119" y="157" w="-1" h="-1" measuredW="178" measuredH="45" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <size>40</size>
+            <text>10001000</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
