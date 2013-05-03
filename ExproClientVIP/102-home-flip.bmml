@@ -8,12 +8,12 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="0" y="40" w="640" h="460" measuredW="640" measuredH="460" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="10" y="120" w="620" h="420" measuredW="620" measuredH="420" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#card</src>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="0" y="500" w="640" h="460" measuredW="640" measuredH="460" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="10" y="540" w="620" h="420" measuredW="620" measuredH="420" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0">
           <text>LOGO%20%u6D77%u6E2F%u57CE%20%2C2013/05%0A%20%0A%20%0A%20%0A9999%201234%205678%209000%2C%0A%2C0987654321%0A%7B0L%2C0R%7D</text>
@@ -21,14 +21,33 @@
         <src>./assets/symbols.bmml#card</src>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="0" y="500" w="640" h="230" measuredW="640" measuredH="230" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Title" x="239" y="55" w="120" h="-1" measuredW="120" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="0" x="10" y="5" w="620" h="220">
+        <size>40</size>
+        <text>%u6CDB%u5361%u6C47</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="41" w="80" h="80" measuredW="52" measuredH="52" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Clarge</icon>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::RoundButton" x="560" y="41" w="80" h="80" measuredW="52" measuredH="52" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HomeMobileIcon%7Clarge</icon>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Component" x="10" y="540" w="620" h="230" measuredW="620" measuredH="230" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="10" y="5" w="601" h="220">
           <rowHeight>36</rowHeight>
           <text>LOGO%20%u6D77%u6E2F%u57CE%20%2C2013/05%0A%20%0A%20%0A%20%0A9999%201234%205678%209000%2C%0A%2C0987654321%0A%7B0L%2C0R%7D</text>
         </override>
-        <override controlID="1" x="0" y="0" w="640" h="230"/>
-        <override controlID="-1"/>
+        <override controlID="1" x="0" y="0" w="620" h="230"/>
         <src>./assets/symbols.bmml#card</src>
       </controlProperties>
     </control>

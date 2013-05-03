@@ -8,7 +8,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="0" y="40" w="640" h="460" measuredW="640" measuredH="460" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="10" y="40" w="620" h="440" measuredW="620" measuredH="440" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#card</src>
       </controlProperties>
