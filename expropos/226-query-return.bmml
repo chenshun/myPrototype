@@ -21,8 +21,9 @@
     <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="14" y="517" w="669" h="217" measuredW="669" measuredH="217" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="669" h="217">
-          <text>%u5408%u8BA1%3A-10000.00%2C%u4EF6%u6570%u603B%u8BA1%3A2%0A%u73B0%u91D1%3A0.00%0A%u4F1A%u5458%u50A8%u503C%3A-10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A10000.00%0A%u627E%u96F6%uFF1A00.00%0A%7B0L%2C0L%7D</text>
+          <text>%u5408%u8BA1%3A-10000.00%2C%u4EF6%u6570%u603B%u8BA1%3A2%0A%u73B0%u91D1%3A0.00%0A%u627E%u96F6%uFF1A00.00%0A%u4F1A%u5458%u50A8%u503C%u6536%u5165%3A10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A10000.00%0A%7B0L%2C0L%7D</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#settle detail</src>
       </controlProperties>
     </control>

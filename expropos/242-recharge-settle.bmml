@@ -21,7 +21,7 @@
         <override controlID="0">
           <hLines>false</hLines>
           <rowHeight>54</rowHeight>
-          <text>%u5408%u8BA1%3A2000.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A2000.00%0A%u4F1A%u5458%u50A8%u503C%3A-2400.00%2C%u4F59%u989D%uFF1A2400.00%0A%u627E%u96F6%uFF1A0.00%0A%7B0L%2C0L%7D</text>
+          <text>%u5408%u8BA1%3A2000.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%u4ED8%u6B3E%3A2000.00%0A%u627E%u96F6%uFF1A0.00%0A%u4F1A%u5458%u5145%u503C%3A2400.00%2C%u4F59%u989D%uFF1A2400.00%0A%7B0L%2C0L%7D</text>
         </override>
         <src>./assets/symbols.bmml#settle%20detail</src>
       </controlProperties>
