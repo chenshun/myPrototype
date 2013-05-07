@@ -40,7 +40,6 @@
         <override controlID="62" x="9" y="56" w="260" h="72"/>
         <override controlID="63" x="11" y="206" w="677" h="533"/>
         <override controlID="64:0" x="0" y="0" w="669" h="43"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
@@ -61,7 +60,7 @@
     <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="14" y="518" w="669" h="218" measuredW="669" measuredH="218" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0">
-          <text>%u5408%u8BA1%3A16500.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A2000.00%0A%u4F1A%u5458%u50A8%u503C%3A10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A0.00%0A%u627E%u96F6%uFF1A-4500.00%0A%7B0L%2C0L%7D</text>
+          <text>%u5B9E%u6536%u91D1%u989D%3A16500.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A2000.00%0A%u4F1A%u5458%u50A8%u503C%3A10000.00%2C%20%u4F59%u989D%uFF1A0.00%0A%u627E%u96F6%uFF1A-4500.00%0A%7B0L%2C0L%7D</text>
         </override>
         <src>./assets/symbols.bmml#settle detail</src>
       </controlProperties>

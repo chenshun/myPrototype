@@ -18,23 +18,14 @@
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
-    <control controlID="111" controlTypeID="com.balsamiq.mockups::Component" x="14" y="517" w="669" h="217" measuredW="669" measuredH="217" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <override controlID="0" x="0" y="0" w="669" h="217">
-          <text>%u5408%u8BA1%3A-10000.00%2C%u4EF6%u6570%u603B%u8BA1%3A2%0A%u73B0%u91D1%3A0.00%0A%u4F1A%u5458%u50A8%u503C%3A-10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A10000.00%0A%u627E%u96F6%uFF1A00.00%0A%7B0L%2C0L%7D</text>
-        </override>
-        <override controlID="-1"/>
-        <src>./assets/symbols.bmml#settle detail</src>
-      </controlProperties>
-    </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="713" y="210" w="293" h="-1" measuredW="23" measuredH="45" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="713" y="210" w="293" h="-1" measuredW="23" measuredH="45" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <size>40</size>
         <text>0</text>
       </controlProperties>
     </control>
-    <control controlID="123" controlTypeID="com.balsamiq.mockups::Component" x="706" y="53" w="305" h="142" measuredW="305" measuredH="142" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Component" x="706" y="53" w="305" h="142" measuredW="305" measuredH="142" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="2">
           <text>%u53D6%u6D88</text>
@@ -45,7 +36,7 @@
         <src>./assets/symbols.bmml#deal%20record%20view</src>
       </controlProperties>
     </control>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::RoundButton" x="453" y="375" w="81" h="47" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::RoundButton" x="453" y="375" w="81" h="47" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <backgroundAlpha>0</backgroundAlpha>
@@ -54,7 +45,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="125" controlTypeID="com.balsamiq.mockups::StickyNote" x="444" y="450" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::StickyNote" x="444" y="450" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u9009%u4E2D%u6570%u91CF%u540E%uFF0C%u9009%u4E2D%u533A%u57DF%u7684%u6587%u672C%u95F4%u9694%u4E00%u79D2%u95EA%u70C1</text>
       </controlProperties>
