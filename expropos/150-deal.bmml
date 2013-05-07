@@ -10,12 +10,12 @@
         <override controlID="14" x="59" y="690" w="200" h="60"/>
         <override controlID="15" x="320" y="0" w="703" h="748"/>
         <override controlID="16" x="0" y="0" w="320" h="748"/>
-        <override controlID="18" x="0" y="0" w="320" h="45"/>
         <override controlID="19" x="320" y="0" w="699" h="45">
           <text>%u6D41%u6C34%u8BB0%u5F55</text>
         </override>
         <override controlID="20" x="0" y="170" w="320" h="-1"/>
         <override controlID="21" x="932" y="6" w="-1" h="-1"/>
+        <override controlID="18" x="0" y="0" w="320" h="45"/>
         <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
@@ -27,6 +27,14 @@
         <size>16</size>
         <text>%u6210%u4EA4%u65F6%u95F4%20%5Ev%2C%20%u6D41%u6C34%u53F7%2C%20%u7C7B%u578B%2C%20%u987E%u5BA2%2C%u6570%u91CF%20%5Ev%2C%20%u91D1%u989D%20%5Ev%2C%20%u4ED8%u6B3E%u65B9%u5F0F%2C%20%u9500%u552E%u5458%2C%u5907%u6CE8%0A10%3A30%3A07%2C%20201303161030271234%2C%20%u9500%u552E%2C%20%u8D70%u5165%2C%203%2C%20%uFFE523.34%2C%20%u73B0%u91D1%2C%20%u5218%u5907%2C%0A2013-04-01%2C201303161030271234%2C%u9000%u8D27%2C%u66F9%u64CD%2C1%2C%uFFE53500.00%2C%u4F1A%u5458%u50A8%u503C%2C%u5218%u5907%2C%u5916%u89C2%u7455%u75B5%0A2013-04-01%2C201303161030271234%2C%u9500%u552E%2C%u66F9%u64CD%2C6%2C%uFFE57512.00%2C%u4F1A%u5458%u50A8%u503C%2C%u5218%u5907%2C%0A%2CiPhone%204S%5Cr%u9ED1%u8272%20%u56FD%u884C%5Cr%uFFE53500.00%2C%2C%2C2%2C%uFFE57000.00%2C%0A%2CApple%20%u84DD%u7259%u8033%u673A%5Cr%u767D%u8272%5Cr%uFFE5128.00%2C%2C%2C4%2C%uFFE5512.00%0A2013-04-01%2C201303161030271234%2C%u9500%u552E%2C%u5B59%u6743%2C1%2C%uFFE512.01%2C%u4F1A%u5458%u50A8%u503C%2C%u5218%u5907%2C%0A%7B0R%2C%200%2C%200%2C%200%2C0R%2C0R%2C0C%2C0C%7D</text>
         <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="126" w="314" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <shape>rectangle</shape>
+        <text/>
       </controlProperties>
     </control>
   </controls>

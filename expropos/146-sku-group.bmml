@@ -20,5 +20,13 @@
         <text>%u5546%u54C1%5Cr%u578B%u53F7%5Cr%u7F16%u7801%20%5E%2C%20%u552E%u4EF7%20%5Ev%2C%20%u7D2F%u8BA1%u5E93%u5B58%2C%u9500%u552E%u6570%u91CF%2C%u7ED3%u5B58%u6570%u91CF%0AiPhone4S%5Cr%u767D%u8272%5Cr10001000%20%2C3900.00%2C%20200%2C50%2C%20150%0AiPhone4S%5Cr%u9ED1%u8272%5Cr10001000%20%2C3700.00%2C%20100%2C50%2C%2050%0A%7B0L%2C%200R%2C%200R%2C0R%2C0R%7D</text>
       </controlProperties>
     </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="281" w="314" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

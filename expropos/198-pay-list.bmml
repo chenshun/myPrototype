@@ -19,5 +19,13 @@
         <text>%u4EA4%u6613%u6D41%u6C34%u5355%u53F7%20%5Ev%2C%20%u65F6%u95F4%20%5E%2C%20%u7C7B%u578B%2C%20%u4ED8%u6B3E%u65B9%u5F0F%20%5Ev%2C%20%u4ED8%u6B3E%u91D1%u989D%20%5Ev%2C%20%u6C47%u7387%2C%20%u6298%u7B97%u91D1%u989D%2C%20%u7ECF%u624B%u4EBA%0A236556656%2C%2020130403%2C%u6D88%u8D39%2C%u73B0%u91D1%2C325.00%2C100%2C325.00%2C%u5218%u5907%0A236556656%2C%2020130403%2C%u9000%u6B3E%2C%u73B0%u91D1%2C325.00%2C100%2C325.00%2C%u5218%u5907%0A236556656%2C%2020130403%2C%u9000%u6B3E%2C%u50A8%u503C%u8D26%u6237%2C325.00%2C100%2C325.00%2C%u5218%u5907%0A%7B0L%2C0L%2C0C%2C0C%2C0R%2C0R%2C0R%2C0C%7D</text>
       </controlProperties>
     </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="166" w="314" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

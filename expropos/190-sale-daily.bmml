@@ -23,5 +23,13 @@
         <text>%u9ED8%u8BA4%u662F%u4E00%u6708%u4EE5%u5185%u7684</text>
       </controlProperties>
     </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="45" w="322" h="44" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

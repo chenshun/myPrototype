@@ -17,5 +17,13 @@
         <vLines>false</vLines>
       </controlProperties>
     </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="406" w="314" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
