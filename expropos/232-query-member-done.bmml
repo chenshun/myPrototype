@@ -29,6 +29,7 @@
         <override controlID="0" x="0" y="0" w="703" h="748"/>
         <override controlID="32" x="11" y="140" w="259" h="55">
           <color>2848996</color>
+          <text>%u66F9%u64CD</text>
         </override>
         <override controlID="44" x="707" y="206" w="304" h="52"/>
         <override controlID="53" x="715" y="653" w="80" h="80"/>
@@ -38,7 +39,7 @@
         <override controlID="63" x="11" y="206" w="677" h="533"/>
         <override controlID="64:0" x="0" y="0" w="669" h="523">
           <rowHeight>39</rowHeight>
-          <text>%u4F1A%u5458%u7F16%u53F7%uFF1A%2C%0A%u4F1A%u5458%u59D3%u540D%uFF1A%2C%0A%u4F1A%u5458%u7C7B%u578B%uFF1A%2C%0A%u6709%u6548%u671F%u81F3%uFF1A%2C%0A%20%20%20%20%u5361%u72B6%u6001%uFF1A%2C%0A%u79EF%u5206%u7D2F%u8BA1%uFF1A%2C%0A%u79EF%u5206%u4F59%u989D%uFF1A%2C%0A%u50A8%u503C%u4F59%u989D%uFF1A%2C%0A%7B20L%2C80L%7D</text>
+          <text>%u4F1A%u5458%u7F16%u53F7%uFF1A%2C1234567890%0A%u4F1A%u5458%u59D3%u540D%uFF1A%2C%u66F9%u64CD%0A%u4F1A%u5458%u7C7B%u578B%uFF1A%2C%u4F1A%u5458%u5361%0A%u6709%u6548%u671F%u81F3%uFF1A%2C2014-03-21%0A%20%20%20%20%u5361%u72B6%u6001%uFF1A%2C%u6B63%u5E38%0A%u79EF%u5206%u7D2F%u8BA1%uFF1A%2C20000%0A%u79EF%u5206%u4F59%u989D%uFF1A%2C1000%0A%u50A8%u503C%u4F59%u989D%uFF1A%2C2000%0A%7B20L%2C80L%7D</text>
         </override>
         <override controlID="-1"/>
         <src>./assets/symbols.bmml#POS view</src>
@@ -49,10 +50,10 @@
         <src>./assets/symbols.bmml#Sale%20View</src>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="782" y="210" w="-1" h="-1" measuredW="223" measuredH="45" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="978" y="210" w="-1" h="-1" measuredW="23" measuredH="45" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>1234567890</text>
+        <text>0</text>
       </controlProperties>
     </control>
   </controls>

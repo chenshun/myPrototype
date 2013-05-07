@@ -38,6 +38,7 @@
         </override>
         <override controlID="62" x="9" y="56" w="260" h="72"/>
         <override controlID="63" x="11" y="206" w="677" h="533"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
@@ -46,11 +47,19 @@
         <override controlID="0" x="0" y="0" w="669" h="217">
           <text>%u5408%u8BA1%3A17000.00%2C%u4EF6%u6570%u603B%u8BA1%3A4%0A%u73B0%u91D1%3A7000.00%0A%u4F1A%u5458%u50A8%u503C%3A10000.00%2C%20%u50A8%u503C%u4F59%u989D%uFF1A0.00%0A%u627E%u96F6%uFF1A00.00%0A%7B0L%2C0L%7D</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#settle detail</src>
       </controlProperties>
     </control>
     <control controlID="112" controlTypeID="com.balsamiq.mockups::Component" x="708" y="55" w="305" h="142" measuredW="305" measuredH="142" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="2">
+          <state>disabled</state>
+        </override>
+        <override controlID="3">
+          <color>16777215</color>
+          <state>disabled</state>
+        </override>
         <src>./assets/symbols.bmml#Sale%20View</src>
       </controlProperties>
     </control>

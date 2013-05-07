@@ -1,0 +1,17 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1019" measuredH="748" mockupW="1019" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1019" h="748" measuredW="1019" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="32">
+          <text>%u66F9%u64CD</text>
+        </override>
+        <src>./assets/symbols.bmml#POS%20view</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="705" y="53" w="305" h="142" measuredW="305" measuredH="142" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#Sale%20View</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
