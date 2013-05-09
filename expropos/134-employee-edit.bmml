@@ -45,40 +45,36 @@
         <text>%u79BB%u804C</text>
       </controlProperties>
     </control>
-    <control controlID="99" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="706" y="108" w="312" h="-1" measuredW="215" measuredH="39" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <text>%20%20%u8EAB%u4EFD%u8BC1%20320103198012122314</text>
-      </controlProperties>
-    </control>
-    <control controlID="100" controlTypeID="com.balsamiq.mockups::IconLabel" x="713" y="56" w="-1" h="-1" measuredW="77" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ContactIcon%7Clarge</icon>
-        <labelPosition>right</labelPosition>
-        <text>%u5218%u5907</text>
-      </controlProperties>
-    </control>
-    <control controlID="101" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="706" y="160" w="312" h="-1" measuredW="215" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <text>%20%20%20%20%20%20%u7535%u8BDD%2018912345678</text>
-      </controlProperties>
-    </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="707" y="214" w="312" h="-1" measuredW="215" measuredH="98" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="707" y="180" w="312" h="-1" measuredW="215" measuredH="98" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <text>%u5728%u804C%2C%20ON%0A%u5165%u804C%u65F6%u95F4%2C20120313%0A%u79BB%u804C%u65F6%u95F4%2C%20N/A</text>
       </controlProperties>
     </control>
-    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="910" y="222" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Icon" x="911" y="190" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>SpinningIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="978" y="5" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Icon" x="978" y="5" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>SaveIcon%7Cmedium</icon>
       </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="__group__" x="707" y="47" w="312" h="118" measuredW="312" measuredH="118" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="0" w="312" h="-1" measuredW="215" measuredH="118" zOrder="0" locked="false" isInGroup="106">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <text>__%20%u66F9%u64CD%0A%20%20%20%u8EAB%u4EFD%u8BC1%20320103198012122314%0A%20%20%20%20%20%20%20%u7535%u8BDD%2018912345678</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="7" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="1" locked="false" isInGroup="106">
+          <controlProperties>
+            <icon>ContactIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>
