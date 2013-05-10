@@ -59,13 +59,13 @@
             <text/>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="205" y="62" w="369" h="459" measuredW="236" measuredH="285" zOrder="6" locked="false" isInGroup="28">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="205" y="62" w="369" h="459" measuredW="236" measuredH="341" zOrder="6" locked="false" isInGroup="28">
           <controlProperties>
             <borderStyle>none</borderStyle>
             <hasHeader>false</hasHeader>
             <rowHeight>56</rowHeight>
             <size>24</size>
-            <text>%u7F16%u7801%uFF1A%2C10001000%0A%u54C1%u540D%uFF1A%2CiPhone%204S%0A%u8BF4%u660E%uFF1A%2C%u667A%u80FD%u624B%u673A%0A%u4EF7%u683C%uFF1A%2C3500.00%0A%20%20%20%20%u4E0A%u67B6%uFF1A%2C%0A%7B0R%2C0L%7D</text>
+            <text>%u7F16%u7801%uFF1A%2C10001000%0A%u54C1%u540D%uFF1A%2CiPhone%204S%0A%u8BF4%u660E%uFF1A%2C%u667A%u80FD%u624B%u673A%0A%u4EF7%u683C%uFF1A%2C3500.00%0A%20%20%20%20%u4E0A%u67B6%uFF1A%2C%0A%u52A9%u8BB0%u7801%uFF1A%2C1010%0A%7B0R%2C0L%7D</text>
             <vLines>false</vLines>
           </controlProperties>
         </control>
