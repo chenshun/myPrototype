@@ -39,7 +39,7 @@
           <controlProperties>
             <align>center</align>
             <color>0</color>
-            <text>%u7248%u672C%uFF1A%202.1</text>
+            <text>%u7248%u672C%uFF1A%202.2.0</text>
           </controlProperties>
         </control>
         <control controlID="112" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="62" w="483" h="-1" measuredW="215" measuredH="60" zOrder="5" locked="false" isInGroup="3">
@@ -47,9 +47,9 @@
             <text>__%20%u6CDB%u76C8%u79D1%u6280%u8D26%u53F7%5Cr18912345678%2C%3E</text>
           </controlProperties>
         </control>
-        <control controlID="113" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="158" w="481" h="-1" measuredW="215" measuredH="41" zOrder="6" locked="false" isInGroup="3">
+        <control controlID="113" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="143" w="481" h="-1" measuredW="215" measuredH="70" zOrder="6" locked="false" isInGroup="3">
           <controlProperties>
-            <text>%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%5Cr%u80DC%u592A%u8DEF%u5E97%2C%20%3E</text>
+            <text>%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8%20%5Cr%u80DC%u592A%u8DEF%u5E97%2C%20%3E%0A%u4E91%u5B58%u50A8%u7A7A%u95F4%2C%20%u5DF2%u5360%u752890%25%20%3E</text>
           </controlProperties>
         </control>
         <control controlID="119" controlTypeID="com.balsamiq.mockups::RoundButton" x="40" y="68" w="50" h="48" measuredW="52" measuredH="52" zOrder="7" locked="false" isInGroup="3">
