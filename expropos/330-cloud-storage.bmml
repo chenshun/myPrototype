@@ -30,7 +30,7 @@
         </control>
         <control controlID="113" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="94" w="481" h="-1" measuredW="215" measuredH="68" zOrder="3" locked="false" isInGroup="3">
           <controlProperties>
-            <text>%u603B%u5B58%u50A8%u7A7A%u95F4%2C%20512MB%0A%u53EF%u7528%u5BB9%u91CF%2C%20128MB</text>
+            <text>%u603B%u5B58%u50A8%u7A7A%u95F4%2C%200.5GB%0A%u53EF%u7528%u5BB9%u91CF%2C%200.1GB</text>
           </controlProperties>
         </control>
         <control controlID="122" controlTypeID="com.balsamiq.mockups::PointyButton" x="12" y="8" w="69" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="3">

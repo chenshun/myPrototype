@@ -42,7 +42,7 @@
         </control>
         <control controlID="125" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="33" y="58" w="481" h="-1" measuredW="215" measuredH="39" zOrder="5" locked="false" isInGroup="3">
           <controlProperties>
-            <text>v%20512MB%2C%200%u5143/%u5E74%20%3E</text>
+            <text>v%200.5GB%2C%200%u5143/%u5E74%20%3E</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
