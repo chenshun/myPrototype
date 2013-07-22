@@ -2,16 +2,19 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <override controlID="19">
+          <text>%u9500%u552E%u65E5%u62A5%u6C47%u603B%u8868%2020130403%20%7E%2020130402</text>
+        </override>
         <override controlID="22">
           <color>14540253</color>
         </override>
-        <override controlID="19">
-          <text>%u9500%u552E%u65E5%u62A5%u6C47%u603B%u8868%2020130403%20%7E%2020130402</text>
+        <override controlID="23">
+          <text>%u9500%u552E%u65E5%u62A5%u8868%0A%u9500%u552E%u5546%u54C1%u6C47%u603B%u8868%0A%u9500%u552E%u6D41%u6C34%u8BB0%u5F55%0A%u4ED8%u6B3E%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u5E93%u5B58%u6C47%u603B%u8868%0A%u5E93%u5B58%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u6D3B%u52A8%20%0A%u5546%u54C1%0A%u4F1A%u5458%0A%u96C7%u5458%0A%20</text>
         </override>
         <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="322" y="45" w="697" h="698" measuredW="512" measuredH="177" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="322" y="45" w="697" h="698" measuredW="529" measuredH="179" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <rowHeight>36</rowHeight>
         <size>16</size>
@@ -39,7 +42,7 @@
         <controlName>iPad%20Bar%2C%20Black</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="8" w="453" h="29" measuredW="36" measuredH="26" zOrder="1" locked="false" isInGroup="10">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="8" w="453" h="-1" measuredW="36" measuredH="26" zOrder="1" locked="false" isInGroup="10">
           <controlProperties>
             <align>center</align>
             <bold>true</bold>

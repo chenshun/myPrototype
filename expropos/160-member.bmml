@@ -5,10 +5,13 @@
         <override controlID="19">
           <text>%u4F1A%u5458</text>
         </override>
+        <override controlID="23">
+          <text>%u9500%u552E%u65E5%u62A5%u8868%0A%u9500%u552E%u5546%u54C1%u6C47%u603B%u8868%0A%u9500%u552E%u6D41%u6C34%u8BB0%u5F55%0A%u4ED8%u6B3E%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u5E93%u5B58%u6C47%u603B%u8868%0A%u5E93%u5B58%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u6D3B%u52A8%20%0A%u5546%u54C1%0A%u4F1A%u5458%0A%u96C7%u5458%0A%20</text>
+        </override>
         <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="406" w="314" h="46" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="444" w="314" h="46" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
         <color>2848996</color>
@@ -16,7 +19,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::Component" x="323" y="46" w="694" h="331" measuredW="694" measuredH="331" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Component" x="323" y="46" w="694" h="323" measuredW="694" measuredH="323" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/symbols.bmml#member list</src>
       </controlProperties>

@@ -1,0 +1,87 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="748" mockupW="1023" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="141" y="98" w="768" h="22" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderColor>15658734</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="703" h="748" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>13421772</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>15132390</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="703" y="0" w="320" h="748" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>13421772</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>15132390</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="703" y="0" w="320" h="45" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <borderColor>13421772</borderColor>
+        <color>14540253</color>
+        <shape>rectangle</shape>
+        <size>18</size>
+        <text>%u6D3B%u52A8%u8BE6%u60C5</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="699" h="45" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <borderColor>13421772</borderColor>
+        <color>14540253</color>
+        <shape>rectangle</shape>
+        <size>18</size>
+        <text>%u6D3B%u52A8</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="2" y="46" w="694" h="323" measuredW="694" measuredH="323" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>%u7F16%u53F7%2C%u4E3B%u9898%2C%u8BF4%u660E%2C%u6761%u4EF6%2C%u5F62%u5F0F%2C%u5BF9%u8C61%2C%u5F00%u59CB%u65F6%u95F4%2C%u7ED3%u675F%u65F6%u95F4%2C%0A2%2C%u6E05%u51C9%u4E00%u590F%2C%u590F%u5B63%u8D2D%u7269%u9001%u597D%u793C%2C%u7D2F%u8BA1%u6D88%u8D39%u6EE1%u989D%2C%u793C%u54C1%2C%u5BA2%u6237%2C2014-07-01%2C2014-09-01%2C</text>
+        </override>
+        <src>./assets/symbols.bmml#member%20list</src>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="960" y="9" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4FDD%u5B58</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="709" y="10" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5B8C%u6210</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::DataGrid" x="703" y="45" w="318" h="288" measuredW="228" measuredH="269" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>35</rowHeight>
+        <size>16</size>
+        <text>%u4E3B%u9898%20%uFF1A%20%2C%u6E05%u51C9%u4E00%u590F%0A%u7F16%u53F7%20%uFF1A%20%2C2%0A%u8BF4%u660E%20%uFF1A%20%2C%u590F%u5B63%u8D2D%u7269%u9001%u597D%u793C%0A%u6761%u4EF6%20%uFF1A%20%2C%u7D2F%u8BA1%u6D88%u8D39%u6EE1%u989D%0A%u5F62%u5F0F%20%uFF1A%20%2C%u793C%u54C1%0A%u5BF9%u8C61%20%uFF1A%20%2C%u5BA2%u6237%0A%u5F00%u59CB%u65F6%u95F4%20%uFF1A%20%2C2014-07-01%0A%u7ED3%u675F%u65F6%u95F4%20%uFF1A%20%2C2014-09-01%0A%7B0R%2C0L%7D</text>
+        <verticalScrollbar>false</verticalScrollbar>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="709" y="312" w="304" h="21" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%u72B6%u6001%20%u672A%u5F00%u59CB</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::DataGrid" x="700" y="333" w="323" h="408" measuredW="784" measuredH="54" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%u6D3B%u52A8%u5185%u5BB9%0A%20%20%20%20%20%20%20%u6240%u6709%u6D88%u8D39%u987E%u5BA2%uFF0C%u5728%u6B64%u671F%u95F4%uFF0C%u51E1%u662F%u8D2D%u4E70%u672C%0A%u5E97%u5546%u54C1%uFF0C%u7D2F%u8BA1%u6D88%u8D39%u6EE1800%uFF0C%u5373%u53EF%u83B7%u5F97%u672C%u5E97%u8D60%0A%u9001%u7684%u53F0%u5F0F%u7535%u98CE%u6247%u4E00%u53F0%u3002</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

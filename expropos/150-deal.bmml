@@ -10,16 +10,20 @@
         <override controlID="14" x="59" y="690" w="200" h="60"/>
         <override controlID="15" x="320" y="0" w="703" h="748"/>
         <override controlID="16" x="0" y="0" w="320" h="748"/>
+        <override controlID="18" x="0" y="0" w="320" h="45"/>
         <override controlID="19" x="320" y="0" w="699" h="45">
           <text>%u6D41%u6C34%u8BB0%u5F55</text>
         </override>
-        <override controlID="20" x="0" y="170" w="320" h="-1"/>
         <override controlID="21" x="932" y="6" w="-1" h="-1"/>
-        <override controlID="18" x="0" y="0" w="320" h="45"/>
+        <override controlID="23">
+          <text>%u9500%u552E%u65E5%u62A5%u8868%0A%u9500%u552E%u5546%u54C1%u6C47%u603B%u8868%0A%u9500%u552E%u6D41%u6C34%u8BB0%u5F55%0A%u4ED8%u6B3E%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u5E93%u5B58%u6C47%u603B%u8868%0A%u5E93%u5B58%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u6D3B%u52A8%20%0A%u5546%u54C1%0A%u4F1A%u5458%0A%u96C7%u5458%0A%20</text>
+        </override>
+        <override controlID="20" x="0" y="170" w="320" h="-1"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="46" w="698" h="695" measuredW="711" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="46" w="698" h="695" measuredW="720" measuredH="352" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <hasHeader>true</hasHeader>
         <hLines>false</hLines>
