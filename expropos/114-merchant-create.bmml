@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="750" mockupW="1024" mockupH="750">
   <controls>
-    <control controlID="11" controlTypeID="__group__" x="242" y="93" w="437" h="251" measuredW="437" measuredH="251" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="__group__" x="248" y="110" w="437" h="251" measuredW="437" measuredH="251" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>iPad%20Popover</controlName>
       </controlProperties>
@@ -22,7 +22,7 @@
             <text>%u65B0%u5F00%u5546%u6237</text>
           </controlProperties>
         </control>
-        <control controlID="99" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="9" y="52" w="417" h="-1" measuredW="215" measuredH="184" zOrder="2" locked="false" isInGroup="11">
+        <control controlID="99" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="10" y="51" w="417" h="-1" measuredW="215" measuredH="184" zOrder="2" locked="false" isInGroup="11">
           <controlProperties>
             <text>%u7B80%u79F0%uFF1A%u6700%u591A6%u4E2A%u6C49%u5B57%2C%u5FC5%u586B%0A%u5168%u79F0%uFF1A%u6700%u591A128%u4E2A%u6C49%u5B57%2C%u5FC5%u586B%0A%u8054%u7CFB%u7535%u8BDD%uFF1A%u9ED8%u8BA4%u586B%u5145%u4E1A%u4E3B%u7684%u7535%u8BDD%2C%u5FC5%u586B%0A%u7535%u5B50%u90AE%u4EF6%uFF1A%u9ED8%u8BA4%u586B%u5145%u4E1A%u4E3B%u7684%u7535%u5B50%u90AE%u4EF6%2C%u5FC5%u586B%0A%u5730%u5740%uFF1A%2C%u5FC5%u586B%0A%u90AE%u653F%u7F16%u7801%uFF1A%2C%u5FC5%u586B</text>
           </controlProperties>

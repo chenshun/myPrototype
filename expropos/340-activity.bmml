@@ -22,34 +22,39 @@
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="323" y="46" w="694" h="361" measuredW="694" measuredH="361" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="694" h="361">
-          <text>%u7F16%u53F7%2C%u4E3B%u9898%2C%u8BF4%u660E%2C%u6761%u4EF6%2C%u5F62%u5F0F%2C%u5BF9%u8C61%2C%u5F00%u59CB%u65F6%u95F4%2C%u7ED3%u675F%u65F6%u95F4%2C%0A1%2C%u4F1A%u5458%u4F18%u60E0%2C%u4F1A%u5458%u4EAB%u53D7%u4F1A%u5458%u4EF7%2C%u65E0%2C%u6298%u6263%2C%u4F1A%u5458%2C2013-07-18%2C2013-08-18%2C%0A%20%0A2%2C%u6E05%u51C9%u4E00%u590F%2C%u590F%u5B63%u8D2D%u7269%u9001%u597D%u793C%2C%u7D2F%u8BA1%u6D88%u8D39%u6EE1%u989D%2C%u793C%u54C1%2C%u5BA2%u6237%2C2014-07-01%2C2014-09-01%2C%0A%20%0A3%2C%u611F%u6069%u56DE%u9988%2C%u56DE%u9988%u8001%u4F1A%u5458%u7528%u6237%2C%u7D2F%u8BA1%u6D88%u8D39%u6EE1%u6B21%2C%u793C%u54C1%2C%u4F1A%u5458%u7B49%u7EA7%u8981%u6C42%2C2012-12-10%2C2012-12-31%2C</text>
+          <text>%u7F16%u53F7%2C%u4E3B%u9898%2C%u8BF4%u660E%2C%u5BF9%u8C61%2C%u8303%u56F4%2C%u5F00%u59CB%u65F6%u95F4%2C%u7ED3%u675F%u65F6%u95F4%2C%u6D3B%u52A8%u8BE6%u60C5%0A1%2C%u4F1A%u5458%u4F18%u60E0%2C%u4F1A%u5458%u4EAB%u53D7%u4F1A%u5458%u4EF7%2C%u4F1A%u5458%2C%u5546%u6237%2C2013-07-18%2C2013-08-18%2C%0A%20%0A2%2C%u6E05%u51C9%u4E00%u590F%2C%u590F%u5B63%u8D2D%u7269%u9001%u597D%u793C%2C%u5BA2%u6237%2C%u672C%u5E97%2C2014-07-01%2C2014-09-01%2C%0A%20%0A3%2C%u611F%u6069%u56DE%u9988%2C%u56DE%u9988%u8001%u4F1A%u5458%u7528%u6237%2C%u4F1A%u5458%u7B49%u7EA7%u8981%u6C42%2C%u672C%u5E97%2C2012-12-10%2C2012-12-31%2C</text>
         </override>
-        <override controlID="1" x="670" y="33" w="24" h="24"/>
+        <override controlID="1" x="632" y="33" w="24" h="24"/>
         <src>./assets/symbols.bmml#member list</src>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="992" y="164" w="25" h="25" measuredW="25" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Arrow%20Icon%20Detail%20Disclosure%20Button</src>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="119" w="692" h="-1" measuredW="62" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="119" w="692" h="-1" measuredW="62" measuredH="30" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <size>16</size>
         <text>%u672A%u5F00%u59CB</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="204" w="692" h="-1" measuredW="62" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="323" y="204" w="692" h="-1" measuredW="62" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <size>16</size>
         <text>%u5DF2%u7ED3%u675F</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="992" y="248" w="25" h="25" measuredW="25" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="939" y="78" w="58" h="26" measuredW="48" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Arrow%20Icon%20Detail%20Disclosure%20Button</src>
+        <text>%u67E5%u770B</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="939" y="164" w="58" h="26" measuredW="48" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u67E5%u770B</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="939" y="249" w="58" h="26" measuredW="48" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u67E5%u770B</text>
       </controlProperties>
     </control>
   </controls>

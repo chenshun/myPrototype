@@ -58,13 +58,13 @@
         <text>%u67E5%u770B</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="214" y="178" w="570" h="369" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="214" y="178" w="570" h="369" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>roundedSolid</borderStyle>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="214" y="182" w="570" h="-1" measuredW="72" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="214" y="182" w="570" h="-1" measuredW="72" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
@@ -74,7 +74,7 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="713" y="182" w="61" h="27" measuredW="61" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="713" y="182" w="61" h="27" measuredW="61" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="61" h="27">
           <text>%u7F16%u8F91</text>
@@ -83,7 +83,7 @@
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Button%20Blue%20Gray</src>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Component" x="221" y="183" w="61" h="27" measuredW="61" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="221" y="183" w="61" h="27" measuredW="61" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="61" h="27">
           <text>%u8FD4%u56DE</text>
@@ -92,7 +92,7 @@
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Back%20Button%20Gray</src>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::DataGrid" x="228" y="217" w="541" h="323" measuredW="285" measuredH="234" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="228" y="217" w="541" h="323" measuredW="285" measuredH="234" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <size>16</size>
@@ -100,18 +100,18 @@
         <vLines>false</vLines>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="314" y="452" w="389" h="73" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="314" y="452" w="389" h="73" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>%u6D3B%u52A8%u5185%u5BB9%uFF1A%u6E05%u51C9%u4E00%u590F%u6D3B%u52A8%u5F00%u59CB%u5373%u5C06%u5F00%u59CB%uFF01%u51E1%u662F%u5728%u6B64%u671F%u95F4......</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::ButtonBar" x="603" y="422" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ButtonBar" x="603" y="422" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u672C%u5E97%2C%u5546%u6237</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="663" y="328" w="39" h="27" measuredW="39" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="663" y="328" w="39" h="27" measuredW="39" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="-1" h="-1">
           <color>10470904</color>
@@ -122,7 +122,7 @@
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Button%20Blue</src>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Component" x="663" y="362" w="39" h="27" measuredW="39" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="663" y="362" w="39" h="27" measuredW="39" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="-1" h="-1">
           <color>10470904</color>
@@ -132,7 +132,7 @@
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Button%20Blue</src>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="663" y="390" w="39" h="27" measuredW="39" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="663" y="390" w="39" h="27" measuredW="39" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="0" w="-1" h="-1">
           <color>10470904</color>
@@ -142,10 +142,21 @@
         <src>$ACCOUNT/assets/iPad%20Controls.bmml#iPad%20Button%20Blue</src>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Paragraph" x="344" y="525" w="304" h="21" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="344" y="525" w="304" h="21" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>%u72B6%u6001%20%u672A%u5F00%u59CB</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="727" y="295" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6298%u6263%0A%u793C%u54C1%0A%u62B5%u7528%u5238%0A%u73B0%u573A%u51CF%u73B0%u91D1%0A%u4F1A%u5458%u50A8%u503C%u8FD4%u73B0%0A%u79EF%u5206%u6570%u989D%u5956%u52B1%0A%u79EF%u5206%u500D%u6570%u5956%u52B1%0A%u5176%u4ED6</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="703" y="363" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>LeftFillTriangleIcon%7Csmall</icon>
       </controlProperties>
     </control>
   </controls>
