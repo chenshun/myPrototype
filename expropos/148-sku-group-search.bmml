@@ -15,21 +15,23 @@
         <override controlID="13" x="0" y="388" w="1024" h="360"/>
         <override controlID="14" x="4" y="658" w="271" h="-1"/>
         <override controlID="15" x="89" y="685" w="79" h="-1"/>
+        <override controlID="16" x="283" y="658" w="457" h="-1"/>
         <override controlID="17" x="935" y="658" w="85" h="-1"/>
         <override controlID="18" x="748" y="658" w="183" h="-1"/>
         <override controlID="19" x="802" y="685" w="84" h="-1"/>
         <override controlID="20" x="957" y="684" w="39" h="41"/>
         <override controlID="21" x="4" y="390" w="85" h="-1"/>
         <override controlID="22" x="97" y="389" w="85" h="-1"/>
-        <override controlID="16" x="283" y="658" w="457" h="-1"/>
+        <override controlID="23" x="190" y="390" w="85" h="-1"/>
+        <override controlID="24" x="283" y="389" w="85" h="-1"/>
         <override controlID="25" x="376" y="389" w="85" h="-1"/>
         <override controlID="26" x="469" y="390" w="85" h="-1"/>
         <override controlID="27" x="562" y="389" w="85" h="-1"/>
         <override controlID="28" x="655" y="390" w="85" h="-1"/>
         <override controlID="29" x="748" y="389" w="85" h="-1"/>
         <override controlID="30" x="841" y="389" w="85" h="-1"/>
-        <override controlID="23" x="190" y="390" w="85" h="-1"/>
-        <override controlID="24" x="283" y="389" w="85" h="-1"/>
+        <override controlID="31" x="934" y="389" w="85" h="-1"/>
+        <override controlID="32" x="963" y="407" w="-1" h="-1"/>
         <override controlID="33" x="34" y="412" w="-1" h="-1"/>
         <override controlID="34" x="122" y="412" w="-1" h="-1"/>
         <override controlID="35" x="223" y="412" w="-1" h="-1"/>
@@ -66,16 +68,17 @@
         <override controlID="66" x="283" y="567" w="85" h="-1"/>
         <override controlID="67" x="376" y="567" w="85" h="-1"/>
         <override controlID="68" x="469" y="568" w="85" h="-1"/>
-        <override controlID="31" x="934" y="389" w="85" h="-1"/>
+        <override controlID="69" x="562" y="567" w="85" h="-1"/>
         <override controlID="70" x="655" y="568" w="85" h="-1"/>
+        <override controlID="71" x="748" y="567" w="78" h="-1"/>
         <override controlID="72" x="834" y="567" w="78" h="-1"/>
         <override controlID="73" x="920" y="567" w="99" h="-1"/>
         <override controlID="74" x="128" y="589" w="19" h="-1"/>
         <override controlID="75" x="220" y="591" w="23" h="-1"/>
         <override controlID="76" x="314" y="591" w="21" h="-1"/>
-        <override controlID="69" x="562" y="567" w="85" h="-1"/>
+        <override controlID="77" x="408" y="591" w="19" h="-1"/>
         <override controlID="78" x="501" y="591" w="20" h="-1"/>
-        <override controlID="71" x="748" y="567" w="78" h="-1"/>
+        <override controlID="79" x="593" y="591" w="21" h="-1"/>
         <override controlID="80" x="684" y="591" w="25" h="-1"/>
         <override controlID="81" x="778" y="574" w="10" h="-1"/>
         <override controlID="82" x="778" y="601" w="10" h="-1"/>
@@ -83,34 +86,30 @@
         <override controlID="84" x="864" y="605" w="10" h="-1"/>
         <override controlID="85" x="30" y="598" w="-1" h="-1"/>
         <override controlID="86" x="949" y="598" w="-1" h="-1"/>
-        <override controlID="87" x="0" y="45" w="318" h="633">
-          <text>%u9500%u552E%u65E5%u62A5%u8868%0A%u9500%u552E%u5546%u54C1%u6C47%u603B%u8868%0A%u9500%u552E%u6D41%u6C34%u8BB0%u5F55%0A%u4ED8%u6B3E%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u5E93%u5B58%u6C47%u603B%u8868%0A%u5E93%u5B58%u6D41%u6C34%u8BB0%u5F55%0A%20%0A%u6D3B%u52A8%20%0A%u5546%u54C1%0A%u4F1A%u5458%0A%u96C7%u5458%0A%20</text>
-        </override>
+        <override controlID="87" x="0" y="45" w="318" h="633"/>
         <override controlID="88" x="0" y="210" w="318" h="37"/>
         <override controlID="89" x="0" y="327" w="318" h="37">
           <text>%u7BA1%u7406</text>
         </override>
-        <override controlID="77" x="408" y="591" w="19" h="-1"/>
-        <override controlID="32" x="963" y="407" w="-1" h="-1"/>
-        <override controlID="79" x="593" y="591" w="21" h="-1"/>
+        <override controlID="20:176:175" x="0" y="0" w="39" h="25"/>
+        <override controlID="20:176:174" x="12" y="5" w="-1" h="-1"/>
+        <override controlID="11:0" x="0" y="0" w="66" h="-1"/>
+        <override controlID="20:176" x="0" y="0" w="39" h="25"/>
         <override controlID="10:0" x="0" y="0" w="600" h="24">
           <text>%u5546%u54C1%u540D%u79F0%u3001%u578B%u53F7%u3001%u7F16%u7801</text>
         </override>
-        <override controlID="20:176:174" x="12" y="5" w="-1" h="-1"/>
-        <override controlID="20:176:175" x="0" y="0" w="39" h="25"/>
-        <override controlID="20:173" x="12" y="25" w="-1" h="-1"/>
         <override controlID="-1"/>
-        <override controlID="11:0" x="0" y="0" w="66" h="-1"/>
-        <override controlID="20:176" x="0" y="0" w="39" h="25"/>
+        <override controlID="20:173" x="12" y="25" w="-1" h="-1"/>
         <src>./assets/symbols.bmml#search</src>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="267" measuredW="392" measuredH="180" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="267" measuredW="402" measuredH="92" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <rowHeight>34</rowHeight>
         <size>16</size>
-        <text>%u5546%u54C1%5Cr%u578B%u53F7%5Cr%u7F16%u7801%20%5E%2C%20%u552E%u4EF7%20%5Ev%2C%20%u5E93%u5B58%u6570%u91CF%2C%u9500%u552E%u6570%u91CF%2C%u5E93%u5B58%u4F59%u989D%0AiPhone4S%5Cr%u767D%u8272%5Cr10001000%20%2C3900.00%2C%20200%2C50%2C%20150%0AiPhone4S%5Cr%u9ED1%u8272%5Cr10001000%20%2C3700.00%2C%20100%2C50%2C%2050%0A%7B0L%2C%200R%2C%200R%2C0R%2C0R%7D</text>
+        <text>%u5546%u54C1%2C%u578B%u53F7%2C%u6570%u91CF%2C%u652F%u51FA%2C%u65E5%u671F%2C%u7ECF%u624B%u4EBA%0AiPhone%204S%2C%u767D%u8272%2C200%2C600000%2C2013-07-10%2C%u5218%u5907%0AiPhone%204S%2C%u9ED1%u8272%2C200%2C600000%2C2013-07-10%2C%u5218%u5907</text>
+        <vLines>false</vLines>
       </controlProperties>
     </control>
   </controls>

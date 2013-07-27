@@ -64,7 +64,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::DataGrid" x="162" y="168" w="339" h="459" measuredW="291" measuredH="453" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::DataGrid" x="176" y="167" w="339" h="459" measuredW="291" measuredH="453" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <hasHeader>false</hasHeader>
