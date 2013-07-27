@@ -8,12 +8,13 @@
         <src>./assets/symbols.bmml#search</src>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="267" measuredW="340" measuredH="178" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="267" measuredW="474" measuredH="82" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <rowHeight>34</rowHeight>
         <size>16</size>
-        <text>%u5546%u54C1%5Cr%u578B%u53F7%5Cr%u7F16%u7801%20%5E%2C%20%u552E%u4EF7%20%5Ev%2C%20%u6570%u91CF%2C%u65E5%u671F%2C%u7ECF%u624B%u4EBA%0AiPhone4S%5Cr%u767D%u8272%5Cr10001000%20%2C3900%2C%20100%2C2012-10-12%5Cr10%3A09%3A23%2C%20%u5218%u5907%0AiPhone4S%5Cr%u767D%u8272%5Cr10001000%20%2C3900%2C%20200%2C2012-10-12%5Cr10%3A09%3A23%2C%20%u5218%u5907%0A%7B30L%2C%2010R%2C%2010R%2C20R%2C0C%7D</text>
+        <text>%u5546%u54C1%20%20%u8BF4%u660E%20%20%u7F16%u7801%2C%u6536%u5165%2C%u652F%u51FA%2C%u7D2F%u8BA1%u5E93%u5B58%2C%u9500%u552E%u6570%u91CF%2C%u7ED3%u5B58%u6570%u91CF%0AiPhone4S%5Cr%u6F14%u793A%u5546%u54C1%5Cr10001000%20%2C0.00%2C%20600000%2C200%2C0%2C200</text>
+        <vLines>false</vLines>
       </controlProperties>
     </control>
   </controls>

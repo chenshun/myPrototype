@@ -1,23 +1,12 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1023" measuredH="750" mockupW="1023" mockupH="750">
   <controls>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <override controlID="22">
-          <color>14540253</color>
-          <icon>DotIcon%7Cmedium</icon>
-        </override>
-        <override controlID="19">
-          <text>%u5E93%u5B58%u6C47%u603B%u8868</text>
-        </override>
-        <src>./assets/symbols.bmml#shop</src>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="695" measuredW="410" measuredH="190" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="323" y="45" w="697" h="695" measuredW="402" measuredH="92" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <rowHeight>34</rowHeight>
         <size>16</size>
-        <text>%u5546%u54C1%5Cr%u63CF%u8FF0%5Cr%u7F16%u7801%20%5E%2C%20%u9500%u552E%u5747%u4EF7%20%5Ev%2C%20%u7D2F%u8BA1%u5E93%u5B58%2C%u9500%u552E%u6570%u91CF%2C%u7ED3%u5B58%u6570%u91CF%0AiPhone4S%5Cr%u6F14%u793A%u7528%u5546%u54C1%5Cr10001000%20%2C3800.00%2C%20200%2C50%2C%20150%0A%u9ED1%u8272%20%u56FD%u884C%2C3700.00%2C%20100%2C25%2C%2075%0A%u767D%u8272%20%u6E2F%u884C%20%2C3900.00%2C%20100%2C25%2C%2075%0A%7B0L%2C%200R%2C%200R%2C0R%2C0R%7D</text>
+        <text>%u5546%u54C1%2C%u578B%u53F7%2C%u6570%u91CF%2C%u652F%u51FA%2C%u65E5%u671F%2C%u7ECF%u624B%u4EBA%0AiPhone%204S%2C%u767D%u8272%2C200%2C600000%2C2013-07-10%2C%u5218%u5907%0AiPhone%204S%2C%u9ED1%u8272%2C200%2C600000%2C2013-07-10%2C%u5218%u5907</text>
+        <vLines>false</vLines>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="281" w="314" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
@@ -26,6 +15,30 @@
         <color>2848996</color>
         <shape>rectangle</shape>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="11" x="0" y="678" w="318" h="70"/>
+        <override controlID="12" x="11" y="695" w="-1" h="-1"/>
+        <override controlID="5" x="979" y="6" w="-1" h="-1"/>
+        <override controlID="14" x="59" y="690" w="200" h="60"/>
+        <override controlID="15" x="320" y="0" w="703" h="748"/>
+        <override controlID="18" x="0" y="0" w="320" h="45"/>
+        <override controlID="19" x="320" y="0" w="699" h="45"/>
+        <override controlID="13" x="271" y="697" w="-1" h="-1"/>
+        <override controlID="22" x="556" y="364" w="-1" h="-1">
+          <color>16777215</color>
+        </override>
+        <override controlID="23" x="0" y="45" w="318" h="633"/>
+        <override controlID="24" x="0" y="210" w="318" h="37"/>
+        <override controlID="26" x="0" y="327" w="318" h="37"/>
+        <override controlID="21" x="932" y="6" w="-1" h="-1"/>
+        <override controlID="30" x="0" y="0" w="320" h="748"/>
+        <override controlID="30:0:0" x="0" y="0" w="320" h="748"/>
+        <override controlID="-1"/>
+        <override controlID="30:0" x="0" y="0" w="320" h="748"/>
+        <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
   </controls>
