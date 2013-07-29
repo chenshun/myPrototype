@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1512" measuredH="3272" mockupW="1512" mockupH="3177">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1512" measuredH="3272" mockupW="1512" mockupH="3252">
   <controls>
-    <control controlID="2" controlTypeID="__group__" x="0" y="95" w="1023" h="750" measuredW="1023" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="__group__" x="0" y="95" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>shop</controlName>
       </controlProperties>
@@ -23,9 +23,10 @@
             <icon>GearIcon%7Cmedium</icon>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="59" y="690" w="200" h="60" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="2">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="59" y="684" w="200" h="60" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="2">
           <controlProperties>
-            <text>*%u6CDB%u76C8%u79D1%u6280%u8D26%u53F7*%0A18912345678%0A%u6CDB%u76C8%u5546%u573A%u8D85%u5E02%u8FD0%u8425%u516C%u53F8</text>
+            <size>16</size>
+            <text>*%u603B%u5E97*%0A%u6536%u94F6%u673A1001%0A%u65B0%u4E1A%u4E3B%u96C7%u5458%u8D26%u53F7%u540D%u5B57</text>
           </controlProperties>
         </control>
         <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="320" y="0" w="703" h="748" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
@@ -44,7 +45,7 @@
             <color>14540253</color>
             <shape>rectangle</shape>
             <size>18</size>
-            <text>%u6CDB%u5546%u6C47POS-%u80DC%u592A%u8DEF%u5E97</text>
+            <text>%u6CDB%u5546%u6C47POS</text>
           </controlProperties>
         </control>
         <control controlID="19" controlTypeID="com.balsamiq.mockups::RoundButton" x="320" y="0" w="699" h="45" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="2">
@@ -1917,6 +1918,37 @@
             <color>13576743</color>
             <size>16</size>
             <text>%u4FEE%u6539%u5BC6%u7801</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="60" y="20" w="1024" h="750" measuredW="1024" measuredH="750" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>login%20background</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="1024" h="750" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <color>10667209</color>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="347" y="23" w="330" h="239" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>%u6CDB%u5546%u6C47POS%20LOGO</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="470" y="687" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>%u6CDB%u76C8%u79D1%u6280%202013</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="866" y="23" w="-1" h="-1" measuredW="130" measuredH="48" zOrder="3" locked="false" isInGroup="33">
+          <controlProperties>
+            <icon>RightArrowIcon%7Clarge</icon>
+            <labelPosition>right</labelPosition>
+            <text>%u5207%u6362%u5176%u4ED6%u5546%u5E97</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
