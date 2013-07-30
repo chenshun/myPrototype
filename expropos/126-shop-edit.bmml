@@ -19,7 +19,7 @@
             <bold>true</bold>
             <color>16777215</color>
             <size>18</size>
-            <text>%u65B0%u5F00%u5546%u5E97</text>
+            <text>%u5546%u5E97%u8BBE%u7F6E</text>
           </controlProperties>
         </control>
         <control controlID="99" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="16" y="67" w="404" h="-1" measuredW="215" measuredH="126" zOrder="5" locked="false" isInGroup="11">
@@ -45,6 +45,11 @@
         <control controlID="106" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="52" w="417" h="188" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="11">
           <controlProperties>
             <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="151" y="204" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="6" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>%u521B%u5EFA%u4E8E%uFF1A2013-06-31</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

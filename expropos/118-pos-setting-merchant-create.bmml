@@ -1,0 +1,58 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="750" mockupW="1024" mockupH="750">
+  <controls>
+    <control controlID="11" controlTypeID="__group__" x="280" y="218" w="597" h="381" measuredW="597" measuredH="381" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Popover</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="96" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="597" h="381" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+          </controlProperties>
+        </control>
+        <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="9" y="10" w="580" h="-1" measuredW="72" measuredH="26" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <align>center</align>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>18</size>
+            <text>%u65B0%u5F00%u5546%u6237</text>
+          </controlProperties>
+        </control>
+        <control controlID="99" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="16" y="51" w="565" h="-1" measuredW="215" measuredH="184" zOrder="5" locked="false" isInGroup="11">
+          <controlProperties>
+            <text>%u7B80%u79F0%uFF1A%u6700%u591A6%u4E2A%u6C49%u5B57%2C%u5FC5%u586B%0A%u5168%u79F0%uFF1A%u6700%u591A128%u4E2A%u6C49%u5B57%2C%u5FC5%u586B%0A%u8054%u7CFB%u7535%u8BDD%uFF1A%u9ED8%u8BA4%u586B%u6CDB%u4E91%u5E10%u53F7%u7684%u7535%u8BDD%uFF08%u7535%u8BDD%u548Cemail%u5FC5%u586B%u4E00%u9879%uFF09%2C%u5FC5%u586B%0A%u7535%u5B50%u90AE%u4EF6%uFF1A%u9ED8%u8BA4%u586B%u6CDB%u4E91%u5E10%u53F7%u7684%u7535%u5B50%u90AE%u4EF6%2C%u5FC5%u586B%0A%u5730%u5740%uFF1A%2C%u9009%u586B%0A%u90AE%u653F%u7F16%u7801%uFF1A%2C%u9009%u586B</text>
+          </controlProperties>
+        </control>
+        <control controlID="100" controlTypeID="com.balsamiq.mockups::PointyButton" x="9" y="11" w="84" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>6710886</color>
+            <direction>left</direction>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="102" controlTypeID="com.balsamiq.mockups::PointyButton" x="512" y="10" w="75" h="-1" measuredW="35" measuredH="27" zOrder="4" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>6710886</color>
+            <direction>center</direction>
+            <icon>SaveIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="103" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="46" w="580" h="323" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="11">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="750" measuredW="1024" measuredH="750" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#login%20background</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

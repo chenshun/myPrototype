@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="750" mockupW="1024" mockupH="750">
   <controls>
-    <control controlID="47" controlTypeID="__group__" x="258" y="189" w="630" h="382" measuredW="630" measuredH="382" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="__group__" x="205" y="188" w="630" h="382" measuredW="630" measuredH="382" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>iPad%20Popover%202</controlName>
       </controlProperties>
@@ -33,7 +33,7 @@
           <controlProperties>
             <color>6710886</color>
             <direction>center</direction>
-            <icon>PencilIcon%7Cxsmall</icon>
+            <icon>SaveIcon%7Cxsmall</icon>
             <text/>
           </controlProperties>
         </control>

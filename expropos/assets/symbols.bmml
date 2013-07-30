@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1512" measuredH="3272" mockupW="1512" mockupH="3252">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2579" measuredH="3272" mockupW="2579" mockupH="3179">
   <controls>
     <control controlID="2" controlTypeID="__group__" x="0" y="95" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -1922,7 +1922,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="33" controlTypeID="__group__" x="60" y="20" w="1024" h="750" measuredW="1024" measuredH="750" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="__group__" x="1555" y="93" w="1024" h="750" measuredW="1024" measuredH="750" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>login%20background</controlName>
       </controlProperties>
@@ -1946,7 +1946,7 @@
         </control>
         <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="866" y="23" w="-1" h="-1" measuredW="130" measuredH="48" zOrder="3" locked="false" isInGroup="33">
           <controlProperties>
-            <icon>RightArrowIcon%7Clarge</icon>
+            <icon>GearIcon%7Clarge</icon>
             <labelPosition>right</labelPosition>
             <text>%u5207%u6362%u5176%u4ED6%u5546%u5E97</text>
           </controlProperties>
