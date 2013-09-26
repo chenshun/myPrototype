@@ -18,7 +18,7 @@
         <src>./assets/symbols.bmml#POS view</src>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="713" y="210" w="293" h="-1" measuredW="23" measuredH="45" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="713" y="210" w="293" h="-1" measuredW="25" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <size>40</size>

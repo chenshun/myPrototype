@@ -16,9 +16,12 @@
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="322" y="45" w="697" h="698" measuredW="529" measuredH="179" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>true</hasHeader>
         <rowHeight>36</rowHeight>
         <size>16</size>
         <text>%u65E5%u671F%20%5Ev%2C%20%u6210%u4EA4%u91D1%u989D%5Cr%u8D70%u5165%u987E%u5BA2%5Cr%u4F1A%u5458%20%5Ev%2C%20%u6210%u4EA4%u6570%u91CF%5Cr%u8D70%u5165%u987E%u5BA2%5Cr%u4F1A%u5458%20%5Ev%2C%u73B0%u91D1%u6D88%u8D39%2C%u50A8%u503C%u8D26%u6237%u6D88%u8D39%0A20130403%2C123456789.00%5Cr123456789.00%5Cr0.00%2C3678%5Cr3678%5Cr0%2C100000000.00%2C23456789.00%0A20130402%2C123456789.00%5Cr123456789.00%5Cr0.00%2C3678%5Cr3678%5Cr0%2C100000000.00%2C23456789.00%0A%7B0L%2C%200R%2C%200R%2C0R%2C0R%7D</text>
+        <vLines>false</vLines>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="562" y="265" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
@@ -26,7 +29,7 @@
         <text>%u9ED8%u8BA4%u662F%u4E00%u6708%u4EE5%u5185%u7684</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="45" w="322" h="44" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="86" w="322" h="44" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
         <color>2848996</color>

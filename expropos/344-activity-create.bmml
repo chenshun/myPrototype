@@ -104,5 +104,16 @@
         <src>./assets/symbols.bmml#shop</src>
       </controlProperties>
     </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RoundButton" x="322" y="0" w="699" h="45" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>13421772</borderColor>
+        <color>14540253</color>
+        <shape>rectangle</shape>
+        <size>18</size>
+        <text>%u6D3B%u52A8</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

@@ -21,7 +21,7 @@
         <text>%u54C1%u540D%5Cr%u7F16%u7801%20%5E%2CSKU%u578B%u53F7%2C%20%u9500%u91CF%20%5Ev%2C%20%u4EF7%u683C%2C%u9500%u552E%u989D%2C%u54C1%u724C%0AiPhone%204S%5Cr1001000%2C%20%u767D%u8272%20%u56FD%u884C%2C%202000%2C%203500.00%2C7000000.00%2CApple%0AiPhone%204S%5Cr1001000%2C%20%u9ED1%u8272%20%u56FD%u884C%2C%202000%2C%203500.00%2C7000000.00%2CApple%0A%7B0L%2C%200L%2C%200R%2C%200R%2C0R%2C0C%7D</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="84" w="316" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="125" w="316" h="46" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
         <color>2848996</color>

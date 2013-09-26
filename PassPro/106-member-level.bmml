@@ -1,0 +1,86 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1400" measuredH="840" mockupW="1400" mockupH="840">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="319" y="79" w="1042" h="761" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15658734</borderColor>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="319" y="79" w="1042" h="33" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <borderColor>6710886</borderColor>
+        <color>6710886</color>
+        <size>18</size>
+        <text>%20%20%20%20%20%20%u4F1A%u5458%u7B49%u7EA7%u8BBE%u7F6E</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="330" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>UserIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="319" y="151" w="1042" h="-1" measuredW="144" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>%u4F1A%u5458%u7B49%u7EA7%u4E0E%u6298%u6263%u6BD4%u4F8B</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="1321" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>WriteIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::DataGrid" x="591" y="224" w="498" h="292" measuredW="130" measuredH="245" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <hLines>false</hLines>
+        <rowHeight>60</rowHeight>
+        <text>%u7B49%u7EA7%u540D%u79F0%2C%u6298%u6263%u6BD4%u4F8B%0A%u767D%u94F6%2C90%0A%u9EC4%u91D1%2C80%0A%u94BB%u77F3%2C70</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1400" h="838" measuredW="1400" measuredH="838" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="3" x="0" y="0" w="1400" h="838"/>
+        <override controlID="5" x="129" y="149" w="100" h="21">
+          <color>0</color>
+          <size>13</size>
+          <text>%u4F1A%u5458%u7B49%u7EA7%u8BBE%u7F6E</text>
+        </override>
+        <override controlID="4" x="0" y="138" w="280" h="43"/>
+        <override controlID="3:1:0:1" x="0" y="0" w="280" h="43"/>
+        <override controlID="3:1:0:8" x="96" y="292" w="74" h="-1"/>
+        <override controlID="3:1:0:9" x="116" y="150" w="81" h="-1"/>
+        <override controlID="3:1:0:7" x="96" y="245" w="74" h="-1"/>
+        <override controlID="3:0:0" x="0" y="0" w="280" h="797"/>
+        <override controlID="3:1:0:16" x="96" y="600" w="74" h="-1"/>
+        <override controlID="3:1:0:14" x="96" y="555" w="74" h="-1"/>
+        <override controlID="3:1:0:2" x="1291" y="3" w="37" h="36"/>
+        <override controlID="3:1:0:15" x="96" y="387" w="74" h="-1"/>
+        <override controlID="3:1:0:11" x="96" y="426" w="86" h="-1"/>
+        <override controlID="3:1:0:13" x="96" y="512" w="74" h="-1"/>
+        <override controlID="3:1:0:19" x="96" y="338" w="74" h="-1"/>
+        <override controlID="3:1:0" x="0" y="0" w="1400" h="710"/>
+        <override controlID="3:0" x="0" y="41" w="280" h="797"/>
+        <override controlID="3:1" x="0" y="0" w="1400" h="710"/>
+        <override controlID="-1"/>
+        <override controlID="3:1:0:3" x="1328" y="12" w="72" h="31"/>
+        <override controlID="3:1:0:6" x="96" y="197" w="74" h="-1"/>
+        <override controlID="3:1:0:0" x="281" y="0" w="1119" h="43"/>
+        <override controlID="3:1:0:5" x="96" y="99" w="74" h="-1">
+          <text>%u4F1A%u5458%u7BA1%u7406</text>
+        </override>
+        <override controlID="3:1:0:17" x="96" y="643" w="74" h="-1"/>
+        <override controlID="3:1:0:12" x="96" y="469" w="74" h="-1"/>
+        <override controlID="3:1:0:18" x="96" y="686" w="74" h="-1"/>
+        <src>./assets/symbols.bmml#PassPro-menu</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
